@@ -1,0 +1,2477 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Appointment Hour Booking\n"
+"POT-Creation-Date: 2019-01-18 14:37+0100\n"
+"PO-Revision-Date: 2021-08-03 13:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/applimit.addon.php:127
+#, fuzzy
+msgid "The add-on adds support for limiting the number of appointments per user"
+msgstr "Tillegget legger til støtte for å begrense antall avtaler per bruker"
+
+#: addons/applimit.addon.php:298
+#, fuzzy
+msgid "Number of allowed appointments exceeded."
+msgstr "Antall tillatte avtaler overskredet."
+
+#: addons/authnet.addon.php:109
+#, fuzzy
+msgid "Enable Authorize.net SIM?"
+msgstr "Aktivere Authorize.net SIM?"
+
+#: addons/authnet.addon.php:111 addons/mollie.addon.php:62 addons/paypal.addon.php:74 addons/paypalpro.addon.php:80 addons/redsys.addon.php:88 addons/sagepay.addon.php:99
+#: addons/sagepayments.addon.php:83 addons/skrill.addon.php:69 addons/stripe.addon.php:80 addons/targetpay.ideal.addon.php:65 cp-admin-int.inc.php:542 cp-admin-int.inc.php:573
+#: cp-admin-int.inc.php:621 cp-admin-int.inc.php:691 cp-settings.inc.php:136
+msgid "No"
+msgstr "Nei"
+
+#: addons/authnet.addon.php:112 addons/frontend-lists.addon.php:273 addons/mollie.addon.php:63 addons/paypal.addon.php:75 addons/paypalpro.addon.php:81 addons/redsys.addon.php:89
+#: addons/sagepay.addon.php:100 addons/sagepayments.addon.php:84 addons/skrill.addon.php:70 addons/stripe.addon.php:81 addons/targetpay.ideal.addon.php:66 cp-admin-int.inc.php:541
+#: cp-admin-int.inc.php:572 cp-admin-int.inc.php:620 cp-admin-int.inc.php:692 cp-main-class.inc.php:301 cp-settings.inc.php:137
+msgid "Yes"
+msgstr "Ja"
+
+#: addons/authnet.addon.php:113 addons/mollie.addon.php:64 addons/paypal.addon.php:76 addons/paypalpro.addon.php:82 addons/redsys.addon.php:90 addons/sagepay.addon.php:101
+#: addons/sagepayments.addon.php:85 addons/skrill.addon.php:71 addons/stripe.addon.php:82 addons/targetpay.ideal.addon.php:67
+#, fuzzy
+msgid "Optional: This payment method + Pay Later (submit without payment)"
+msgstr "Valgfritt: Denne betalingsmåten + Betal senere (send uten betaling)"
+
+#: addons/authnet.addon.php:114 addons/mollie.addon.php:65 addons/paypal.addon.php:77 addons/paypalpro.addon.php:83 addons/redsys.addon.php:91 addons/sagepay.addon.php:102
+#: addons/sagepayments.addon.php:86 addons/skrill.addon.php:72 addons/stripe.addon.php:83 addons/targetpay.ideal.addon.php:68
+#, fuzzy
+msgid "Optional: This payment method + Other payment methods (enabled)"
+msgstr "Valgfritt: Denne betalingsmåten + Andre betalingsmåter (aktivert)"
+
+#: addons/authnet.addon.php:115 addons/mollie.addon.php:66 addons/paypal.addon.php:78 addons/paypalpro.addon.php:84 addons/redsys.addon.php:92 addons/sagepay.addon.php:103
+#: addons/sagepayments.addon.php:87 addons/skrill.addon.php:73 addons/stripe.addon.php:84 addons/targetpay.ideal.addon.php:69
+#, fuzzy
+msgid "Optional: This payment method + Other payment methods  + Pay Later "
+msgstr "Valgfritt: Denne betalingsmåten + Andre betalingsmåter + Betal senere"
+
+#: addons/authnet.addon.php:120
+msgid "Mode:"
+msgstr "Modus:"
+
+#: addons/authnet.addon.php:122
+#, fuzzy
+msgid "Prodution"
+msgstr "Prodution"
+
+#: addons/authnet.addon.php:123
+msgid "Test"
+msgstr "Test"
+
+#: addons/authnet.addon.php:128
+msgid "API Username"
+msgstr "API-brukernavn"
+
+#: addons/authnet.addon.php:132
+msgid "API Key"
+msgstr "API-nøkkel"
+
+#: addons/authnet.addon.php:137
+#, fuzzy
+msgid "Receipt URL:"
+msgstr "URL-adresse for mottak:"
+
+#: addons/authnet.addon.php:143 addons/paypal.addon.php:88 addons/skrill.addon.php:83
+#, fuzzy
+msgid "Cancel URL:"
+msgstr "Avbryt nettadressen:"
+
+#: addons/authnet.addon.php:153 addons/paypalpro.addon.php:542 addons/sagepay.addon.php:134
+msgid "First Name"
+msgstr "Fornavn"
+
+#: addons/authnet.addon.php:157 addons/paypalpro.addon.php:551 addons/sagepay.addon.php:138
+msgid "Last Name"
+msgstr "Etternavn"
+
+#: addons/authnet.addon.php:161
+msgid "Company"
+msgstr "Firma"
+
+#: addons/authnet.addon.php:165 addons/paypalpro.addon.php:622 addons/sagepay.addon.php:142
+msgid "Address"
+msgstr "Adresse"
+
+#: addons/authnet.addon.php:169 addons/paypalpro.addon.php:627 addons/sagepay.addon.php:146
+msgid "City"
+msgstr "Poststed"
+
+#: addons/authnet.addon.php:173
+msgid "State/Province"
+msgstr "Fylke"
+
+#: addons/authnet.addon.php:177 addons/paypalpro.addon.php:657 addons/sagepay.addon.php:154
+msgid "Country"
+msgstr "Land"
+
+#: addons/authnet.addon.php:181 addons/sagepay.addon.php:158
+msgid "Zip/Postal Code"
+msgstr "Postnummer"
+
+#: addons/authnet.addon.php:185 cp-admin-int-message-list.inc.php:150 cp-admin-int-schedule.inc.php:80
+msgid "Email"
+msgstr "E-post"
+
+#: addons/authnet.addon.php:189
+msgid "Phone"
+msgstr "Telefon"
+
+#: addons/authnet.addon.php:193
+msgid "Fax"
+msgstr "Faks"
+
+#: addons/authnet.addon.php:217
+#, fuzzy
+msgid "The add-on adds support for Authorize.net Server Integration Method payments"
+msgstr "Tillegget legger til støtte for Authorize.net betalinger for Server Integration Method"
+
+#: addons/authnet.addon.php:339
+#, fuzzy
+msgid "Pay with Authorize.net"
+msgstr "Betal med Authorize.net"
+
+#: addons/cancellation.addon.php:159
+#, fuzzy
+msgid "The add-on adds support for cancellation links for bookings"
+msgstr "Tillegget legger til støtte for avbestillingskoblinger for bestillinger"
+
+#: addons/cancellation.addon.php:264
+msgid "Cancellation"
+msgstr "Kansellering"
+
+#: addons/cancellation.addon.php:266
+msgid "Please enter the following security code to confirm the cancellation:"
+msgstr "Vennligst oppgi sikkerhetskoden:"
+
+#: addons/cancellation.addon.php:269 cp-public-int.inc.php:29
+msgid "Please enter the security code"
+msgstr "Vennligst oppgi sikkerhetskoden"
+
+#: addons/cancellation.addon.php:271
+msgid "Cancel Booking"
+msgstr "Stopp booking"
+
+#: addons/cancellation.addon.php:273
+msgid "Incorrect verification code"
+msgstr "Feil bekreftelseskode"
+
+#: addons/clickatell.addon.php:63
+#, fuzzy
+msgid "Clickatell enabled"
+msgstr "Clickatell aktivert"
+
+#: addons/clickatell.addon.php:67
+#, fuzzy
+msgid "Account API Key"
+msgstr "Nøkkel for KONTO-API"
+
+#: addons/clickatell.addon.php:71
+#, fuzzy
+msgid "Authentication Token"
+msgstr "Godkjenning token"
+
+#: addons/clickatell.addon.php:75
+#, fuzzy
+msgid "From Phone Number"
+msgstr "Fra Telefonnummer"
+
+#: addons/clickatell.addon.php:80
+#, fuzzy
+msgid "To Phone Number"
+msgstr "Angi et gyldig telefonnummer"
+
+#: addons/clickatell.addon.php:83
+#, fuzzy
+msgid "For sending multiple messages, separate the phone numbers by comma symbols."
+msgstr "For å sende flere meldinger, skille telefonnumrene med kommasymboler."
+
+#: addons/clickatell.addon.php:87 addons/clickatell.addon.php:103 cp-admin-int-message-list.inc.php:151 cp-admin-int.inc.php:558 cp-admin-int.inc.php:596
+msgid "Message"
+msgstr "Melding"
+
+#: addons/clickatell.addon.php:90 addons/clickatell.addon.php:106
+#, fuzzy
+msgid "It is possible to use the same <a href=\"https://form2email.dwbooster.com/faq#q81\" target=\"_blank\">special tags</a> than in notifications emails."
+msgstr "Det er mulig å bruke de samme spesielle <a href=\"https://form2email.dwbooster.com/faq#q81\" target=\"_blank\">kodene enn i</a> varsler e-post."
+
+#: addons/clickatell.addon.php:94
+#, fuzzy
+msgid "Copy to the users"
+msgstr "Kopier til brukerne"
+
+#: addons/clickatell.addon.php:96
+#, fuzzy
+msgid "To Phone fields"
+msgstr "Til Telefon-felt"
+
+#: addons/clickatell.addon.php:99
+#, fuzzy
+msgid "For sending multiple messages, separate the phone fields by comma symbols."
+msgstr "For å sende flere meldinger, skill telefonfeltene etter kommasymboler."
+
+#: addons/clickatell.addon.php:128
+#, fuzzy
+msgid "The add-on allows to send notification messages (SMS) via Clickatell after submitting the form"
+msgstr "Tillegget gjør det mulig å sende meldinger (SMS) via Clickatell etter at du har sendt inn skjemaet"
+
+#: addons/coupons.addon.php:107
+#, fuzzy
+msgid "The add-on adds support for coupons / discounts codes"
+msgstr "Tillegget legger til støtte for kuponger / rabatter koder"
+
+#: addons/coupons.addon.php:184
+msgid "Coupon code"
+msgstr "Kupongkode"
+
+#: addons/frontend-lists.addon.php:80
+#, fuzzy
+msgid "The add-on allows to displays list (schedule) of bookings grouped by date in the frontend"
+msgstr "Tillegget gjør det mulig å vise liste (tidsplan) over bestillinger gruppert etter dato i frontend"
+
+#: addons/frontend-lists.addon.php:158 cp-admin-int-schedule.inc.php:76
+msgid "Date"
+msgstr "Dato"
+
+#: addons/frontend-lists.addon.php:207
+msgid "No bookings found"
+msgstr "Ingen bestilling funnet"
+
+#: addons/frontend-lists.addon.php:212
+msgid "Are you sure you want to delete this item?"
+msgstr "Er du sikker på at du vil slette dette?"
+
+#: addons/frontend-lists.addon.php:264 cp-main-class.inc.php:200 cp-main-class.inc.php:292
+msgid "Approved"
+msgstr "Godkjent"
+
+#: addons/frontend-lists.addon.php:281
+msgid "delete"
+msgstr "slette"
+
+#: addons/icalexport.addon.php:82
+#, fuzzy
+msgid "iCal timezone difference vs server time"
+msgstr "iCal tidssone forskjell vs server tid"
+
+#: addons/icalexport.addon.php:93
+#, fuzzy
+msgid "Observe daylight saving time?"
+msgstr "Observere sommertid?"
+
+#: addons/icalexport.addon.php:101
+#, fuzzy
+msgid "Daylight saving time zone"
+msgstr "Sommertid sone"
+
+#: addons/icalexport.addon.php:109
+#, fuzzy
+msgid "Attach iCal file to notification emails?"
+msgstr "Legge ved iCal-filen i e-postmeldinger?"
+
+#: addons/icalexport.addon.php:119
+#, fuzzy
+msgid "iCal entry summary"
+msgstr "Sammendrag av iCal-oppføring"
+
+#: addons/icalexport.addon.php:126
+#, fuzzy
+msgid "iCal entry description"
+msgstr "beskrivelse av iCal-oppføring"
+
+#: addons/icalexport.addon.php:151
+#, fuzzy
+msgid "The add-on adds support for exporting iCal files."
+msgstr "Tillegget legger til støtte for eksport av iCal-filer."
+
+#: addons/icalimport.addon.php:97
+#, fuzzy
+msgid "The add-on adds support for importing iCal files from external websites/services"
+msgstr "Tillegget legger til støtte for import av iCal-filer fra eksterne nettsteder/tjenester"
+
+#: addons/icalimport.addon.php:213 cp-main-class.inc.php:1071
+msgid "Appointments"
+msgstr "Avtaler"
+
+#: addons/mailchimp.addon.php:83
+#, fuzzy
+msgid "API KEY"
+msgstr "API-NØKKEL"
+
+#: addons/mailchimp.addon.php:85
+msgid "Get Lists"
+msgstr "Hent lister"
+
+#: addons/mailchimp.addon.php:88
+msgid "List ID"
+msgstr "Liste-ID"
+
+#: addons/mailchimp.addon.php:92
+#, fuzzy
+msgid "Get Fields and Groups"
+msgstr "Få felt og grupper"
+
+#: addons/mailchimp.addon.php:99
+msgid "Form Fields"
+msgstr "Skjemafelt"
+
+#: addons/mailchimp.addon.php:116 addons/mailchimp.addon.php:170
+#, fuzzy
+msgid "There are not fields selected"
+msgstr "Det er ikke valgt felt"
+
+#: addons/mailchimp.addon.php:122
+msgid "Groups"
+msgstr "Grupper"
+
+#: addons/mailchimp.addon.php:147 addons/mailchimp.addon.php:171
+#, fuzzy
+msgid "There are not groups selected"
+msgstr "Det er ikke valgt grupper"
+
+#: addons/mailchimp.addon.php:154
+#, fuzzy
+msgid "Status If New"
+msgstr "Status Hvis ny"
+
+#: addons/mailchimp.addon.php:157
+msgid "Pending"
+msgstr "Venter"
+
+#: addons/mailchimp.addon.php:158
+msgid "Subscribed"
+msgstr "Påmeldt"
+
+#: addons/mailchimp.addon.php:166
+#, fuzzy
+msgid "Invalid API KEY"
+msgstr "Ugyldig API-NØKKEL"
+
+#: addons/mailchimp.addon.php:167
+#, fuzzy
+msgid "Select a List"
+msgstr "Velg en liste"
+
+#: addons/mailchimp.addon.php:168
+#, fuzzy
+msgid "Select a List ID"
+msgstr "Velg en liste-ID"
+
+#: addons/mailchimp.addon.php:169
+#, fuzzy
+msgid "Create at least a list in your MailChimp account"
+msgstr "Opprett minst en liste i MailChimp-kontoen din"
+
+#: addons/mailchimp.addon.php:190
+#, fuzzy
+msgid "The add-on creates MailChimp List members with the submitted information"
+msgstr "Tillegget oppretter MailChimp List-medlemmer med den innsendte informasjonen"
+
+#: addons/mailchimp.addon.php:363
+msgid "Please select..."
+msgstr "Vennligst velg ..."
+
+#: addons/mollie.addon.php:60
+#, fuzzy
+msgid "Enable iDeal-Mollie? (if enabled PayPal Standard is disabled)"
+msgstr "Aktivere iDeal-Mollie? (hvis aktivert PayPal Standard er deaktivert)"
+
+#: addons/mollie.addon.php:71
+#, fuzzy
+msgid "Mollie API Key"
+msgstr "Mollie API Nøkkel"
+
+#: addons/mollie.addon.php:75 addons/targetpay.ideal.addon.php:78
+#, fuzzy
+msgid "If payment fails return to this page"
+msgstr "Hvis betalingen ikke går tilbake til denne siden"
+
+#: addons/mollie.addon.php:99
+#, fuzzy
+msgid "The add-on adds support for iDeal via Mollie payments"
+msgstr "Tillegget legger til støtte for iDeal via Mollie-betalinger"
+
+#: addons/mollie.addon.php:195
+#, fuzzy
+msgid "Pay with iDeal/Mollie"
+msgstr "Betal med iDeal/Mollie"
+
+#: addons/paypal.addon.php:72
+#, fuzzy
+msgid "Enable PayPal Standard Payments?"
+msgstr "Aktivere Standardbetalinger for PayPal?"
+
+#: addons/paypal.addon.php:83
+#, fuzzy
+msgid "PayPal Standard Email"
+msgstr "PayPal Standard e-post"
+
+#: addons/paypal.addon.php:94 addons/skrill.addon.php:89
+msgid "Currency:"
+msgstr "Valuta"
+
+#: addons/paypal.addon.php:129
+#, fuzzy
+msgid "Paypal language"
+msgstr "Paypal språk"
+
+#: addons/paypal.addon.php:133 addons/paypalpro.addon.php:117
+#, fuzzy
+msgid "Paypal Mode"
+msgstr "Paypal-modus"
+
+#: addons/paypal.addon.php:161
+#, fuzzy
+msgid "The add-on adds support for PayPal Standard payments"
+msgstr "Tillegget legger til støtte for PayPal Standard-betalinger"
+
+#: addons/paypal.addon.php:224
+msgid "Pay with PayPal"
+msgstr "Betal med PayPal"
+
+#: addons/paypalpro.addon.php:78
+#, fuzzy
+msgid "Enable PayPal Pro? (if enabled PayPal Standard is disabled)"
+msgstr "Aktivere PayPal Pro? (hvis aktivert PayPal Standard er deaktivert)"
+
+#: addons/paypalpro.addon.php:89
+#, fuzzy
+msgid "PayPal Pro - API UserName"
+msgstr "PayPal Pro - API brukernavn"
+
+#: addons/paypalpro.addon.php:93
+#, fuzzy
+msgid "PayPal Pro - API Password"
+msgstr "PayPal Pro - API-passord"
+
+#: addons/paypalpro.addon.php:97
+#, fuzzy
+msgid "PayPal Pro - API Signature"
+msgstr "PayPal Pro – API-signatur"
+
+#: addons/paypalpro.addon.php:101
+#, fuzzy
+msgid "PayPal Pro - Currency"
+msgstr "PayPal Pro - Valuta"
+
+#: addons/paypalpro.addon.php:105
+msgid "Billing Period"
+msgstr "Faktureringsperiode"
+
+#: addons/paypalpro.addon.php:107
+#, fuzzy
+msgid "One-time payment"
+msgstr "Engangsbetaling"
+
+#: addons/paypalpro.addon.php:108
+msgid "Daily"
+msgstr "Daglig"
+
+#: addons/paypalpro.addon.php:109
+msgid "Weekly"
+msgstr "Ukentlig"
+
+#: addons/paypalpro.addon.php:110
+#, fuzzy
+msgid "SemiMonth"
+msgstr "Denne semimåned"
+
+#: addons/paypalpro.addon.php:111
+msgid "Monthly"
+msgstr "Månedlig"
+
+#: addons/paypalpro.addon.php:112
+msgid "Yearly"
+msgstr "Årlig"
+
+#: addons/paypalpro.addon.php:119 addons/redsys.addon.php:112 addons/sagepay.addon.php:120
+#, fuzzy
+msgid "Production - real payments processed"
+msgstr "Produksjon - reelle betalinger behandlet"
+
+#: addons/paypalpro.addon.php:120
+#, fuzzy
+msgid "SandBox - PayPal testing sandbox area"
+msgstr "SandBox - PayPal testing sandkasse området"
+
+#: addons/paypalpro.addon.php:125
+msgid "Default Country"
+msgstr "Standardland"
+
+#: addons/paypalpro.addon.php:398
+#, fuzzy
+msgid "The add-on adds support for PayPal Payment Pro payments to accept credit cars directly into the website"
+msgstr "Tillegget legger til støtte for PayPal Payment Pro-betalinger for å godta kredittbiler direkte på nettstedet"
+
+#: addons/paypalpro.addon.php:564
+msgid "Credit Card Number"
+msgstr "Kredittkortnummer"
+
+#: addons/paypalpro.addon.php:573
+#, fuzzy
+msgid "CVV Number"
+msgstr "CVV-nummer"
+
+#: addons/paypalpro.addon.php:586
+msgid "Card Type"
+msgstr "Korttype"
+
+#: addons/paypalpro.addon.php:595
+msgid "Expiration"
+msgstr "Utløpsdato"
+
+#: addons/paypalpro.addon.php:636
+msgid "County"
+msgstr "Fylke"
+
+#: addons/paypalpro.addon.php:645
+msgid "Post Code"
+msgstr "Postnummer"
+
+#: addons/paypalpro.addon.php:944 addons/stripe.addon.php:273
+#, fuzzy
+msgid "Pay with Credit Cards"
+msgstr "Betal med kredittkort"
+
+#: addons/recaptcha.addon.php:31
+msgid "Site Key"
+msgstr "\"Site\" nøkkel"
+
+#: addons/recaptcha.addon.php:37 addons/stripe.addon.php:93
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: addons/recaptcha.addon.php:65
+#, fuzzy
+msgid "The add-on allows to protect the forms with reCAPTCHA service of Google"
+msgstr "Tillegget gjør det mulig å beskytte skjemaene med reCAPTCHA-tjenesten til Google"
+
+#: addons/recaptcha.addon.php:207
+#, fuzzy
+msgid "Captcha verification is missing."
+msgstr "Captcha-verifisering mangler."
+
+#: addons/recaptcha.addon.php:223
+#, fuzzy
+#| msgid "Incorrect captcha code. Please try again."
+msgid "Captcha verification failed. Please try again."
+msgstr "Feil captcha-kode. Vennligst prøv igjen."
+
+#: addons/redsys.addon.php:86
+#, fuzzy
+msgid "Enable TPV?"
+msgstr "Aktivere TPV?"
+
+#: addons/redsys.addon.php:94
+#, fuzzy
+msgid "Note: If \"Pay Later\" or \"PayPal\" are selected, a radiobutton will appear in the form to select if the payment will be made with RedSys or not."
+msgstr "Merk: Hvis «Betal senere» eller «PayPal» er valgt, vises en radioknapp i skjemaet for å velge om betalingen skal gjøres med RedSys eller ikke."
+
+#: addons/redsys.addon.php:96
+#, fuzzy
+msgid "Label for the \"<strong>Pay with RedSys</strong>\" option"
+msgstr "Etikett for alternativet<strong>\"Betal med RedSys\"</strong>"
+
+#: addons/redsys.addon.php:102
+#, fuzzy
+msgid "C&Oacute;DIGO COMERCIO"
+msgstr "CÓDIGO COMERCIO"
+
+#: addons/redsys.addon.php:106
+#, fuzzy
+msgid "CLAVE SECRETA"
+msgstr "CLAVE SECRETA"
+
+#: addons/redsys.addon.php:110 addons/sagepay.addon.php:118
+msgid "Mode"
+msgstr "Modus"
+
+#: addons/redsys.addon.php:113 addons/sagepay.addon.php:121
+#, fuzzy
+msgid "SandBox - Testing sandbox area"
+msgstr "SandBox - Testing sandkasse område"
+
+#: addons/redsys.addon.php:141
+#, fuzzy
+msgid "The add-on adds support for RedSys TPV payments"
+msgstr "Tillegget legger til støtte for RedSys TPV-betalinger"
+
+#: addons/reminder.addon.php:125
+#, fuzzy
+msgid "The add-on adds support for reminder notifications"
+msgstr "Tillegget legger til støtte for påminnelsesvarsler"
+
+#: addons/sagepay.addon.php:97
+#, fuzzy
+msgid "Enable SagePay? (if enabled PayPal Standard is disabled)"
+msgstr "Aktivere SagePay? (hvis aktivert PayPal Standard er deaktivert)"
+
+#: addons/sagepay.addon.php:108
+msgid "Vendor ID"
+msgstr "Leverandør ID"
+
+#: addons/sagepay.addon.php:113
+#, fuzzy
+msgid " SagePay Encrypt Password"
+msgstr "SagePay Krypter passord"
+
+#: addons/sagepay.addon.php:126
+#, fuzzy
+msgid "SagePay - Currency"
+msgstr "SagePay - Valuta"
+
+#: addons/sagepay.addon.php:150
+msgid "State"
+msgstr "Fylke"
+
+#: addons/sagepay.addon.php:181
+#, fuzzy
+msgid "The add-on adds support for SagePay payments"
+msgstr "Tillegget legger til støtte for SagePay-betalinger"
+
+#: addons/sagepay.addon.php:283
+#, fuzzy
+msgid "Pay with SagePay"
+msgstr "Betal med SagePay"
+
+#: addons/sagepayments.addon.php:81
+#, fuzzy
+msgid "Enable SagePayments? (if enabled PayPal Standard is disabled)"
+msgstr "Aktivere SagePayments? (hvis aktivert PayPal Standard er deaktivert)"
+
+#: addons/sagepayments.addon.php:92
+#, fuzzy
+msgid "Merchant ID (M_id)"
+msgstr "Selger-ID (M_id)"
+
+#: addons/sagepayments.addon.php:102
+#, fuzzy
+msgid "Shipping/Freight:"
+msgstr "Frakt/frakt:"
+
+#: addons/sagepayments.addon.php:107
+msgid "Tax:"
+msgstr "MVA:"
+
+#: addons/sagepayments.addon.php:111
+msgid "First Name:"
+msgstr "Fornavn:"
+
+#: addons/sagepayments.addon.php:115
+msgid "Last Name:"
+msgstr "Etternavn:"
+
+#: addons/sagepayments.addon.php:119
+msgid "Address:"
+msgstr "Adresse:"
+
+#: addons/sagepayments.addon.php:123
+msgid "City:"
+msgstr "Poststed:"
+
+#: addons/sagepayments.addon.php:127
+msgid "State:"
+msgstr "Fylke:"
+
+#: addons/sagepayments.addon.php:131
+#, fuzzy
+msgid "ZIP:"
+msgstr "Zip:"
+
+#: addons/sagepayments.addon.php:135
+msgid "Email:"
+msgstr "E-post:"
+
+#: addons/sagepayments.addon.php:139
+msgid "Telephone:"
+msgstr "Telefon:"
+
+#: addons/sagepayments.addon.php:163
+#, fuzzy
+msgid "The add-on adds support for SagePayments payments"
+msgstr "Tillegget legger til støtte for SagePayments-betalinger"
+
+#: addons/sagepayments.addon.php:266
+#, fuzzy
+msgid "Pay with SagePayments"
+msgstr "Betal med SagePayments"
+
+#: addons/salesforce.addon.php:65
+#, fuzzy
+msgid "Organizational ID"
+msgstr "Organisasjons-ID"
+
+#: addons/salesforce.addon.php:69
+#, fuzzy
+msgid "Enabling debug"
+msgstr "Aktivere feilsøking"
+
+#: addons/salesforce.addon.php:73
+#, fuzzy
+msgid "Debug email"
+msgstr "Feilsøke e-post"
+
+#: addons/salesforce.addon.php:76
+#, fuzzy
+msgid "Lead Attributes"
+msgstr "Attributter for kundeemne"
+
+#: addons/salesforce.addon.php:184
+#, fuzzy
+msgid "The add-on allows create SalesForce leads with the submitted information"
+msgstr "Tillegget gjør det mulig å opprette SalesForce-kundeemner med den innsendte informasjonen"
+
+#: addons/signature.addon.php:109
+#, fuzzy
+msgid "Signature Settings"
+msgstr "Signaturinnstillinger"
+
+#: addons/signature.addon.php:112
+msgid "Color"
+msgstr "Farge"
+
+#: addons/signature.addon.php:116
+#, fuzzy
+msgid "Line thickness"
+msgstr "Linjetykkelse"
+
+#: addons/signature.addon.php:120
+#, fuzzy
+msgid "Show guideline"
+msgstr "Vis retningslinje"
+
+#: addons/signature.addon.php:124
+#, fuzzy
+msgid "Guideline color"
+msgstr "Retningslinjefarge"
+
+#: addons/signature.addon.php:143 addons/signature.addon.php:222
+msgid "Field name"
+msgstr "Feltnavn"
+
+#: addons/signature.addon.php:143 addons/signature.addon.php:226
+#, fuzzy
+msgid "Enter the field name to be reaplaced by the signature"
+msgstr "Skriv inn feltnavnet som skal gjeninnses av signaturen"
+
+#: addons/signature.addon.php:173
+#, fuzzy
+msgid "The add-on allows to replace form fields with \"Signature\" fields"
+msgstr "Tillegget gjør det mulig å erstatte skjemafelt med \"Signatur\"-felt"
+
+#: addons/skrill.addon.php:67
+#, fuzzy
+msgid "Enable Skrill Payments?"
+msgstr "Aktivere Skrill-betalinger?"
+
+#: addons/skrill.addon.php:78
+msgid "Skrill Email"
+msgstr "Skrill e-post"
+
+#: addons/skrill.addon.php:113
+#, fuzzy
+msgid "The add-on adds support for Skrill payments"
+msgstr "Tillegget gir støtte for Skrill-betalinger"
+
+#: addons/skrill.addon.php:174
+#, fuzzy
+msgid "Pay with Skrill"
+msgstr "Betal med Skrill"
+
+#: addons/status_update_emails.addon.php:169
+#, fuzzy
+msgid "The add-on allows to define emails to be sent when the booking status is changed from the bookings list"
+msgstr "Tillegget gjør det mulig å definere e-postmeldinger som skal sendes når bestillingsstatusen endres fra bestillingslisten"
+
+#: addons/stripe.addon.php:78
+#, fuzzy
+msgid "Enable Stripe?"
+msgstr "Aktivere Stripe?"
+
+#: addons/stripe.addon.php:89
+#, fuzzy
+msgid "click to get the your stripe key"
+msgstr "klikk for å få stripetasten"
+
+#: addons/stripe.addon.php:89
+msgid "Publishable Key"
+msgstr "Publiserbar nøkkel"
+
+#: addons/stripe.addon.php:93
+#, fuzzy
+msgid "click to get the your stripe secret key"
+msgstr "Klikk for å få stripe hemmelig nøkkel"
+
+#: addons/stripe.addon.php:97
+#, fuzzy
+msgid "Stripe - Currency"
+msgstr "Stripe - Valuta"
+
+#: addons/stripe.addon.php:101
+#, fuzzy
+msgid "Payment frequency?"
+msgstr "Betalingsfrekvens?"
+
+#: addons/stripe.addon.php:103
+#, fuzzy
+msgid "One time payment"
+msgstr "Engangsbetaling"
+
+#: addons/stripe.addon.php:104
+#, fuzzy
+msgid "Daily (subcription)"
+msgstr "Daglig (subcription)"
+
+#: addons/stripe.addon.php:105
+#, fuzzy
+msgid "Weekly (subscription)"
+msgstr "Ukentlig (abonnement)"
+
+#: addons/stripe.addon.php:106
+#, fuzzy
+msgid "Monthly (subscription)"
+msgstr "Månedlig (abonnement)"
+
+#: addons/stripe.addon.php:107
+#, fuzzy
+msgid "Yearly (subscription)"
+msgstr "Årlig (abonnement)"
+
+#: addons/stripe.addon.php:112
+#, fuzzy
+msgid "Trial period length in days for subscription payments"
+msgstr "Varighet av prøveperioden i dager for abonnementsbetalinger"
+
+#: addons/stripe.addon.php:116
+#, fuzzy
+msgid "Plan name for subscription payments"
+msgstr "Plannavn for abonnementsbetalinger"
+
+#: addons/stripe.addon.php:142
+#, fuzzy
+msgid "The add-on adds support for Stripe payments"
+msgstr "Tillegget legger til støtte for Stripe-betalinger"
+
+#: addons/targetpay.ideal.addon.php:63
+#, fuzzy
+msgid "Enable iDeal-TargetPay?"
+msgstr "Aktivere iDeal-TargetPay?"
+
+#: addons/targetpay.ideal.addon.php:74
+#, fuzzy
+msgid "RTLO Subaccount ID"
+msgstr "RTLO-underkonto-ID"
+
+#: addons/targetpay.ideal.addon.php:82
+#, fuzzy
+msgid "Payments Mode"
+msgstr "Betalingsmodus"
+
+#: addons/targetpay.ideal.addon.php:84
+msgid "Test Mode"
+msgstr "Testmodus"
+
+#: addons/targetpay.ideal.addon.php:85
+#, fuzzy
+msgid "Production - Real Payments"
+msgstr "Produksjon - Ekte betalinger"
+
+#: addons/targetpay.ideal.addon.php:109
+#, fuzzy
+msgid "The add-on adds support for iDeal via TargetPay payments"
+msgstr "Tillegget legger til støtte for iDeal via TargetPay-betalinger"
+
+#: addons/targetpay.ideal.addon.php:220
+#, fuzzy
+msgid "Pay with iDeal/TargetPay"
+msgstr "Betal med iDeal/TargetPay"
+
+#: addons/timezoneconversion.addon.php:106
+#, fuzzy
+msgid "The add-on applies the timezone conversion to display the time-slots in the customer timezone"
+msgstr "Tillegget bruker tidssonekonverteringen for å vise tidslukene i kundetidssonen"
+
+#: addons/twiliosms.addon.php:124
+#, fuzzy
+msgid "The add-on adds support for Twilio SMS notifications"
+msgstr "Tillegget legger til støtte for Twilio SMS-varsler"
+
+#: addons/uploads.addon.php:32
+#, fuzzy
+msgid "Add the uploaded files to the media library"
+msgstr "Legge til de opplastede filene i mediebiblioteket"
+
+#: addons/uploads.addon.php:36
+#, fuzzy
+msgid "Add Custom Media Types"
+msgstr "Legge til egendefinerte medietyper"
+
+#: addons/uploads.addon.php:43
+#, fuzzy
+msgid "Adds the files extensions separated by comma: <strong>svg,xml,zip</strong>"
+msgstr "Legger til filtyper atskilt med komma: <strong>svg, xml, zip</strong>"
+
+#: addons/uploads.addon.php:757
+#, fuzzy
+msgid "The add-on allows to add the uploaded files to the Media Library, and the support for new mime types"
+msgstr "Tillegget gjør det mulig å legge til de opplastede filene i mediebiblioteket, og støtten for nye mime-typer"
+
+#: addons/webhook.addon.php:67
+#, fuzzy
+msgid "WebHook URL"
+msgstr "Url-adresse for WebHook"
+
+#: addons/webhook.addon.php:119
+#, fuzzy
+msgid "The add-on allows put the submitted information to a webhook URL, and integrate the forms with the Zapier service"
+msgstr "Tillegget gjør det mulig å plassere den innsendte informasjonen til en webhook URL, og integrere skjemaene med Zapier-tjenesten"
+
+#: addons/woocommerce.addon.php:26
+#, fuzzy
+msgid "The add-on allows integrate the forms with WooCommerce products"
+msgstr "Tillegget gjør det mulig å integrere skjemaene med WooCommerce-produkter"
+
+#: addons/woocommerce.addon.php:235 cp-admin-int-schedule.inc.php:81
+msgid "Data"
+msgstr "Data"
+
+#: addons/woocommerce.addon.php:370
+#, fuzzy
+msgid "Contact Form to Email"
+msgstr "Kontaktskjema til e-post"
+
+#: addons/woocommerce.addon.php:388
+#, fuzzy
+msgid "Enter the ID of the form"
+msgstr "Angi ID-en for skjemaet"
+
+#: addons/woocommerce.addon.php:396
+#, fuzzy
+msgid "Calculate the product price through the form"
+msgstr "Beregn produktprisen gjennom skjemaet"
+
+#: addons/woocommerce.addon.php:404
+#, fuzzy
+msgid "Minimum price allowed (numbers only)"
+msgstr "Tillatt minimumspris (kun tall)"
+
+#: addons/woocommerce.addon.php:412
+#, fuzzy
+msgid "The summary section is optional. It is possible to use the special tags supported by the notification emails."
+msgstr "Sammendragsdelen er valgfri. Det er mulig å bruke de spesielle taggene som støttes av varslings-e-postene."
+
+#: addons/woocommerce.addon.php:417
+#, fuzzy
+msgid "Activate the summary"
+msgstr "Aktivere sammendraget"
+
+#: addons/woocommerce.addon.php:425
+#, fuzzy
+msgid "Summary title"
+msgstr "Sammendragstittel"
+
+#: addons/woocommerce.addon.php:433
+msgid "Summary"
+msgstr "Sammendrag"
+
+#: controllers/elementor/cp-elementor-widget.inc.php:54
+#, fuzzy
+msgid "CodePeople"
+msgstr "Kodefolk"
+
+#: controllers/elementor/elementorwidget_class.inc.php:82 cp-main-class.inc.php:623 cp-main-class.inc.php:625
+#, fuzzy
+msgid "Insert Appointment Hour Booking"
+msgstr "Sett inn timebestilling for avtale"
+
+#: controllers/elementor/elementorwidget_class.inc.php:96
+msgid "Select Form"
+msgstr "Velg skjema"
+
+#: cp-addons.inc.php:129
+#, fuzzy
+msgid "Appointment Hour Booking - Add Ons"
+msgstr "Timebestilling for avtale - Tillegg"
+
+#: cp-addons.inc.php:135 cp-admin-int-add-booking.inc.php:36 cp-admin-int-message-list.inc.php:93 cp-admin-int-message-list.inc.php:201 cp-admin-int-report.inc.php:114
+#: cp-admin-int-report.inc.php:233 cp-admin-int-schedule.inc.php:35 cp-admin-int-schedule.inc.php:103 cp-admin-int.inc.php:69 cp-admin-int.inc.php:774 cp-publish-wizzard.inc.php:35
+#, fuzzy
+msgid "Return to the calendars list"
+msgstr "Gå tilbake til kalenderlisten"
+
+#: cp-addons.inc.php:144
+#, fuzzy
+msgid "Active Add Ons"
+msgstr "Aktive tillegg"
+
+#: cp-addons.inc.php:161
+msgid "Top"
+msgstr "Topp"
+
+#: cp-admin-int-add-booking.inc.php:33 cp-admin-int-list.inc.php:221
+msgid "Add Booking"
+msgstr "Legg til bestilling"
+
+#: cp-admin-int-add-booking.inc.php:40
+#, fuzzy
+msgid "This page is for adding bookings from the administration area. The captcha and payment process are disabled in order to allow the website manager easily adding bookings."
+msgstr "Denne siden er for å legge til bestillinger fra administrasjonsområdet. Captcha og betalingsprosessen er deaktivert for å tillate nettstedet manager enkelt legge bestillinger."
+
+#: cp-admin-int-list.inc.php:92
+#, fuzzy
+msgid "Access verification error. Cannot update settings."
+msgstr "Tilgang til bekreftelsesfeil. Kan ikke oppdatere innstillingene."
+
+#: cp-admin-int-list.inc.php:96
+#, fuzzy
+msgid "License ID updated"
+msgstr "Lisens-ID oppdatert"
+
+#: cp-admin-int-list.inc.php:185
+msgid "New Calendar"
+msgstr "Nieuwe kalender"
+
+#: cp-admin-int-list.inc.php:186
+msgid "Calendar Name"
+msgstr "Kalendernan"
+
+#: cp-admin-int-list.inc.php:187
+msgid "Add New"
+msgstr "Legg til ny"
+
+#: cp-admin-int-list.inc.php:192
+msgid "Calendars List"
+msgstr "Kalenderliste"
+
+#: cp-admin-int-list.inc.php:199 cp-admin-int-message-list.inc.php:148
+msgid "ID"
+msgstr "ID"
+
+#: cp-admin-int-list.inc.php:199
+msgid "Form Name"
+msgstr "Skjemanavn"
+
+#: cp-admin-int-list.inc.php:199 cp-admin-int-message-list.inc.php:153
+msgid "Options"
+msgstr "Innstillinger"
+
+#: cp-admin-int-list.inc.php:199
+#, fuzzy
+msgid "Shortcode for Pages and Posts"
+msgstr "Kortkode for sider og innlegg"
+
+#: cp-admin-int-list.inc.php:215
+msgid "Rename"
+msgstr "Endre navn"
+
+#: cp-admin-int-list.inc.php:216 cp-admin-int.inc.php:58
+msgid "Edit"
+msgstr "Rediger"
+
+#: cp-admin-int-list.inc.php:217
+msgid "Publish"
+msgstr "Publiser"
+
+#: cp-admin-int-list.inc.php:219 cp-admin-int-message-list.inc.php:90
+#, fuzzy
+msgid "Booking Orders"
+msgstr "Bestilling bestillinger"
+
+#: cp-admin-int-list.inc.php:220 cp-admin-int-schedule.inc.php:26
+msgid "Schedule"
+msgstr "Tidsplan"
+
+#: cp-admin-int-list.inc.php:222 cp-admin-int-report.inc.php:111
+msgid "Stats"
+msgstr "Statistikk"
+
+#: cp-admin-int-list.inc.php:224
+msgid "Clone"
+msgstr "Klone"
+
+#: cp-admin-int-list.inc.php:225
+msgid "Delete"
+msgstr "Slett"
+
+#: cp-admin-int-list.inc.php:311
+msgid "Plugin License"
+msgstr "Plugin licentie"
+
+#: cp-admin-int-list.inc.php:316
+msgid "License ID"
+msgstr "Lisens-ID"
+
+#: cp-admin-int-list.inc.php:318
+#, fuzzy
+msgid "Website ID"
+msgstr "Nettsted-ID"
+
+#: cp-admin-int-list.inc.php:321
+msgid "License Status"
+msgstr "Status på lisens"
+
+#: cp-admin-int-list.inc.php:324
+#, fuzzy
+msgid "Click to display the License Status."
+msgstr "Klikk for å vise lisensstatusen."
+
+#: cp-admin-int-list.inc.php:327
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: cp-admin-int-list.inc.php:333 cp-admin-int.inc.php:781
+#, fuzzy
+msgid "Request Custom Modifications"
+msgstr "Be om egendefinerte endringer"
+
+#: cp-admin-int-list.inc.php:333 cp-admin-int.inc.php:781 cp-main-class.inc.php:568
+msgid "Help"
+msgstr "Hjelp"
+
+#: cp-admin-int-message-list.inc.php:25
+#, fuzzy
+msgid "Manually updated"
+msgstr "Manuelt oppdatert"
+
+#: cp-admin-int-message-list.inc.php:103 cp-admin-int-report.inc.php:126
+msgid "Search for"
+msgstr "搜索"
+
+#: cp-admin-int-message-list.inc.php:104 cp-admin-int-report.inc.php:127 cp-admin-int-schedule.inc.php:47
+msgid "From"
+msgstr "Fra og med"
+
+#: cp-admin-int-message-list.inc.php:105 cp-admin-int-report.inc.php:128 cp-admin-int-schedule.inc.php:48
+msgid "To"
+msgstr "Til"
+
+#: cp-admin-int-message-list.inc.php:106 cp-admin-int-report.inc.php:129 cp-admin-int-schedule.inc.php:54
+msgid "Item"
+msgstr "Vare"
+
+#: cp-admin-int-message-list.inc.php:107 cp-admin-int-report.inc.php:130 cp-admin-int-schedule.inc.php:55
+msgid "All Items"
+msgstr "Alle elementer"
+
+#: cp-admin-int-message-list.inc.php:115 cp-admin-int-report.inc.php:138 cp-admin-int-schedule.inc.php:63
+msgid "Export to CSV"
+msgstr "Eksporter til CSV"
+
+#: cp-admin-int-message-list.inc.php:116 cp-admin-int-report.inc.php:139 cp-admin-int-schedule.inc.php:64
+msgid "Filter"
+msgstr "Filter"
+
+#: cp-admin-int-message-list.inc.php:135
+msgid "&laquo; Previous"
+msgstr "&laquo; Forrige"
+
+#: cp-admin-int-message-list.inc.php:136
+msgid "Next &raquo;"
+msgstr "Neste &raquo;"
+
+#: cp-admin-int-message-list.inc.php:149
+msgid "Submission Date"
+msgstr "Innlevering dato"
+
+#: cp-admin-int-message-list.inc.php:152 cp-admin-int-schedule.inc.php:49
+#, fuzzy
+msgid "Paid Status"
+msgstr "Betalt status"
+
+#: cp-admin-int-message-list.inc.php:182 cp-admin-int-schedule.inc.php:79
+msgid "Paid"
+msgstr "Betalt"
+
+#: cp-admin-int-report.inc.php:148
+#, fuzzy
+msgid "Submissions per day"
+msgstr "Innsendinger per dag"
+
+#: cp-admin-int-report.inc.php:154
+#, fuzzy
+msgid "Submissions per day in the selected date range."
+msgstr "Innsendinger per dag i den valgte datoperioden."
+
+#: cp-admin-int-report.inc.php:154
+#, fuzzy
+msgid "Days from"
+msgstr "Dager fra"
+
+#: cp-admin-int-report.inc.php:161
+#, fuzzy
+msgid "Submissions per hour"
+msgstr "Innsendinger per time"
+
+#: cp-admin-int-report.inc.php:167
+#, fuzzy
+msgid "Total submissions per hour in the selected date range."
+msgstr "Totalt antall innsendinger per time i den valgte datoperioden."
+
+#: cp-admin-int-report.inc.php:167
+#, fuzzy
+msgid "Hours from 0 to 23"
+msgstr "Timer fra 0 til 23"
+
+#: cp-admin-int-report.inc.php:184
+#, fuzzy
+msgid "Select field for the report"
+msgstr "Velg felt for rapporten"
+
+#: cp-admin-int-report.inc.php:197
+#, fuzzy
+msgid "Report of values for"
+msgstr "Rapport over verdier for"
+
+#: cp-admin-int-report.inc.php:221
+#, fuzzy
+msgid "Number of times that appears each value. Percent in relation to the total of submissions."
+msgstr "Antall ganger som vises hver verdi. Prosent i forhold til summen av innsendinger."
+
+#: cp-admin-int-report.inc.php:221
+#, fuzzy
+msgid "Date range from"
+msgstr "Datoperiode fra"
+
+#: cp-admin-int-report.inc.php:221
+msgid "to"
+msgstr "til"
+
+#: cp-admin-int-report.inc.php:232
+#, fuzzy
+msgid "Print Stats"
+msgstr "Skrive ut statistikk"
+
+#: cp-admin-int-schedule.inc.php:31
+#, fuzzy
+msgid "Change to Schedule Calendar View"
+msgstr "Endre til planlegg kalendervisning"
+
+#: cp-admin-int-schedule.inc.php:33
+#, fuzzy
+msgid "Change to Schedule List View"
+msgstr "Endre til tidsplanlistevisning"
+
+#: cp-admin-int-schedule.inc.php:50
+msgid "All"
+msgstr "Alle"
+
+#: cp-admin-int-schedule.inc.php:51
+#, fuzzy
+msgid "Paid only"
+msgstr "Kun betalt"
+
+#: cp-admin-int-schedule.inc.php:53 cp-admin-int.inc.php:314
+msgid "Booking Status"
+msgstr "Bordbestillingsstatus"
+
+#: cp-admin-int-schedule.inc.php:77
+#, fuzzy
+msgid "Slot"
+msgstr "Spor"
+
+#: cp-admin-int-schedule.inc.php:78
+msgid "Service"
+msgstr "Tilleggstjenester"
+
+#: cp-admin-int-schedule.inc.php:82
+msgid "Status"
+msgstr "Status"
+
+#: cp-admin-int-schedule.inc.php:102
+msgid "Print"
+msgstr "Skriv ut"
+
+#: cp-admin-int-schedule.inc.php:112
+#, fuzzy
+msgid "The purpose of this page is to <strong>display the bookings/schedule in a calendar view</strong>. You can add bookings from the public booking form or"
+msgstr "Formålet med denne siden er <strong>å vise bestillingene/tidsplanen i en kalendervisning</strong>. Du kan legge til bestillinger fra det offentlige bestillingsskjemaet eller"
+
+#: cp-admin-int-schedule.inc.php:112
+#, fuzzy
+msgid "add bookings from the dashboard"
+msgstr "legge til bestillinger fra dashbordet"
+
+#: cp-admin-int-schedule.inc.php:112
+#, fuzzy
+msgid "and the bookings will appear in this calendar.<br />For CSV export, print and filter options switch to the \"<strong>List View</strong>\" with the button above this text."
+msgstr "og bestillingene vises i denne kalenderen.<br />For CSV-eksport bytter utskrifts- og filteralternativer til<strong>\"Listevisning\"</strong>med knappen over denne teksten."
+
+#: cp-admin-int.inc.php:68
+#, fuzzy
+msgid "Save Changes and Return"
+msgstr "Lagre endringer og retur"
+
+#: cp-admin-int.inc.php:77
+msgid "Editor"
+msgstr "Redaktør"
+
+#: cp-admin-int.inc.php:81
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+#: cp-admin-int.inc.php:85
+msgid "Notification Emails"
+msgstr "Varslingseposter"
+
+#: cp-admin-int.inc.php:89
+#, fuzzy
+msgid "Antispam"
+msgstr "Antispam"
+
+#: cp-admin-int.inc.php:93
+msgid "Reports"
+msgstr "Rapporter"
+
+#: cp-admin-int.inc.php:97
+msgid "Add Ons"
+msgstr "Tillegg"
+
+#: cp-admin-int.inc.php:179
+#, fuzzy
+msgid "Add a Field"
+msgstr "Legge til et felt"
+
+#: cp-admin-int.inc.php:180
+msgid "Field Settings"
+msgstr "Skjemafeltinnstillinger"
+
+#: cp-admin-int.inc.php:181
+msgid "Form Settings"
+msgstr "Skjemainnstillinger"
+
+#: cp-admin-int.inc.php:205
+#, fuzzy
+msgid "Labels and Texts"
+msgstr "Etiketter og tekster"
+
+#: cp-admin-int.inc.php:208
+#, fuzzy
+msgid "Button Labels"
+msgstr "Knappetiketter"
+
+#: cp-admin-int.inc.php:213
+#, fuzzy
+msgid "Submit button label (text)"
+msgstr "Send knappeetikett (tekst)"
+
+#: cp-admin-int.inc.php:217
+#, fuzzy
+msgid "Page {0} of {0} (text"
+msgstr "Side {0} for {0} (tekst"
+
+#: cp-admin-int.inc.php:223
+#, fuzzy
+msgid "Previous page button label (text)"
+msgstr "Etikett for knappen forrige side (tekst)"
+
+#: cp-admin-int.inc.php:226
+#, fuzzy
+msgid "Next page button label (text)"
+msgstr "Etikett for knappen neste side (tekst)"
+
+#: cp-admin-int.inc.php:237
+#, fuzzy
+msgid "Error messages for validation rules"
+msgstr "Feilmeldinger for valideringsregler"
+
+#: cp-admin-int.inc.php:242
+#, fuzzy
+msgid "\"is required\" text"
+msgstr "\"er nødvendig\" tekst"
+
+#: cp-admin-int.inc.php:246
+#, fuzzy
+msgid "\"is email\" text"
+msgstr "\"Er e-post\" tekst"
+
+#: cp-admin-int.inc.php:252
+#, fuzzy
+msgid "\"is valid captcha\" text"
+msgstr "\"er gyldig captcha\" tekst"
+
+#: cp-admin-int.inc.php:255
+#, fuzzy
+msgid "\"is valid date (mm/dd/yyyy)\" text"
+msgstr "\"er gyldig dato (mm/dd/åyyy)\" tekst"
+
+#: cp-admin-int.inc.php:259
+#, fuzzy
+msgid "\"is valid date (dd/mm/yyyy)\" text"
+msgstr "\"er gyldig dato (dd/mm/åyyy)\" tekst"
+
+#: cp-admin-int.inc.php:263
+#, fuzzy
+msgid "\"is number\" text"
+msgstr "\"er nummer\"-tekst"
+
+#: cp-admin-int.inc.php:269
+#, fuzzy
+msgid "\"only digits\" text"
+msgstr "\"bare sifre\" tekst"
+
+#: cp-admin-int.inc.php:273
+#, fuzzy
+msgid "\"under maximum\" text"
+msgstr "\"under maksimum\" tekst"
+
+#: cp-admin-int.inc.php:279
+#, fuzzy
+msgid "\"over minimum\" text"
+msgstr "\"over minimum\" tekst"
+
+#: cp-admin-int.inc.php:283
+#, fuzzy
+msgid "\"Max appointments allowed messsage\" text"
+msgstr "\"Maks avtaler tillatt messsage\" tekst"
+
+#: cp-admin-int.inc.php:292
+#, fuzzy
+msgid "Next Step - General Settings >"
+msgstr "Neste trinn – Generelle innstillinger »"
+
+#: cp-admin-int.inc.php:293 cp-admin-int.inc.php:468 cp-admin-int.inc.php:604 cp-admin-int.inc.php:676 cp-admin-int.inc.php:739 cp-admin-int.inc.php:765
+#, fuzzy
+msgid "Save and Publish"
+msgstr "Lagre og publiser"
+
+#: cp-admin-int.inc.php:294 cp-admin-int.inc.php:469 cp-admin-int.inc.php:605 cp-admin-int.inc.php:677 cp-admin-int.inc.php:740 cp-admin-int.inc.php:766
+#, fuzzy
+msgid "Save and Return"
+msgstr "Lagre og retur"
+
+#: cp-admin-int.inc.php:304 cp-admin-int.inc.php:307
+#, fuzzy
+msgid "Confirmation / Thank you page"
+msgstr "Bekreftelse / Takk side"
+
+#: cp-admin-int.inc.php:309
+#, fuzzy
+msgid "Address / URL of the page where the user will be redirected after submiting the booking form"
+msgstr "Adresse / URL på siden der brukeren vil bli omdirigert etter å ha sendt bestillingsskjemaet"
+
+#: cp-admin-int.inc.php:317
+#, fuzzy
+msgid "Default status of new bookings"
+msgstr "Standardstatus for nye bestillinger"
+
+#: cp-admin-int.inc.php:319
+#, fuzzy
+msgid "Only \"Approved\" items are taken in account for the availability verification."
+msgstr "Bare «Godkjente» varer tas i betraktning for tilgjengelighetsbekreftelsen."
+
+#: cp-admin-int.inc.php:322
+#, fuzzy
+msgid "Default status of paid bookings"
+msgstr "Standardstatus for betalte bestillinger"
+
+#: cp-admin-int.inc.php:324
+#, fuzzy
+msgid "If a payment add-on is enabled the booking will be changed to this status after the payment."
+msgstr "Hvis et betalingstillegg er aktivert, endres bestillingen til denne statusen etter betalingen."
+
+#: cp-admin-int.inc.php:330
+#, fuzzy
+msgid "Global Calendar Settings"
+msgstr "Innstillinger for global kalender"
+
+#: cp-admin-int.inc.php:333
+msgid "Date Format"
+msgstr "Datoformat"
+
+#: cp-admin-int.inc.php:348
+#, fuzzy
+msgid "Calendar Language"
+msgstr "Språk i kalenderen"
+
+#: cp-admin-int.inc.php:431
+#, fuzzy
+msgid "Payment Integration Settings"
+msgstr "Innstillinger for betalingsintegrering"
+
+#: cp-admin-int.inc.php:435
+#, fuzzy
+msgid "Product name at payment page"
+msgstr "Produktnavn på betalingssiden"
+
+#: cp-admin-int.inc.php:439
+#, fuzzy
+msgid "Label of \"Pay Later\" option (if enabled)"
+msgstr "Etikett for alternativet Betal senere (hvis aktivert)"
+
+#: cp-admin-int.inc.php:443
+#, fuzzy
+msgid "Note: To enable a payment method enable first the related addon."
+msgstr "Merk: Hvis du vil aktivere en betalingsmåte, må du først aktivere det relaterte tillegget."
+
+#: cp-admin-int.inc.php:446
+#, fuzzy
+msgid "Users with access to the messages list"
+msgstr "Brukere med tilgang til meldingslisten"
+
+#: cp-admin-int.inc.php:450
+#, fuzzy
+msgid "Select users with access (CTRL+click for multiple selection)"
+msgstr "Velg brukere med tilgang (CTRL+klikk for flere valg)"
+
+#: cp-admin-int.inc.php:467
+#, fuzzy
+msgid "Next Step - Notification Emails >"
+msgstr "Neste trinn - Varslings-e-post \""
+
+#: cp-admin-int.inc.php:475
+#, fuzzy
+msgid "From / To Email Addresses"
+msgstr "Fra / Til e-postadresser"
+
+#: cp-admin-int.inc.php:480
+#, fuzzy
+msgid "Send email \"From\""
+msgstr "Send e-post \"Fra\""
+
+#: cp-admin-int.inc.php:484
+#, fuzzy
+msgid "From fixed email address indicated below - Recommended option"
+msgstr "Fra fast e-postadresse angitt nedenfor - Anbefalt alternativ"
+
+#: cp-admin-int.inc.php:485
+#, fuzzy
+msgid "From the email address indicated by the custome"
+msgstr "Fra e-postadressen som er angitt av den tilpassede"
+
+#: cp-admin-int.inc.php:488
+#, fuzzy
+msgid "If you select \"from fixed...\" the customer email address will appear in the \"to\" address when you hit \"reply\", this is the recommended setting to avoid mail server restrictions."
+msgstr "Hvis du velger \"fra fast ...\" kundens e-postadresse vises i \"til\"-adressen når du treffer \"svar\", dette er den anbefalte innstillingen for å unngå begrensninger for e-postserver."
+
+#: cp-admin-int.inc.php:490
+#, fuzzy
+msgid ""
+"If you select \"from customer email\" then the customer email will appear also visually when you receive the email, but this isn't supported by all hosting services, so this\n"
+"                option isn't recommended in most cases."
+msgstr ""
+"Hvis du velger \"fra kunde-e-post\", vises kunde-e-posten også visuelt når du mottar e-posten, men dette støttes ikke av alle vertstjenester, så dette\n"
+"                alternativet anbefales ikke i de fleste tilfeller."
+
+#: cp-admin-int.inc.php:496
+#, fuzzy
+msgid "\"From\" email (for fixed \"from\" addresses)"
+msgstr "\"Fra\" e-post (for faste \"fra\" adresser)"
+
+#: cp-admin-int.inc.php:500
+#, fuzzy
+msgid "Send email \"To\""
+msgstr "Send e-post \"Til\""
+
+#: cp-admin-int.inc.php:504
+#, fuzzy
+msgid "To the fixed email(s) address(es) indicated below - Recommended option"
+msgstr "Til de faste e-postadressene som er angitt nedenfor - Anbefalt alternativ"
+
+#: cp-admin-int.inc.php:505
+#, fuzzy
+msgid "To the email address selected in a form field (ex: captcha image enabled is recommended in this case)"
+msgstr "Til e-postadressen som er valgt i et skjemafelt (f.eks. captcha-bilde aktivert anbefales i dette tilfellet)"
+
+#: cp-admin-int.inc.php:508
+#, fuzzy
+msgid "If you select \"To fixed...\" enter the destination emails in the next field. "
+msgstr "Hvis du velger \"Til fast ...\" angi destinasjons-e-postene i neste felt."
+
+#: cp-admin-int.inc.php:510
+#, fuzzy
+msgid ""
+"If you select \"To email ...in form field\" then add a field like a drop-down, radio-button or checkbox that contains the email address in the field value (not needed in the field text but in "
+"the internal value)."
+msgstr ""
+"Hvis du velger \"Å sende ... i skjemafeltet\" og deretter legge til et felt som en rullegardinliste, en alternativknapp eller avmerkingsboks som inneholder e-postadressen i feltverdien (ikke "
+"nødvendig i feltteksten, men i den interne verdien)."
+
+#: cp-admin-int.inc.php:515
+#, fuzzy
+msgid "Destination emails (comma separated)"
+msgstr "Destinasjons-e-post (kommaseparert)"
+
+#: cp-admin-int.inc.php:519
+#, fuzzy
+msgid "Field that cotains the destination email(s)"
+msgstr "Felt som inneholder mål-e-postadressen(e)"
+
+#: cp-admin-int.inc.php:528
+#, fuzzy
+msgid "Email Notification to Website Administrator"
+msgstr "E-postvarsling til nettstedadministrator"
+
+#: cp-admin-int.inc.php:533 cp-admin-int.inc.php:582 cp-admin-int.inc.php:717 cp-settings.inc.php:160
+msgid "Email subject"
+msgstr "Epost emne"
+
+#: cp-admin-int.inc.php:537
+#, fuzzy
+msgid "Include additional information?"
+msgstr "Inkludere tilleggsinformasjon?"
+
+#: cp-admin-int.inc.php:548 cp-admin-int.inc.php:586 cp-admin-int.inc.php:721 cp-settings.inc.php:164
+#, fuzzy
+msgid "Email format?"
+msgstr "E-postformat?"
+
+#: cp-admin-int.inc.php:552 cp-admin-int.inc.php:590 cp-admin-int.inc.php:725 cp-settings.inc.php:168
+#, fuzzy
+msgid "Plain Text (default)"
+msgstr "Ren tekst (standard)"
+
+#: cp-admin-int.inc.php:553 cp-admin-int.inc.php:591 cp-admin-int.inc.php:726 cp-settings.inc.php:169
+#, fuzzy
+msgid "HTML (use html in the textarea below)"
+msgstr "HTML (bruk html i tekstområdet nedenfor)"
+
+#: cp-admin-int.inc.php:564
+#, fuzzy
+msgid "Email Copy to the User / Customer"
+msgstr "Send e-post kopi til brukeren / kunden"
+
+#: cp-admin-int.inc.php:568
+#, fuzzy
+msgid "Send confirmation/thank you message to user?"
+msgstr "Send bekreftelse / takk melding til brukeren?"
+
+#: cp-admin-int.inc.php:578
+#, fuzzy
+msgid "Email field on the form"
+msgstr "E-postfelt i skjemaet"
+
+#: cp-admin-int.inc.php:603
+#, fuzzy
+msgid "Next Step - Antispam >"
+msgstr "Neste trinn - Antispam \""
+
+#: cp-admin-int.inc.php:612
+msgid "Captcha Verification"
+msgstr "Captcha Verifisering"
+
+#: cp-admin-int.inc.php:616
+#, fuzzy
+#| msgid "Please enter the captcha verification code."
+msgid "Use Captcha Verification?"
+msgstr "Vennligst skriv inn captcha bekreftelseskode."
+
+#: cp-admin-int.inc.php:627
+msgid "Width"
+msgstr "Bredde"
+
+#: cp-admin-int.inc.php:629
+msgid "Height"
+msgstr "Høyde"
+
+#: cp-admin-int.inc.php:631
+#, fuzzy
+msgid "Chars"
+msgstr "Tegn"
+
+#: cp-admin-int.inc.php:636
+#, fuzzy
+msgid "Min font size"
+msgstr "Min skriftstørrelse"
+
+#: cp-admin-int.inc.php:638
+#, fuzzy
+msgid "Max font size"
+msgstr "Maks skriftstørrelse"
+
+#: cp-admin-int.inc.php:641
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: cp-admin-int.inc.php:649
+#, fuzzy
+msgid "Noise"
+msgstr "Støy"
+
+#: cp-admin-int.inc.php:651
+#, fuzzy
+msgid "Noise Length"
+msgstr "Støy lengde"
+
+#: cp-admin-int.inc.php:657
+msgid "Background"
+msgstr "Bakgrunn"
+
+#: cp-admin-int.inc.php:659
+msgid "Border"
+msgstr "Kantlinje"
+
+#: cp-admin-int.inc.php:661
+msgid "Font"
+msgstr "Font"
+
+#: cp-admin-int.inc.php:675
+#, fuzzy
+msgid "Next Step - Reports >"
+msgstr "Neste trinn – rapporter »"
+
+#: cp-admin-int.inc.php:683
+#, fuzzy
+msgid "Automatic Reports: Send submissions in CSV format via email"
+msgstr "Automatiske rapporter: Send innsendinger i CSV-format via e-post"
+
+#: cp-admin-int.inc.php:687 cp-settings.inc.php:133
+#, fuzzy
+msgid "Enable Reports?"
+msgstr "Aktivere rapporter?"
+
+#: cp-admin-int.inc.php:697 cp-settings.inc.php:140
+#, fuzzy
+msgid "Send report every"
+msgstr "Send rapport hver"
+
+#: cp-admin-int.inc.php:698
+#, fuzzy
+msgid "days (Put a 0 to send the report immediately after each submission)"
+msgstr "dager (Sett en 0 for å sende rapporten umiddelbart etter hver innsending)"
+
+#: cp-admin-int.inc.php:701
+#, fuzzy
+msgid "Send report after this hour (server time)"
+msgstr "Send rapport etter denne timen (servertid)"
+
+#: cp-admin-int.inc.php:713
+#, fuzzy
+msgid "Send the report to the following email addresses (comma separated)"
+msgstr "Sende rapporten til følgende e-postadresser (kommaseparert)"
+
+#: cp-admin-int.inc.php:731
+#, fuzzy
+msgid "Email Text (CSV file will be attached with the submissions)"
+msgstr "E-posttekst (CSV-fil vil bli lagt ved med innsendingene)"
+
+#: cp-admin-int.inc.php:738
+#, fuzzy
+msgid "Next Step - Add Ons >"
+msgstr "Neste trinn – Legg til ons »"
+
+#: cp-admin-int.inc.php:751
+#, fuzzy
+msgid "<h2>Add-Ons Settings:</h2><hr />"
+msgstr "<h2>Innstillinger for tillegg:</h2><hr />"
+
+#: cp-admin-int.inc.php:757
+#, fuzzy
+msgid "You can optionally"
+msgstr "Du kan eventuelt"
+
+#: cp-admin-int.inc.php:757
+#, fuzzy
+msgid "activate add ons in the add ons section"
+msgstr "aktivere tillegg i legg til-delen"
+
+#: cp-admin-int.inc.php:758
+#, fuzzy
+msgid "The add ons can be enabled to add new features."
+msgstr "Tilleggene kan aktiveres for å legge til nye funksjoner."
+
+#: cp-admin-int.inc.php:759
+#, fuzzy
+msgid "If you don't want to enable add ons now then <strong>continue saving these settings and publishing the booking form</strong>."
+msgstr "Hvis du ikke vil aktivere tillegg nå, fortsetter du å <strong>lagre disse innstillingene og publisere bestillingsskjemaet</strong>."
+
+#: cp-admin-int.inc.php:781
+msgid "Free Support"
+msgstr "Gratis kundestøtte"
+
+#: cp-main-class.inc.php:199
+#, fuzzy
+msgid "[All]"
+msgstr "[Alle]"
+
+#: cp-main-class.inc.php:409
+msgid "Cancel"
+msgstr "avbryt"
+
+#: cp-main-class.inc.php:410
+msgid "Cost"
+msgstr "Pris"
+
+#: cp-main-class.inc.php:564
+msgid "Request custom changes"
+msgstr "Request Custom Changes"
+
+#: cp-main-class.inc.php:566
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: cp-main-class.inc.php:623 cp-main-class.inc.php:625
+#, fuzzy
+msgid "Insert  Appointment Hour Booking"
+msgstr "Sett inn timebestilling for avtale"
+
+#: cp-public-int.inc.php:27
+msgid "Security Code"
+msgstr "Sikkerhetskode"
+
+#: cp-publish-wizzard.inc.php:3
+#, fuzzy
+msgid "Publish Appointment Hour Booking Form"
+msgstr "Bestillingsskjema for publisering av avtaletime"
+
+#: cp-publish-wizzard.inc.php:48
+#, fuzzy
+msgid "Great! Form successfully published"
+msgstr "utmerket! Skjemaet er publisert"
+
+#: cp-publish-wizzard.inc.php:49
+#, fuzzy
+msgid "The booking form was placed into the page"
+msgstr "Bestillingsskjemaet ble plassert på siden"
+
+#: cp-publish-wizzard.inc.php:50
+#, fuzzy
+msgid "Now you can:"
+msgstr "Nå kan du:"
+
+#: cp-publish-wizzard.inc.php:52
+#, fuzzy
+msgid "View the Published Booking Form"
+msgstr "Se det publiserte bestillingsskjemaet"
+
+#: cp-publish-wizzard.inc.php:54
+#, fuzzy
+msgid "Note: If the calendar was published in a new page or post it will be a 'draft', you have to publish the page/post in the future if needed."
+msgstr "Merk: Hvis kalenderen ble publisert på en ny side eller publiserer det vil være et \"utkast\", må du publisere siden / innlegget i fremtiden om nødvendig."
+
+#: cp-publish-wizzard.inc.php:56
+#, fuzzy
+msgid "Edit the booking form settings and calendar availability"
+msgstr "Redigere innstillingene for bestillingsskjema og kalendertilgjengelighet"
+
+#: cp-publish-wizzard.inc.php:70
+#, fuzzy
+msgid "Select calendar"
+msgstr "Velg kalender"
+
+#: cp-publish-wizzard.inc.php:82
+#, fuzzy
+msgid "Where to publish it?"
+msgstr "Hvor å publisere det?"
+
+#: cp-publish-wizzard.inc.php:85
+#, fuzzy
+msgid "Into a new page"
+msgstr "Inn på en ny side"
+
+#: cp-publish-wizzard.inc.php:86
+#, fuzzy
+msgid "Into a new post"
+msgstr "Inn i et nytt innlegg"
+
+#: cp-publish-wizzard.inc.php:87
+#, fuzzy
+msgid "Into an existent page"
+msgstr "Inn i en eksisterende side"
+
+#: cp-publish-wizzard.inc.php:88
+#, fuzzy
+msgid "Into an existent post"
+msgstr "Inn i et eksisterende innlegg"
+
+#: cp-publish-wizzard.inc.php:89
+#, fuzzy
+msgid "Widget in a sidebar, header or footer"
+msgstr "Widget i et sidefelt, topptekst eller bunntekst"
+
+#: cp-publish-wizzard.inc.php:94
+#, fuzzy
+msgid "Page/Post Title"
+msgstr "Side/innleggstittel"
+
+#: cp-publish-wizzard.inc.php:103
+#, fuzzy
+msgid "Classic way? Just copy and paste the following shortcode into the page/post:"
+msgstr "Klassisk måte? Bare kopier og lim inn følgende kortkode på siden / innlegget:"
+
+#: cp-publish-wizzard.inc.php:111
+#, fuzzy
+msgid "Using Elementor?"
+msgstr "Bruker du Elementor?"
+
+#: cp-publish-wizzard.inc.php:117
+#, fuzzy
+msgid "Using New WordPress Editor (Gutemberg)?"
+msgstr "Bruker du Ny WordPress Editor (Gutemberg)?"
+
+#: cp-publish-wizzard.inc.php:122
+#, fuzzy
+msgid "Using classic WordPress editor or other editors?"
+msgstr "Bruker du klassisk WordPress-redaktør eller andre redaktører?"
+
+#: cp-publish-wizzard.inc.php:124 cp-publish-wizzard.inc.php:207
+#, fuzzy
+msgid "You can also publish the form in a post/page, use the dedicated icon"
+msgstr "Du kan også publisere skjemaet i et innlegg/side, bruke det dedikerte ikonet"
+
+#: cp-publish-wizzard.inc.php:124 cp-publish-wizzard.inc.php:207
+#, fuzzy
+msgid "Insert "
+msgstr "Sette inn"
+
+#: cp-publish-wizzard.inc.php:125
+#, fuzzy
+msgid "which has been added to your Upload/Insert Menu, just below the title of your Post/Page"
+msgstr "som er lagt til i opplastings-/sett inn-menyen, rett under tittelen på innlegget/siden din"
+
+#: cp-publish-wizzard.inc.php:142
+#, fuzzy
+msgid "Select post"
+msgstr "Velg innlegg"
+
+#: cp-publish-wizzard.inc.php:161
+#, fuzzy
+msgid "Publish Calendar"
+msgstr "Publisere kalender"
+
+#: cp-publish-wizzard.inc.php:205
+msgid "Note"
+msgstr "Merknad"
+
+#: cp-publish-wizzard.inc.php:208
+#, fuzzy
+msgid "which has been added to your Upload/Insert Menu, just below the title of your Post/Page or under the \"+\" icon if using the Gutemberg editor."
+msgstr "som er lagt til i opplastings-/sett inn-menyen, like under tittelen på innlegget/siden din eller under «+»-ikonet hvis du bruker Gutemberg-redigeringsprogrammet."
+
+#: cp-settings.inc.php:112
+#, fuzzy
+msgid "Appointment Hour Booking - General Settings"
+msgstr "Timebestilling for avtale - Generelle innstillinger"
+
+#: cp-settings.inc.php:118
+#, fuzzy
+msgid "Email Report Settings"
+msgstr "Innstillinger for e-postrapport"
+
+#: cp-settings.inc.php:119 cp-settings.inc.php:187
+#, fuzzy
+msgid "Troubleshoot Area"
+msgstr "Feilsøk område"
+
+#: cp-settings.inc.php:120 cp-settings.inc.php:227
+#, fuzzy
+msgid "Edit Styles"
+msgstr "Redigere stiler"
+
+#: cp-settings.inc.php:121 cp-settings.inc.php:317
+#, fuzzy
+msgid "Edit Scripts"
+msgstr "Redigere skript"
+
+#: cp-settings.inc.php:126
+#, fuzzy
+msgid "Automatic Email Reports"
+msgstr "Automatiske e-postrapporter"
+
+#: cp-settings.inc.php:127
+#, fuzzy
+msgid "Automatic email reports for <b>ALL forms</b>: Send submissions in CSV format via email."
+msgstr "Automatiske e-postrapporter for <b>ALLE skjemaer</b>: Send innsendinger i CSV-format via e-post."
+
+#: cp-settings.inc.php:140
+msgid "days"
+msgstr "dager"
+
+#: cp-settings.inc.php:142
+#, fuzzy
+msgid "Send after this hour (server time)"
+msgstr "Send etter denne timen (servertid)"
+
+#: cp-settings.inc.php:152
+#, fuzzy
+msgid "Send email from"
+msgstr "Send e-post fra"
+
+#: cp-settings.inc.php:156
+#, fuzzy
+msgid "Send to email(s)"
+msgstr "Send til e-post(er)"
+
+#: cp-settings.inc.php:174
+#, fuzzy
+msgid "Email Text (CSV file will be attached"
+msgstr "E-posttekst (CSV-fil vil bli lagt ved"
+
+#: cp-settings.inc.php:181
+#, fuzzy
+msgid "Note: For setting up a report only for a specific form use the setting area available for that when editing each form settings"
+msgstr "Merk: For å konfigurere en rapport bare for et bestemt skjema, bruk innstillingsområdet som er tilgjengelig for det når du redigerer hver skjemainnstilling"
+
+#: cp-settings.inc.php:188
+msgid "Important!"
+msgstr "Viktig!"
+
+#: cp-settings.inc.php:188
+#, fuzzy
+msgid "Use this area only if you are experiencing conflicts with third party plugins, with the theme scripts or with the character encoding."
+msgstr "Bruk dette området bare hvis du opplever konflikter med tredjeparts plugins, med temaskriptene eller med tegnkodingen."
+
+#: cp-settings.inc.php:196
+#, fuzzy
+msgid "Script load method"
+msgstr "Metode for skriptinnlasting"
+
+#: cp-settings.inc.php:200
+#, fuzzy
+msgid "Classic (Recommended)"
+msgstr "Klassisk (anbefales)"
+
+#: cp-settings.inc.php:201
+msgid "Direct"
+msgstr "Direkte"
+
+#: cp-settings.inc.php:203
+#, fuzzy
+msgid "Change the script load method if the form doesn't appear in the public website."
+msgstr "Endre skriptinnlastingsmetoden hvis skjemaet ikke vises på det offentlige webområdet."
+
+#: cp-settings.inc.php:208
+#, fuzzy
+msgid "Character encoding"
+msgstr "Tegnkoding"
+
+#: cp-settings.inc.php:212
+#, fuzzy
+msgid "Keep current charset (Recommended)"
+msgstr "Hold gjeldende tegnsett (anbefales)"
+
+#: cp-settings.inc.php:213
+#, fuzzy
+msgid "try this first"
+msgstr "prøv dette først"
+
+#: cp-settings.inc.php:216
+#, fuzzy
+msgid "Update the charset if you are getting problems displaying special/non-latin characters. After updated you need to edit the special characters again."
+msgstr "Oppdater charset hvis du får problemer med å vise spesielle/ikke-latinske tegn. Etter at du har oppdatert, må du redigere spesialtegnene på nytt."
+
+#: cp-settings.inc.php:228
+#, fuzzy
+msgid "Use this area to add custom CSS styles. These styles will be keep safe even after updating the plugin."
+msgstr "Bruk dette området til å legge til egendefinerte CSS-stiler. Disse stilene vil være trygge selv etter oppdatering av plugin."
+
+#: cp-settings.inc.php:229
+#, fuzzy
+msgid "For commonly used CSS styles please check the following FAQ section:"
+msgstr "For vanlige CSS-stiler, vennligst sjekk følgende FAQ-seksjon:"
+
+#: cp-settings.inc.php:245
+#, fuzzy
+msgid "Sample Styles:"
+msgstr "Eksempelstiler:"
+
+#: cp-settings.inc.php:251
+#, fuzzy
+msgid "Make the calendar 100% width / responsive:"
+msgstr "Gjør kalenderen 100% bredde / responsiv:"
+
+#: cp-settings.inc.php:260
+#, fuzzy
+msgid "Make the send button in a hover format:"
+msgstr "Gjør send-knappen i et pekerfølsomt format:"
+
+#: cp-settings.inc.php:272
+#, fuzzy
+msgid "Change the color of all form field labels:"
+msgstr "Endre fargen på alle skjemafeltetiketter:"
+
+#: cp-settings.inc.php:281
+#, fuzzy
+msgid "Change color of fonts into all fields:"
+msgstr "Endre farge på skrifter til alle felt:"
+
+#: cp-settings.inc.php:294
+#, fuzzy
+msgid "Change the calendar header color:"
+msgstr "Endre kalenderoverskriftsfargen:"
+
+#: cp-settings.inc.php:303
+#, fuzzy
+msgid "Other styles:"
+msgstr "Andre stiler:"
+
+#: cp-settings.inc.php:306
+#, fuzzy
+msgid "For other styles check the design section in the FAQ:"
+msgstr "For andre stiler, sjekk utformingsdelen i vanlige spørsmål:"
+
+#: cp-settings.inc.php:318
+#, fuzzy
+msgid "Use this area to add custom custom scripts. These scripts will be keep safe even after updating the plugin."
+msgstr "Bruk dette området til å legge til egendefinerte egendefinerte skript. Disse skriptene vil være trygge selv etter oppdatering av plugin."
+
+#: cp_admin_int_edition.inc.php:24
+msgid "Customization"
+msgstr "Tilpasning"
+
+#: cp_admin_int_edition.inc.php:24
+msgid "Edit Page"
+msgstr "Rediger side"
+
+# RevTran=This field is mandatory.
+# RevTran=This field is mandatory.
+msgid "This field is required."
+msgstr "Dette feltet er obligatorisk."
+
+msgid "Please enter a valid email address."
+msgstr "Skriv inn en gyldig e-postadresse."
+
+msgid "Please enter a valid captcha code."
+msgstr "Skriv inn en gyldig captcha-kode."
+
+msgid "Please enter a valid date with this format(mm/dd/yyyy)"
+msgstr "Skriv inn en gyldig dato med dette formatet (mm/dd/åååå)"
+
+# RevTran=Please enter a valid date in this format (dd \\/mm \\/yyyy)
+msgid "Please enter a valid date with this format(dd/mm/yyyy)"
+msgstr "Skriv inn en gyldig dato med dette formatet (dd/mm/åååå)"
+
+msgid "Please enter a valid number."
+msgstr "Skriv inn et gyldig nummer."
+
+# RevTran=Enter only numbers.
+msgid "Please enter only digits."
+msgstr "Skriv inn bare tall."
+
+# RevTran=Enter a value that is less than or equal to {0}.
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Skriv inn en verdi som er mindre enn eller lik {0}."
+
+# RevTran=Enter a value greater than or equal to {0}.
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Skriv inn en verdi som er større enn eller lik {0}."
+
+msgid "Quantity"
+msgstr "Antall"
+
+msgid "Please enter no more than {0} characters."
+msgstr "Ikke fyll inn mer enn {0} tegn."
+
+msgid "Please enter at least {0} characters."
+msgstr "Skriv inn minst {0} tegn."
+
+#, fuzzy
+msgid "No more slots available."
+msgstr "Ingen flere spor tilgjengelig."
+
+#, fuzzy
+msgid "Selected time is no longer available. Please select a different time."
+msgstr "Valgt tid er ikke lenger tilgjengelig. Velg et annet tidspunkt."
+
+msgid "Cancelled"
+msgstr "Kansellert"
+
+#, fuzzy
+msgid "Cancelled by customer"
+msgstr "Kansellert av kunde"
+
+msgid "Rejected"
+msgstr "Avvist"
+
+msgid "Attended"
+msgstr "Tilstede"
+
+msgid "Sunday"
+msgstr "Søndag"
+
+msgid "Monday"
+msgstr "Mandag"
+
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+msgid "Wednesday"
+msgstr "Onsdag"
+
+msgid "Thursday"
+msgstr "Torsdag"
+
+msgid "Friday"
+msgstr "Fredag"
+
+msgid "Saturday"
+msgstr "Lørdag"
+
+#, fuzzy
+msgid "Administrator options"
+msgstr "Administratoralternativer"
+
+#, fuzzy
+msgid "Send notification emails for this booking"
+msgstr "Send e-post med varsling for denne bestillingen"
+
+#, fuzzy
+msgid "No appointments found with the selected filters"
+msgstr "Finner ingen avtaler med de valgte filtrene"
+
+msgid "Discount code"
+msgstr "Rabattkode"
+
+#, fuzzy
+msgid "Please upload a valid file type"
+msgstr "Last opp en gyldig filtype"
+
+msgid "Every"
+msgstr "Hver"
+
+#, fuzzy
+msgid "Weekly on weekdays"
+msgstr "Ukentlig på hverdager"
+
+#, fuzzy
+msgid "Weekly on Monday, Wednesday, Friday"
+msgstr "Ukentlig på mandag, onsdag, fredag"
+
+#, fuzzy
+msgid "Weekly on Tuesday, Thursday"
+msgstr "Ukentlig på tirsdag, torsdag"
+
+msgid "weeks"
+msgstr "uker"
+
+#, fuzzy
+msgid "on day"
+msgstr "på dagen"
+
+#, fuzzy
+msgid "on the"
+msgstr "på"
+
+msgid "months"
+msgstr "måneder"
+
+msgid "on"
+msgstr "på"
+
+msgid "Annually"
+msgstr "Årlig"
+
+msgid "years"
+msgstr "år"
+
+msgid "Once"
+msgstr "En gang"
+
+msgid "until"
+msgstr "fram til"
+
+#, fuzzy
+msgid "and repeated on"
+msgstr "og gjentatt på"
+
+#, fuzzy
+msgid "Starts on"
+msgstr "Starter på"
+
+#, fuzzy
+msgid "Ends after a number of occurrences"
+msgstr "Avsluttes etter en rekke forekomster"
+
+msgid "day of the week"
+msgstr "ukedag"
+
+msgid "day of the month"
+msgstr "dag i måneden"
+
+#, fuzzy
+msgid "Repeat by"
+msgstr "Gjenta ved å"
+
+#, fuzzy
+msgid "Repeat on"
+msgstr "Gjenta på"
+
+msgid "Repeat every"
+msgstr "Gjenta hver"
+
+msgid "Repeats"
+msgstr "Gjentakelser"
+
+#, fuzzy
+msgid "Every weekday (Monday to Friday)"
+msgstr "Hver ukedag (mandag til fredag)"
+
+#, fuzzy
+msgid "Every Monday, Wednesday, and Friday"
+msgstr "Hver mandag, onsdag og fredag"
+
+#, fuzzy
+msgid "Every Tuesday, and Thursday"
+msgstr "Hver tirsdag og torsdag"
+
+#, fuzzy
+msgid "Add available slots"
+msgstr "Legg til tilgjengelige spor"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Des"
+
+msgid "first"
+msgstr "første"
+
+msgid "second"
+msgstr "sekund"
+
+msgid "third"
+msgstr "tredje"
+
+msgid "fourth"
+msgstr "fjerde"
+
+msgid "last"
+msgstr "siste"
+
+msgid "Repeat"
+msgstr "Gjenta"
+
+msgid "times"
+msgstr "ganger"
+
+#, fuzzy
+msgid "after"
+msgstr "Etter"
+
+msgid "Ends"
+msgstr "Slutter"
+
+msgid "occurrences"
+msgstr "forekomster"
+
+msgid "or"
+msgstr "eller"
+
+msgid "SU"
+msgstr "SØN"
+
+msgid "MO"
+msgstr "MAN"
+
+msgid "TU"
+msgstr "TIR"
+
+msgid "WE"
+msgstr "ONS"
+
+msgid "TH"
+msgstr "TOR"
+
+msgid "FR"
+msgstr "FRE"
+
+#, fuzzy
+msgid "SA"
+msgstr "SA (andre)"
+
+#, fuzzy
+msgid "Online Demo"
+msgstr "Demo på nettet"
+
+#, fuzzy
+msgid "I Need Help"
+msgstr "Jeg trenger hjelp"
+
+msgid "Upgrade Plugin"
+msgstr "Oppgradere Plugin"
+
+#, fuzzy
+msgid "Block Times"
+msgstr "Blokk ganger"
+
+#, fuzzy
+msgid "This page is for <strong>blocking some of the available times</strong>. For services with multiple capacity be sure to select the \"quantity\" to be blocked."
+msgstr "Denne siden er for <strong>å blokkere noen av de tilgjengelige tidspunktene</strong>. For tjenester med flere kapasiteter må du velge \"antall\" som skal blokkeres."
+
+#, fuzzy
+msgid "If you want to block complete dates please use instead the <a href=\"https://apphourbooking.dwbooster.com/customdownloads/invalid-dates.png\" target=\"_blank\">invalid dates feature</a>."
+msgstr ""
+"Hvis du vil blokkere fullstendige datoer, kan du bruke i stedet funksjonen <a href=\"https://apphourbooking.dwbooster.com/customdownloads/invalid-dates.png\" target=\"_blank\">for ugyldige "
+"datoer</a>."
+
+#, fuzzy
+msgid "Block selected dates"
+msgstr "Blokker valgte datoer"
+
+#, fuzzy
+msgid "CSV Settings"
+msgstr "CSV-innstillinger"
+
+#, fuzzy
+msgid "CSV Settings Area"
+msgstr "Område for CSV-innstillinger"
+
+#, fuzzy
+msgid "Exclude fields from \"Booking Orders\" CSV export"
+msgstr "Utelat felt fra CSV-eksport av «Bestillingsordrer»"
+
+#, fuzzy
+msgid "Exclude fields from \"Schedule List View\" CSV export"
+msgstr "Utelat felt fra CSV-eksport av «Planlistevisning»"
+
+#, fuzzy
+msgid "Update Changes"
+msgstr "Oppdatere endringer"
+
+#, fuzzy
+msgid "Enter field names comma separated, example: <b>final_price,referrer,fieldname1,fieldname2<b>"
+msgstr "Skriv inn feltnavn kommaseparert, <b>final_price, henvisning,feltnavn1,feltnavn2 <b> </b>"
+
+#, fuzzy
+msgid "Enter field names comma separated, example: <b>paid,cancelled<b>"
+msgstr "Skriv inn feltnavn kommaseparert, <b>for eksempel: <b> betalt, avbrutt</b>"
+
+#, fuzzy
+msgid "Update Report Settings"
+msgstr "Oppdatere rapportinnstillinger"
+
+msgid "BLOCKED BY ADMIN"
+msgstr ""

@@ -1,0 +1,2600 @@
+# Translation of Plugins - ShortPixel Image Optimizer - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - ShortPixel Image Optimizer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-17 21:19:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - ShortPixel Image Optimizer - Stable (latest release)\n"
+
+#: class/Controller/SettingsController.php:306
+msgid "Returned Headers:<br>"
+msgstr "En-têtes renvoyés :<br>"
+
+#: class/view/settings/part-advanced.php:224 class/view/shortpixel_view.php:127
+#: class/view/shortpixel_view.php:472
+msgid "Also create <a href=\"https://blog.shortpixel.com/what-is-avif-and-why-is-it-good/\" target=\"_blank\">AVIF versions</a> of the images, with the additional cost of 1 credit = 1 image or thumbnail."
+msgstr "Créez également des <a href=\"https://blog.shortpixel.com/what-is-avif-and-why-is-it-good/\" target=\"_blank\">versions AVIF</a> des images, avec le coût supplémentaire de 1 crédit = 1 image ou vignette."
+
+#: class/view/settings/part-advanced.php:213 class/view/shortpixel_view.php:117
+#: class/view/shortpixel_view.php:462
+msgid "Also create <a href=\"https://blog.shortpixel.com/how-webp-images-can-speed-up-your-site/\" target=\"_blank\">WebP versions</a> of the images, with the additional cost of 1 credit = 1 image or thumbnail.."
+msgstr "Créez également des <a href=\"https://blog.shortpixel.com/how-webp-images-can-speed-up-your-site/\" target=\"_blank\">versions WebP</a> des images, avec le surcoût de 1 crédit = 1 image ou vignette.."
+
+#: class/view/settings/part-advanced.php:209
+msgid "Next Generation Images"
+msgstr "Images de nouvelle génération"
+
+#: class/view/settings/part-wso.php:26
+msgid "Find out more"
+msgstr "En savoir plus"
+
+#: class/view/settings/part-wso.php:22
+msgid "ALLOW ShortPixel SPECIALISTS TO %s FIND THE  SOLUTION FOR YOU."
+msgstr "AUTORISER LES SPÉCIALISTES ShortPixel À%s TROUVEZ LA SOLUTION POUR VOUS."
+
+#: class/view/settings/part-wso.php:18
+msgid "ARE YOU CONCERNED WITH YOUR %s %s SITE SPEED? %s"
+msgstr "ÊTES-VOUS PRÉOCCUPÉ PAR VOTRE%s%s VITESSE DU SITE ? %s"
+
+#: class/Controller/AdminNoticesController.php:645
+msgid "Version"
+msgstr "Version"
+
+#: class/Controller/EditMediaController.php:154
+msgid " Avif images"
+msgstr " Images animées"
+
+#: class/Controller/AdminNoticesController.php:606
+msgid "Shortpixel uses third party services Helpscout and Quriobot to access our help easier. By giving permission you agree to opt-in and load these service on ShortPixel related pages"
+msgstr "Shortpixel utilise des services tiers Helpscout et Quriobot pour accéder plus facilement à notre aide. En donnant votre autorisation, vous acceptez de vous inscrire et de charger ces services sur les pages liées à ShortPixel"
+
+#: class/view/settings/part-general.php:249
+msgid "Contain"
+msgstr "Contenir"
+
+#: class/view/settings/part-general.php:245
+msgid "Cover"
+msgstr "Couverture"
+
+#: class/Controller/View/OtherMediaViewController.php:624
+msgid "Image waiting to be processed"
+msgstr "Image en attente de traitement"
+
+#: class/Controller/View/OtherMediaViewController.php:609
+msgid "Check your Settings"
+msgstr "Vérifiez vos paramètres"
+
+#: class/wp-short-pixel.php:2837
+msgid "No Directories found that can be added to Custom Folders"
+msgstr "Aucun répertoire trouvé pouvant être ajouté aux dossiers personnalisés"
+
+#: class/view/settings/part-general.php:157
+msgid "Warning - Imagick library not detected on server. WordPress will use another library to resize images, which may result in loss of EXIF-information"
+msgstr "Avertissement. La librairie Imagick n’est pas détectée sur le serveur. WordPress utilisera une autre librairie pour redimensionner les images, ce qui pourrait résulter dans la perte d’informations Exif"
+
+#: build/shortpixel/notices/src/NoticeModel.php:218
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: build/shortpixel/notices/src/NoticeModel.php:214
+msgid "See Details"
+msgstr "Voir les détails"
+
+#: wp-shortpixel.php:20
+msgid "Shortpixel plugin already loaded. You might have two versions active. Not loaded: %s"
+msgstr "L’extension Shortpixel est déjà chargée. Vous pouvez avoir deux versions actives. Non chargé : %s"
+
+#: class/Controller/View/OtherMediaViewController.php:125
+msgid "Thumbnails"
+msgstr "Miniatures"
+
+#: class/Controller/View/OtherMediaViewController.php:129
+msgid "Name"
+msgstr "Nom"
+
+#: class/Controller/View/OtherMediaViewController.php:148
+msgid "Actions"
+msgstr "Actions"
+
+#: class/Controller/View/OtherMediaViewController.php:290
+msgid "Other media folders fully refreshed and updated"
+msgstr "Autres dossiers multimédias entièrement actualisés et mis à jour."
+
+#: class/Controller/View/OtherMediaViewController.php:393
+msgid "%d Items"
+msgstr "%d éléments"
+
+#: class/Controller/View/OtherMediaViewController.php:401
+msgid "First page"
+msgstr "Première page"
+
+#: class/Controller/View/OtherMediaViewController.php:412
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: class/Controller/View/OtherMediaViewController.php:419
+msgid "Current Page"
+msgstr "Page actuelle"
+
+#: class/Controller/View/OtherMediaViewController.php:438
+msgid "Next page"
+msgstr "Page suivante"
+
+#: class/Controller/View/OtherMediaViewController.php:449
+msgid "Last page"
+msgstr "Dernière page"
+
+#: class/Controller/View/OtherMediaViewController.php:626
+msgid "Image not processed."
+msgstr "Image non traitée."
+
+#: class/Controller/View/OtherMediaViewController.php:752
+msgid "ShortPixel Actions"
+msgstr "Actions ShortPixel"
+
+#: class/view/settings/part-advanced.php:73 class/view/view-other-media.php:98
+msgid "Nextgen"
+msgstr "Nextgen"
+
+#: class/view/view-other-media.php:98
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: class/Controller/View/OtherMediaViewController.php:110
+msgid "Restore Backup"
+msgstr "Restaurer la sauvegarde"
+
+#: class/Controller/View/OtherMediaViewController.php:664
+msgid "Resized to %s x %s"
+msgstr "Redimensionnée à %s x %s"
+
+#: class/view/settings/part-advanced.php:117
+msgid "Recheck for new images"
+msgstr "Revérifiez les nouvelles images."
+
+#. translators: 1: Current page, 2: Total pages.
+#: class/Controller/View/OtherMediaViewController.php:427
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s sur %2$s"
+
+#: class/Controller/View/OtherMediaViewController.php:186
+msgid "Some images were missing. They have been removed from the Custom Media overview : %s %s"
+msgstr "Certaines images manquaient. Elles ont été supprimées de la vue d'ensemble des supports personnalisés : %s %s"
+
+#: class/view/view-other-media.php:42
+msgid "Search"
+msgstr "Rechercher"
+
+#: class/view/settings/part-advanced.php:87
+msgid "Directory does not exist"
+msgstr "Le répertoire n’existe pas"
+
+#: class/Controller/OtherMediaController.php:61
+msgid "Could not be added, directory not found: "
+msgstr "Impossible de l’ajouter, répertoire introuvable :"
+
+#: class/wp-short-pixel.php:1974 class/wp-short-pixel.php:2087
+msgid "Not all backup files found. Restore not performed on these files "
+msgstr "Tous les fichiers de sauvegarde n’ont pas été trouvés. Restauration non effectuée sur ces fichiers. "
+
+#: class/view/settings/part-advanced.php:105
+msgid "Info Icon"
+msgstr "Icône d’info"
+
+#: class/view/view-other-media.php:76
+msgid "Your search query didn't result in any images. "
+msgstr "Votre requête de recherche n’a retourné aucune image."
+
+#: class/Controller/AdminNoticesController.php:172
+msgid "It seems you are using NextGen Gallery. You can optimize your galleries with ShortPixel, but this is currently not enabled. To enable, %sgo to settings and enable%s it!"
+msgstr "Il semble que vous utilisiez NextGen Gallery. Vous pouvez optimiser vos galeries avec ShortPixel, mais il n’est pas actuellement activé. Pour l’activer,%sallez aux réglages et activez%s !"
+
+#: class/view/settings/part-advanced.php:61
+msgid "Type &amp; Status"
+msgstr "Type et état"
+
+#: class/wp-short-pixel.php:2956
+msgid "Great, you successfully claimed your API Key! Please take a few moments to review the plugin settings below before starting to optimize your images."
+msgstr "Très bien, vous avez bien demandé votre clé API ! Veuillez prendre quelques instants pour revoir les réglages de l&rsquo;extension ci-dessous avant de commencer à optimiser vos images."
+
+#: class/view/shortpixel_view.php:516
+msgid "Get Your Site Assessment"
+msgstr "Obtenez une évaluation pour votre site"
+
+#: class/view/shortpixel_view.php:515
+msgid "After you optimized all your images your site speed might still be improved. Allow ShortPixel Specialists to tell you how."
+msgstr "Après optimisation de toutes vos images, votre site pourrait encore être amélioré. Laissez les spécialistes de ShortPixel vous montrer comment."
+
+#: class/view/settings/part-cloudflare.php:59
+msgid "How to set it up"
+msgstr "Comment le paramétrer"
+
+#: class/view/settings/part-cloudflare.php:51
+msgid "Cloudflare Token"
+msgstr "Jeton de Cloudflare"
+
+#: class/wp-short-pixel.php:262
+msgid "Error dismissed"
+msgstr "Ignorer l&rsquo;erreur"
+
+#: class/view/settings/part-cloudflare.php:37
+msgid "Cloudflare Authentication"
+msgstr "Authentification Cloudflare"
+
+#: class/view/settings/part-cloudflare.php:52
+msgid "Global API Key"
+msgstr "Clé API Globale"
+
+#: class/view/settings/part-cloudflare.php:57
+msgid "When using a token, leave the email and global API key fields empty."
+msgstr "Si un jeton est utilisé, laisser les champs e-mail et clé API globale vides."
+
+#: class/view/settings/part-general.php:124
+msgid "Make sure you have a backup in place. When optimizing Shortpixel will overwrite your images without recovery. This may result in lost images."
+msgstr "Assurez-vous d’avoir une sauvegarde. Lors de l’optimisation ShortPixel écrase vos images sans option de récupération. Cela peut conduire à des pertes d’images."
+
+#: class/view/settings/part-cloudflare.php:56
+msgid "%s Preferred Method %s. Enter your %s site token %s for authentication. This token needs %s Cache Purge permission %s! "
+msgstr "%s Méthode préférée %s. Saisissez votre %s jeton de site %s pour l’authentification. Ce jeton a besoin %s de la permission de Cache Purge %s ! "
+
+#: class/Controller/AdminNoticesController.php:556
+msgid "<strong> %s images and %s thumbnails</strong> are not yet optimized by ShortPixel."
+msgstr "<strong> %s images et %s miniatures</strong> ne sont pas encore optimisées par ShortPixel."
+
+#: class/wp-short-pixel.php:521
+msgid "ShortPixel icon"
+msgstr "Icône de ShortPixel"
+
+#: class/view/settings/part-nokey.php:67
+msgid "ShortPixel logo"
+msgstr "Logo de ShortPixel"
+
+#: class/view/settings/part-nokey.php:69
+msgid "Hand pointing"
+msgstr "Pointage à la main"
+
+#: class/wp-short-pixel.php:395
+msgid "Loading..."
+msgstr "Chargement…"
+
+#: class/external/helpscout.php:108
+msgid "ShortPixel document icon"
+msgstr "Icône de documentation ShortPixel"
+
+#: class/view/view-edit-media.php:12
+msgid "Debug Window"
+msgstr "Fenêtre de débogage"
+
+#: class/Controller/EditMediaController.php:230
+msgid "File"
+msgstr "Fichier"
+
+#: class/Controller/EditMediaController.php:257
+msgid "Thumbnails were not generated"
+msgstr "Miniatures non générées"
+
+#: class/view/settings/part-general.php:190
+msgid "Resize inner"
+msgstr "Redimensionner l&rsquo;intérieur"
+
+#: class/view/settings/part-general.php:186
+msgid "Resize outer"
+msgstr "Redimensionner l&rsquo;extérieur"
+
+#: class/Controller/EditMediaController.php:250
+msgid "Backup"
+msgstr "Sauvegarde"
+
+#: class/wp-short-pixel.php:3591
+msgid "All Images"
+msgstr "Toutes les images"
+
+#: class/Controller/EditMediaController.php:247
+msgid "Original File"
+msgstr "Fichier original"
+
+#: class/wp-short-pixel.php:3593
+msgid "Unoptimized"
+msgstr "Non optimisé"
+
+#: class/Controller/EditMediaController.php:243
+msgid "No Backup Available"
+msgstr "Aucune sauvegarde disponible"
+
+#: class/Controller/EditMediaController.php:240
+msgid "Backup File"
+msgstr "Fichier de sauvegarde"
+
+#: class/Tools.php:261
+msgid "This plugin is uploading images in front-end so please activate the \"Process in front-end\" advanced option in ShortPixel in order to have your images optimized."
+msgstr "Cette extension téléverse les images à partir de l’interface publique, veuillez d’abord activer l’option avancée « Process in front-end » dans ShortPixel afin d’optimiser vos images."
+
+#: class/Model/DirectoryOtherMediaModel.php:269
+msgid "Folder %s does not exist! "
+msgstr "Le dossier %s n’existe pas ! "
+
+#: class/external/wp-offload-media.php:27
+msgid "Your S3-Offload plugin version doesn't seem to be compatible. Please upgrade the S3-Offload plugin"
+msgstr "Votre version de l’extension S3-Offload ne semble pas être compatible. Veuillez mettre à niveau l’extension S3-Offload"
+
+#: class/Controller/EditMediaController.php:235
+msgid "Meta"
+msgstr "Méta"
+
+#: class/Controller/EditMediaController.php:159
+msgid "EXIF removed"
+msgstr "EXIF supprimé"
+
+#: class/Controller/EditMediaController.php:239
+msgid "Backup Folder"
+msgstr "Dossier de sauvegarde"
+
+#: class/Controller/EditMediaController.php:234
+msgid "Data"
+msgstr "Données"
+
+#: class/Controller/EditMediaController.php:229
+msgid "URL"
+msgstr "URL"
+
+#: class/Controller/EditMediaController.php:157
+msgid "EXIF kept"
+msgstr "EXIF conservé"
+
+#: class/Controller/EditMediaController.php:140
+msgid "+ %s thumbnails optimized"
+msgstr "+ %s miniatures optimisées"
+
+#: class/Controller/EditMediaController.php:131
+msgid "Type: "
+msgstr "Type : "
+
+#: class/view/settings/part-general.php:47
+msgid "Save settings & validate"
+msgstr "Réglages enregistrés et validés"
+
+#: class/Controller/EditMediaController.php:233
+msgid "WPML Duplicates"
+msgstr "Doublons WPML"
+
+#: class/wp-short-pixel.php:2075
+msgid "The file %s cannot be restored due to lack of permissions, please contact your hosting provider to assist you in fixing this."
+msgstr "Le fichier %s ne peut pas être récupéré à cause d’un manque de droits d'accès, veuillez contacter votre fournisseur d’hébergement pour vous aider à corriger ce problème."
+
+#: class/view/settings/part-statistics.php:70
+msgid "Bandwidth* saved by ShortPixel:"
+msgstr "Bande passante* économisée par ShortPixel :"
+
+#: class/Model/ApiKeyModel.php:124
+msgid "Your API Key has been removed"
+msgstr "Votre clé API a été retirée"
+
+#: class/wp-short-pixel.php:2336
+msgid "Not able to restore file(s). Could not find backup"
+msgstr "Impossible de récupérer le fichier. Aucune sauvegarde n’a été trouvée. "
+
+#: class/Tools.php:237
+msgid "Details: recreating image files may require re-optimization of the resulting thumbnails, even if they were previously optimized. Please use <a href=\"https://wordpress.org/plugins/regenerate-thumbnails-advanced/\" target=\"_blank\">reGenerate Thumbnails Advanced</a> instead."
+msgstr "Détails : la recréation d’image peut nécessiter la ré-optimisation des miniatures correspondantes, même si elles ont été préalablement optimisées. Veuillez utiliser plutôt <a href=\"https://wordpress.org/plugins/regenerate-thumbnails-advanced/\" target=\"_blank\">régénérer les miniatures avancées</a> au lieu de cela."
+
+#: class/Controller/View/OtherMediaViewController.php:277
+#: class/view/shortpixel-list-table.php:276
+msgid "File Successfully restored"
+msgstr "Le fichier a été récupéré avec succès"
+
+#: class/external/helpscout.php:99
+msgid "Dismiss for now"
+msgstr "Ignorer pour le moment"
+
+#: class/Controller/EditMediaController.php:189
+msgid "To optimize:"
+msgstr "Pour optimiser :"
+
+#: class/Controller/EditMediaController.php:105
+#: class/view/shortpixel_view.php:1660
+msgid "Restore Image from Backup"
+msgstr "Restaure l'image depuis la sauvegarde"
+
+#: class/external/helpscout.php:102
+msgid "Never display again"
+msgstr "Ne plus jamais afficher"
+
+#: class/external/helpscout.php:107
+msgid "Search through our online documentation."
+msgstr "Rechercher dans notre documentation en ligne."
+
+#: class/view/shortpixel_view.php:559
+msgid "Please bear with me. ShortPixel is checking many already optimized images to see if they're OK, so the progress bar could stop for a while."
+msgstr "Veuillez patienter. ShortPixel vérifie plusieurs images déjà optimisées afin de s’assurer qu’elles sont intactes, la barre de progression peut donc rester bloquée pour un moment."
+
+#: class/view/settings/part-nokey.php:21
+msgid "wp-config.php is hiding the API key, but no API key was found. Remove the constant, or define the SHORTPIXEL_API_KEY constant as well"
+msgstr "wp-config.php cache la clé API, mais aucune clé API n’a été trouvée. Retirer la constante, ou définir la constante SHORTPIXEL_API_KEY aussi"
+
+#: class/Model/ApiKeyModel.php:213
+msgid "Error during verifying API key: %s"
+msgstr "Erreur pendant la vérification de la clé d'API : %s"
+
+#: class/view/view-restore-all.php:48
+msgid "It is strongly recommended to backup your uploads"
+msgstr "Il est fortement recommandé de sauvegarder vos téléversements"
+
+#: class/wp-short-pixel.php:2689
+msgid "Shortpixel Remote API Error: %s"
+msgstr "Erreur de l'API distante de Shortpixel : %s"
+
+#: class/view/settings/part-general.php:175
+msgid "Width"
+msgstr "Largeur"
+
+#: class/view/settings/part-general.php:176
+msgid "Height"
+msgstr "Hauteur"
+
+#: class/view/settings/part-nokey.php:35
+msgid "Join ShortPixel"
+msgstr "Rejoindre ShortPixel"
+
+#: class/view/shortpixel_view.php:256
+msgid "Restoring completed"
+msgstr "Récupération réussie"
+
+#: class/view/shortpixel_view.php:257
+msgid "Your images have been restored"
+msgstr "Vos images ont été récupérées"
+
+#: class/view/settings/part-nokey.php:26
+msgid "Constant API Key is not verified. Please check if this is a valid API key %s"
+msgstr "La clé API constante est non vérifiée. Veuillez vérifier si c’est une clé API valide %s"
+
+#: class/view/settings/part-general.php:89
+msgid ""
+"<b>Lossless compression: </b> the resulting image is pixel-identical with the original image.</br>Make sure not a single pixel looks different in the optimized image compared with the original.\n"
+"                            In some rare cases you will need to use this type of compression. Some technical drawings or images from vector graphics are possible situations."
+msgstr ""
+"<b> Compression Lossless : </b> l’image résultante est identique en pixels à l’image d'origine. </br>Assurez-vous qu’aucun pixel ne semble différent dans l’image optimisée par rapport à l’originale.\n"
+"                                  Dans certains cas rares, vous devrez utiliser ce type de compression. Certains dessins techniques ou images de graphiques vectoriels sont des situations possibles de cela."
+
+#: class/view/settings/part-debug.php:36
+msgid "Quota Data"
+msgstr "Données de Quota"
+
+#: class/view/settings/part-debug.php:9
+msgid "Debug"
+msgstr "Déboguer"
+
+#: build/shortpixel/log/src/DebugItem.php:35
+msgid "[Data]"
+msgstr "[Données]"
+
+#: class/view/settings/part-debug.php:14
+msgid "Environment"
+msgstr "Environnement"
+
+#: class/view/settings/part-general.php:78
+msgid "<a href=\"https://shortpixel.com/online-image-compression\" style=\"margin-left:20px;\" target=\"_blank\">Make a few tests</a> to help you decide."
+msgstr "<a href=\"https://shortpixel.com/online-image-compression\" style=\"margin-left:20px;\" target=\"_blank\">Faites quelques tests</a> pour vous aider à décider."
+
+#: class/view/settings/part-debug.php:29
+msgid "Settings"
+msgstr "Réglages "
+
+#: class/view/settings/part-advanced.php:196
+#: class/view/settings/part-general.php:139
+msgid "Warning - Converting from PNG to JPG will %s not %s keep the EXIF-information!"
+msgstr "Avertissement - La conversion de PNG en JPG ne gardera %s pas %s les informations EXIF !"
+
+#: class/view/settings/part-advanced.php:327
+msgid ""
+"Add patterns separated by comma. A pattern consist of a <strong>type:value</strong> pair; the accepted types are\n"
+"                                  <strong>\"name\"</strong>, <strong>\"path\"</strong> and <strong>\"size\"</strong>.\n"
+"                                   A file will be excluded if it matches any of the patterns.\n"
+"                                   <br>For a <strong>\"name\"</strong> pattern only the filename will be matched but for a <strong>\"path\"</strong>,\n"
+"                                   all the path will be matched (useful for excluding certain subdirectories altoghether).\n"
+"                                   For these you can also use regular expressions accepted by preg_match, but without \",\" or \":\".\n"
+"                                   A pattern will be considered a regex if it starts with a \"/\" and is valid.\n"
+"                                   <br>For the <strong>\"size\"</strong> type,\n"
+"                                   which applies only to Media Library images, <strong>the main images (not thumbnails)</strong> that have the size in the specified range will be excluded.\n"
+"                                   The format for the \"size\" exclude is: <strong>minWidth</strong>-<strong>maxWidth</strong>x<strong>minHeight</strong>-<strong>maxHeight</strong>, for example <strong>size:1000-1100x2000-2200</strong>. You can also specify a precise size, as <strong>1000x2000</strong>."
+msgstr ""
+"Ajouter des modèles séparés par des virgules. Un modèle est constitué d’une paire <strong>type:value</strong>. Les types acceptés sont (documentation en anglais) :\n"
+"                                  <strong>\"name\"</strong>, <strong>\"path\"</strong> and <strong>\"size\"</strong>.\n"
+"                                   A file will be excluded if it matches any of the patterns.\n"
+"                                   <br>For a <strong>\"name\"</strong> pattern only the filename will be matched but for a <strong>\"path\"</strong>,\n"
+"                                   all the path will be matched (useful for excluding certain subdirectories altoghether).\n"
+"                                   For these you can also use regular expressions accepted by preg_match, but without \",\" or \":\".\n"
+"                                   A pattern will be considered a regex if it starts with a \"/\" and is valid.\n"
+"                                   <br>For the <strong>\"size\"</strong> type,\n"
+"                                   which applies only to Media Library images, <strong>the main images (not thumbnails)</strong> that have the size in the specified range will be excluded.\n"
+"                                   The format for the \"size\" exclude is: <strong>minWidth</strong>-<strong>maxWidth</strong>x<strong>minHeight</strong>-<strong>maxHeight</strong>, for example <strong>size:1000-1100x2000-2200</strong>. You can also specify a precise size, as <strong>1000x2000</strong>."
+
+#: class/wp-short-pixel.php:2459
+msgid "Unspecified Error on Thumbnails for: "
+msgstr "Erreur non spécifiée avec la miniature de :"
+
+#: class/view/settings/part-advanced.php:132
+#: class/view/shortpixel_view.php:1155
+msgid "Add a custom folder"
+msgstr "Ajouter un dossier personnalisé"
+
+#: class/Controller/View/OtherMediaViewController.php:609
+#: shortpixel_api.php:112
+msgid "Invalid API Key"
+msgstr "Clé API invalide"
+
+#: class/view/settings/part-advanced.php:140
+#: class/view/shortpixel_view.php:1163
+msgid "Add this Folder"
+msgstr "Ajouter ce répertoire"
+
+#: class/Tools.php:74
+msgid "%s from now"
+msgstr "%s à partir de maintenant"
+
+#: class/Tools.php:76
+msgid "%s ago"
+msgstr "Il y a %s"
+
+#: class/view/view-restore-all.php:44
+msgid "Back"
+msgstr "Retour"
+
+#: class/view/view-restore-all.php:45
+msgid "Bulk Restore"
+msgstr "Restaurer plusieurs images "
+
+#: class/Controller/View/OtherMediaViewController.php:113
+#: class/view/shortpixel-list-table.php:85
+msgid "Compare"
+msgstr "Comparer"
+
+#: class/view/shortpixel_view.php:188 class/view/shortpixel_view.php:478
+msgid "Bulk Restore Images"
+msgstr "Restauration en masse des images"
+
+#: class/Controller/View/OtherMediaViewController.php:618
+#: class/view/shortpixel-list-table.php:128
+msgid "Restore Pending"
+msgstr "Restauration en attente"
+
+#: class/view/view-restore-all.php:36
+msgid "To continue and agree with the warning, please check the correct value below"
+msgstr "Pour continuer et accepter l’avertissement, veuillez cliquer sur la valeur appropriée ci-dessous"
+
+#: class/view/view-restore-all.php:18
+msgid "Select which Custom Media Folders to restore"
+msgstr "Sélectionnez les dossiers multimédias personnalisés à restaurer"
+
+#: class/view/view-restore-all.php:11
+msgid "Please read carefully. This function will: "
+msgstr "Veuillez lire attentivement. Cette fonction va : "
+
+#: class/view/view-restore-all.php:9
+msgid "Are you sure you want to restore from backup all the images optimized with ShortPixel?"
+msgstr "Confirmez-vous vouloir restaurer les images optimisées par ShortPixel depuis votre sauvegarde ?"
+
+#: class/Controller/View/OtherMediaViewController.php:140
+#: class/view/shortpixel-list-table.php:35
+msgid "Date"
+msgstr "Date :"
+
+#: class/view/view-restore-all.php:13
+msgid "Remove all optimized images from media library"
+msgstr "Retirer toutes les images optimisées de la médiathèque"
+
+#: class/view/settings/part-general.php:50 class/view/shortpixel_view.php:888
+msgid "Your API key is valid."
+msgstr "Votre clé API est valide."
+
+#: class/view/settings/part-general.php:194
+#: class/view/settings/part-general.php:252 class/view/shortpixel_view.php:999
+msgid "What is this?"
+msgstr "Qu&rsquo;est-ce que c&rsquo;est?"
+
+#: class/view/settings/part-general.php:75 class/view/shortpixel_view.php:915
+msgid "Make sure not a single pixel looks different in the optimized image compared with the original. In some rare cases you will need to use this type of compression. Some technical drawings or images from vector graphics are possible situations."
+msgstr "Soit sûr qu&rsquo;aucun pixel ne semble différent dans l&rsquo;image optimisée par rapport à l&rsquo;original. Dans certains cas, vous devrez utiliser ce type de compression. Certains dessins techniques ou images vectorielles peuvent poser des problèmes."
+
+#: class/view/settings/part-general.php:72 class/view/shortpixel_view.php:912
+msgid "Best option for photographers and other professionals that use very high quality images on their sites and want best compression while keeping the quality untouched."
+msgstr "La meilleure option pour les photographes et autres professionnels qui utilisent des images de très haute qualité sur leurs sites et qui souhaitent la meilleure compression sans affecter la qualité."
+
+#: class/view/settings/part-general.php:69 class/view/shortpixel_view.php:909
+msgid "This is the recommended option in most cases, producing results that look the same as the original to the human eye."
+msgstr "C'est l’option recommandée dans la plupart des cas. Elle produit des résultats qui ressemblent à l’originale à l’œil humain."
+
+#: class/wp-short-pixel.php:391
+msgid ""
+"Warning: Using this method alters the structure of the rendered HTML code (IMG tags get included in PICTURE tags),\n"
+"which in some rare cases can lead to CSS/JS inconsistencies.\n"
+"\n"
+"Please test this functionality thoroughly after activating!\n"
+"\n"
+"If you notice any issue, just deactivate it and the HTML will will revert to the previous state."
+msgstr ""
+"Avertissement : l’utilisation de cette méthode modifie la structure du rendu du code HTML (les balises IMG sont incluses dans les étiquettes IMAGE), \n"
+"ce qui, dans de rares cas, peut entraîner des incohérences au niveau du CSS/JS.\n"
+"Veuillez tester cette fonctionnalité plus en profondeur après l’activation ! \n"
+"\n"
+"Si vous remarquez un problème, désactivez-la simplement et le code HTML reviendra à l’état précédent."
+
+#: class/view/settings/part-advanced.php:256
+#: class/view/shortpixel_view.php:1254
+msgid "You can revert anytime to the previous state by just deactivating the option."
+msgstr "Vous pouvez à tout moment revenir à l’état précédent en désactivant simplement l’option."
+
+#: class/view/settings/part-advanced.php:184
+#: class/view/shortpixel_view.php:1207
+msgid "The image will NOT be converted if the resulting JPEG is larger than the original PNG."
+msgstr "L'image ne sera PAS convertie si le fichier JPEG résultant est plus grand que le fichier PNG d'origine."
+
+#: class/wp-short-pixel.php:392
+msgid "This option will serve both WebP and the original image using the same URL, based on the web browser capabilities, please make sure you're serving the images from your server and not using a CDN which caches the images."
+msgstr "Cette option servira à la fois WebP et l’image d'origine à l’aide de la même URL, en fonction des capacités du navigateur web. Veuillez vous assurez de fournir les images à partir de votre serveur et n’utilisez pas de CDN mettant en cache les images."
+
+#: class/view/settings/part-advanced.php:189
+#: class/view/shortpixel_view.php:1211
+msgid "Also force the conversion of images with transparency."
+msgstr "Force également la conversion des images avec de la transparence."
+
+#: class/view/settings/part-advanced.php:33 class/view/shortpixel_view.php:1061
+msgid "serve the WEBP versions of the JPEG files seamlessly, via .htaccess."
+msgstr "servir les versions WEBP des fichiers JPEG de manière transparente, via .htaccess."
+
+#: class/view/settings/part-advanced.php:31 class/view/shortpixel_view.php:1059
+msgid "Based on testing your particular hosting configuration, we determined that your server"
+msgstr "Après avoir testé votre configuration particulière d’hébergement, nous avons déterminé que votre serveur"
+
+#: class/view/settings/part-advanced.php:247
+#: class/view/shortpixel_view.php:1245
+msgid "Using the &lt;PICTURE&gt; tag syntax"
+msgstr "Utilisation de la syntaxe d’étiquette <PICTURE>;"
+
+#: class/view/settings/part-advanced.php:307
+#: class/view/shortpixel_view.php:1303
+msgid "Also optimize the unlisted thumbs if found."
+msgstr "Optimisez également les vignettes non répertoriées si elles sont trouvées."
+
+#: class/view/settings/part-statistics.php:77
+#: class/view/shortpixel_view.php:1519
+msgid "Your ShortPixel Credits"
+msgstr "Vos crédits ShortPixel"
+
+#: class/view/settings/part-statistics.php:131
+#: class/view/shortpixel_view.php:1565
+msgid "Credits consumed on"
+msgstr "Crédits consommés le"
+
+#: class/view/settings/part-advanced.php:276
+#: class/view/shortpixel_view.php:1274
+msgid "Without altering the page code (via .htaccess)"
+msgstr "Sans altérer le code de la page (via .htaccess)"
+
+#: class/view/settings/part-statistics.php:106
+#: class/view/shortpixel_view.php:1548
+msgid "Total: "
+msgstr "Total :"
+
+#: class/view/settings/part-statistics.php:125
+#: class/view/shortpixel_view.php:1559
+msgid "See report (last 30 days)"
+msgstr "Consulter le rapport (40 derniers jours)"
+
+#: class/view/settings/part-statistics.php:103
+#: class/view/shortpixel_view.php:1545
+msgid "Your One Time credits:"
+msgstr "Vos crédits ponctuels :"
+
+#: class/view/settings/part-advanced.php:251
+#: class/view/shortpixel_view.php:1249
+msgid "After the option to work on .htaccess was selected, the .htaccess file has become unaccessible / readonly. Please make the .htaccess file writeable again to be able to further set up this option."
+msgstr "Une fois que l&rsquo;option de travailler sur .htaccess a été sélectionnée, le fichier .htaccess est devenu inaccessible / en lecture seule. Veuillez rendre le fichier .htaccess accessible en écriture à nouveau pour pouvoir configurer davantage cette option."
+
+#: class/view/shortpixel_view.php:1239
+msgid "Deliver the WebP versions of the images in the front-end:"
+msgstr "Fournissez les versions WebP des images dans l&rsquo;interface publique :"
+
+#: class/view/shortpixel_view.php:1053
+msgid "It looks like you recently moved from an Apache server to an NGINX server, while the option to use .htacces was in use. Please follow this tutorial to see how you could implement by yourself this functionality, outside of the WP plugin. "
+msgstr "Il semble que vous ayez récemment quitté un serveur Apache pour un serveur NGINX, alors que l&rsquo;option d&rsquo;utiliser .htacces était utilisée. Veuillez suivre ce tutoriel pour voir comment vous pouvez implémenter vous-même cette fonctionnalité, en dehors de l&rsquo;extension WP."
+
+#: class/view/settings/part-statistics.php:64
+#: class/view/shortpixel_view.php:1506
+msgid "Disk space saved by ShortPixel:"
+msgstr "Espace de stockage économisé par ShortPixel :"
+
+#: class/view/settings/part-statistics.php:97
+#: class/view/settings/part-statistics.php:111
+#: class/view/shortpixel_view.php:1539 class/view/shortpixel_view.php:1553
+msgid "; Remaining: "
+msgstr " ; Restant :"
+
+#: class/view/shortpixel_view.php:1224
+msgid "WebP Images:"
+msgstr "Images WebP :"
+
+#: class/view/settings/part-statistics.php:95
+#: class/view/settings/part-statistics.php:109
+#: class/view/shortpixel_view.php:1537 class/view/shortpixel_view.php:1551
+msgid "Consumed: "
+msgstr "Consommé :"
+
+#: class/view/settings/part-advanced.php:268
+#: class/view/shortpixel_view.php:1266
+msgid "Global (processes the whole output buffer before sending the HTML to the browser)"
+msgstr "Global (traite tout le tampon de sortie avant d’envoyer le HTML au navigateur)"
+
+#: class/view/settings/part-advanced.php:27 class/view/shortpixel_view.php:1055
+msgid "It looks like your .htaccess file cannot be written. Please fix this and then return to refresh this page to enable this option."
+msgstr "Il semble que votre fichier .htaccess ne puisse pas être édité. Veuillez corriger ce problème, puis revenir pour actualiser cette page afin d’activer cette option."
+
+#: class/view/settings/part-advanced.php:262
+#: class/view/shortpixel_view.php:1260
+msgid "Only via Wordpress hooks (like the_content, the_excerpt, etc)"
+msgstr "Uniquement via les points d’accroche WordPress (comme the_content, the_excerpt, etc.)"
+
+#: class/view/shortpixel_view.php:667
+msgid "All media"
+msgstr "Tous les médias"
+
+#: class/view/shortpixel_view.php:143 class/view/shortpixel_view.php:151
+msgid "(Originals and thumbnails)"
+msgstr "(Originaux et miniatures)"
+
+#: class/view/shortpixel_view.php:674
+msgid "Resume: "
+msgstr "Reprendre : "
+
+#: class/view/settings/part-advanced.php:18 class/view/shortpixel_view.php:1047
+msgid "It looks like you're running your site on an NginX server. This means that you can only achieve this functionality by directly configuring the server config files. Please follow this link for instructions on how to achieve this:"
+msgstr "Il semble que vous exécutiez votre site sur un serveur NginX. Cela signifie que vous ne pouvez obtenir cette fonctionnalité uniquement qu’en configurant directement les fichiers de configuration du serveur. Veuillez suivre ce lien pour savoir comment y parvenir :"
+
+#: class/Controller/AdminNoticesController.php:488
+msgid "You currently have <strong>%d images and thumbnails to optimize</strong> but you only have <strong>%d images</strong> available in your current plan. You might need to upgrade your plan in order to have all your images optimized."
+msgstr "Vous avez actuellement <strong>%d images et miniatures à optimiser</strong> mais vous avez uniquement <strong>%d images</strong> disponible dans votre offre actuelle. Vous devriez éventuellement mettre à niveau votre offre pour optimiser toutes vos images."
+
+#: class/view/shortpixel-feedback.php:79
+msgid "<span>Submit&nbsp;and&nbsp;</span>Deactivate"
+msgstr "<span>Envoyer et</span>Désactiver"
+
+#: class/Controller/AdminNoticesController.php:444
+msgid "In order to start the optimization process, you need to validate your API Key in the <a href=\"options-general.php?page=wp-shortpixel-settings\">ShortPixel Settings</a> page in your WordPress Admin."
+msgstr "Pour démarrer le processus d’optimisation, vous devez valider votre clé API dans la page <a href=\"options-general.php?page=wp-shortpixel-settings\"> Réglages ShortPixel</a> dans votre administrateur WordPress."
+
+#: class/Controller/AdminNoticesController.php:498
+msgid "You are adding an average of <strong>%d images and thumbnails every month</strong> to your Media Library and you have <strong>a plan of %d images/month</strong>. You might need to upgrade your plan in order to have all your images optimized."
+msgstr "Vous ajoutez en moyenne <strong>%d images et miniatures chaque mois</strong> à votre médiathèque et vous avez <strong>une offre de%d images/mois</strong>. Vous devrez peut-être mettre à niveau votre offre afin d’optimiser toutes vos images."
+
+#: shortpixel_api.php:401
+msgid "Error in archive - incorrect file size (downloaded: %s, correct: %s )"
+msgstr "Erreur au niveau de l’archive - taille de fichier incorrecte (téléchargé : %s, correct :%s)"
+
+#: class/view/settings/part-cloudflare.php:15
+#: class/view/shortpixel_view.php:1407
+msgid "Please enable PHP cURL extension for the Cloudflare integration to work."
+msgstr "Veuillez activer l’extension PHP cURL pour que l’intégration Cloudflare fonctionne."
+
+#: class/view/settings/part-advanced.php:183
+#: class/view/shortpixel_view.php:1206
+msgid "Converts all PNGs that don't have transparent pixels to JPEG. This can dramatically reduce the file size, especially if you have camera pictures that are saved in PNG format. The plugin will also search for references of the image in posts and will replace them."
+msgstr "Convertit tous les fichiers PNG qui n’ont pas de pixels transparents en JPEG. Cela peut réduire considérablement la taille du fichier, surtout si vous avez des photos d’un appareil photo enregistrées au format PNG. L’extension recherchera également les références de l’image dans les publications et les remplacera."
+
+#: class/wp-short-pixel.php:369
+msgid "Restore Originals"
+msgstr "Restaurer les originaux"
+
+#: class/wp-short-pixel.php:368
+msgid "Re-optimize Lossless"
+msgstr "Ré-optimiser sans perte"
+
+#: class/wp-short-pixel.php:366
+msgid "Re-optimize Lossy"
+msgstr "Re-Optimiser Lossy"
+
+#: class/wp-short-pixel.php:367
+msgid "Re-optimize Glossy"
+msgstr "Re-Optimiser Glossy"
+
+#: class/view/shortpixel-feedback.php:175
+msgid "Can you mention it ?"
+msgstr "Pouvez-vous le mentionner ?"
+
+#: class/view/shortpixel-feedback.php:77
+msgid "Send anonymous"
+msgstr "Envoyer anonymement"
+
+#: class/view/shortpixel-feedback.php:279
+msgid "Not the features I wanted"
+msgstr "Ce ne sont pas les fonctionnalités que je voulais"
+
+#: class/view/shortpixel-feedback.php:278
+msgid "Lack of documentation"
+msgstr "Manque de documentation"
+
+#: class/view/shortpixel-feedback.php:274
+msgid "Sorry to see you go"
+msgstr "Désolé de vous voir partir"
+
+#: class/view/shortpixel-feedback.php:177
+msgid "Please specify"
+msgstr "Veuillez préciser"
+
+#: class/view/shortpixel-feedback.php:282
+msgid "Other"
+msgstr "Autre"
+
+#: class/view/shortpixel-feedback.php:76
+msgid "If you UNCHECK this then your email address will be sent along with your feedback. This can be used by ShortPixel to get back to you for more info or a solution."
+msgstr "Si vous décochez cette case, votre adresse e-mail sera envoyée avec vos commentaires. Ceci peut être utilisé par ShortPixel pour vous contacter pour plus d'informations ou une solution."
+
+#: class/view/shortpixel-feedback.php:73
+msgid "Submitting form"
+msgstr "Soumission du formulaire"
+
+#: class/view/shortpixel-feedback.php:174
+#: class/view/shortpixel-feedback.php:284
+msgid "How could we improve ?"
+msgstr "Comment pourrions-nous améliorer ?"
+
+#: class/view/shortpixel-feedback.php:176
+msgid "With what plugin or theme is incompatible ?"
+msgstr "Avec quelle extension ou thème est-il incompatible ?"
+
+#: class/view/shortpixel-feedback.php:70
+msgid "Keep the ShortPixel settings on plugin deletion."
+msgstr "Garder les réglages ShortPixel lors de la suppression de l’extension."
+
+#: class/view/shortpixel-feedback.php:275
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "Avant que vous désactiviez l’extension, pourriez-vous nous expliquer rapidement pourquoi ?"
+
+#: class/view/shortpixel-feedback.php:277
+msgid "Set up is too difficult"
+msgstr "L’installation est trop difficile"
+
+#: class/view/shortpixel-feedback.php:280
+msgid "Found a better plugin"
+msgstr "J’ai trouvé un meilleure extension"
+
+#: class/view/shortpixel-feedback.php:281
+msgid "Incompatible with theme or plugin"
+msgstr "Incompatible avec le thème ou une extension"
+
+#: class/view/shortpixel-feedback.php:172
+msgid "What was the dificult part ?"
+msgstr "Quelle était la partie difficile ?"
+
+#: class/view/shortpixel-feedback.php:173
+msgid "What can we describe more ?"
+msgstr "Que pouvons-nous décrire plus ?"
+
+#: class/view/shortpixel-feedback.php:68
+msgid "Un-check this if you don\\'t plan to use ShortPixel in the future on this website. You might also want to run a Bulk Delete SP Metadata before removing the plugin (Media Library -> Bulk ShortPixel)."
+msgstr "Décochez cette case si vous ne prévoyez pas d’utiliser ShortPixel à l’avenir sur ce site web. Vous pouvez également exécuter une métadonnée SP de suppression en masse avant de supprimer l’extension (Médiathèque -> Bulk ShortPixel)."
+
+#: class/view/settings/part-nokey.php:72 class/view/shortpixel_view.php:845
+msgid "I have read and I agree to the <a href=\"https://shortpixel.com/tos\" target=\"_blank\">Terms of Service</a> and the <a href=\"https://shortpixel.com/privacy\" target=\"_blank\">Privacy Policy</a> (<a href=\"https://shortpixel.com/privacy#gdpr\" target=\"_blank\">GDPR compliant</a>)."
+msgstr "J’ai lu et j’accepte les <a href=\"https://shortpixel.com/tos\" target=\"_blank\">Termes d’utilisation</a> et la <a href=\"https://shortpixel.com/privacy\" target=\"_blank\">Politique de confidentialité</a> (<a href=\"https://shortpixel.com/privacy#gdpr\" target=\"_blank\">conforme au RGPD</a>)."
+
+#: class/view/shortpixel_view.php:1323
+msgid ""
+"Add patterns separated by comma. A pattern consist of a <strong>type:value</strong> pair; the accepted types are\n"
+"                                      <strong>\"name\"</strong>, <strong>\"path\"</strong> and <strong>\"size\"</strong>.\n"
+"                                       A file will be excluded if it matches any of the patterns.\n"
+"                                       <br>For a <strong>\"name\"</strong> pattern only the filename will be matched but for a <strong>\"path\"</strong>,\n"
+"                                       all the path will be matched (useful for excluding certain subdirectories altoghether).\n"
+"                                       For these you can also use regular expressions accepted by preg_match, but without \",\" or \":\".\n"
+"                                       A pattern will be considered a regex if it starts with a \"/\" and is valid.\n"
+"                                       <br>For the <strong>\"size\"</strong> type,\n"
+"                                       which applies only to Media Library images, <strong>the main images (not thumbnails)</strong> that have the size in the specified range will be excluded.\n"
+"                                       The format for the \"size\" exclude is: <strong>minWidth</strong>-<strong>maxWidth</strong>x<strong>minHeight</strong>-<strong>maxHeight</strong>, for example <strong>size:1000-1100x2000-2200</strong>. You can also specify a precise size, as <strong>1000x2000</strong>."
+msgstr ""
+"Ajouter des modèles séparés par des virgules. Un modèle est constitué d’une paire : <strong>type:value</strong>. Les valeurs acceptées sont les suivantes (documentation en anglais) :\n"
+"                                      <strong>\"name\"</strong>, <strong>\"path\"</strong> and <strong>\"size\"</strong>.\n"
+"                                       A file will be excluded if it matches any of the patterns.\n"
+"                                       <br>For a <strong>\"name\"</strong> pattern only the filename will be matched but for a <strong>\"path\"</strong>,\n"
+"                                       all the path will be matched (useful for excluding certain subdirectories altoghether).\n"
+"                                       For these you can also use regular expressions accepted by preg_match, but without \",\" or \":\".\n"
+"                                       A pattern will be considered a regex if it starts with a \"/\" and is valid.\n"
+"                                       <br>For the <strong>\"size\"</strong> type,\n"
+"                                       which applies only to Media Library images, <strong>the main images (not thumbnails)</strong> that have the size in the specified range will be excluded.\n"
+"                                       The format for the \"size\" exclude is: <strong>minWidth</strong>-<strong>maxWidth</strong>x<strong>minHeight</strong>-<strong>maxHeight</strong>, for example <strong>size:1000-1100x2000-2200</strong>. You can also specify a precise size, as <strong>1000x2000</strong>."
+
+#: class/view/shortpixel_view.php:327
+msgid ""
+"Go to the ShortPixel <a href=\"%soptions-general.php?page=wp-shortpixel-settings&part=stats\">Stats</a>\n"
+"                               and see all your websites' optimized stats. Download your detailed <a href=\"https://%s/v2/report.php?key=%s\">Optimization Report</a>\n"
+"                               to check your image optimization statistics for the last 30 days."
+msgstr ""
+"Aller dans les <a href=\"%soptions-general.php?page=wp-shortpixel-settings&part=stats\">Statistiques ShortPixel</a>\n"
+"                               et consultez les statistiques optimisées de vos sites. Téléchargez vos <a href=\"https://%s/v2/report.php?key=%s\">rapports d’optimisation</a>\n"
+"                               pour vérifier vos statistiques d’optimisation d’image des derniers 30 jours."
+
+#: class/view/settings/part-cloudflare.php:8 class/view/shortpixel_view.php:769
+msgid "Cloudflare API"
+msgstr "API Cloudflare"
+
+#: class/view/settings/part-cloudflare.php:18
+#: class/view/shortpixel_view.php:1410
+msgid "If you're using Cloudflare on your site then we advise you to fill in the details below. This will allow ShortPixel to work seamlessly with Cloudflare so that any image optimized/restored by ShortPixel will be automatically updated on Cloudflare as well."
+msgstr "Si vous utilisez Cloudflare sur votre site, nous vous conseillons de remplir les détails ci-dessous. Cela permettra à ShortPixel de fonctionner de manière fluide avec Cloudflare afin que toute image optimisée/restaurée par ShortPixel soit automatiquement mise à jour sur Cloudflare."
+
+#: class/view/shortpixel_view.php:1429
+msgid "Global API Key:"
+msgstr "Clé API globale :"
+
+#: class/view/settings/part-cloudflare.php:30
+#: class/view/shortpixel_view.php:1447
+msgid "This can be found in your Cloudflare account in the \"Overview\" section for your domain."
+msgstr "Cela peut être trouvé dans votre compte Cloudflare dans la section « Vue d’ensemble » de votre domaine."
+
+#: class/view/settings/part-cloudflare.php:71
+#: class/view/shortpixel_view.php:1417
+msgid "Cloudflare E-mail:"
+msgstr "E-mail Cloudflare :"
+
+#: class/view/settings/part-cloudflare.php:77
+#: class/view/shortpixel_view.php:1423
+msgid "The e-mail address you use to login to CloudFlare."
+msgstr "L’adresse de messagerie que vous utilisez pour vous connecter à CloudFlare."
+
+#: class/view/settings/part-cloudflare.php:65
+#: class/view/shortpixel_view.php:1435
+msgid "This can be found when you're logged into your account, on the My Profile page:"
+msgstr "Cela peut être trouvé lorsque vous êtes connecté à votre compte, sur la page Mon profil :"
+
+#: class/Controller/EditMediaController.php:196
+msgid "Excluded thumbnails:"
+msgstr "Miniatures exclues :"
+
+#: class/Controller/EditMediaController.php:203
+msgid "Missing thumbnails:"
+msgstr "Miniatures manquantes :"
+
+#: class/wp-short-pixel.php:470
+msgid "Please do not close this admin page."
+msgstr "Veuillez ne pas fermer cette page d’administration."
+
+#: class/view/settings/part-advanced.php:387
+#: class/view/shortpixel_view.php:1370
+msgid "Exclude thumbnail sizes"
+msgstr "Exclure les tailles de miniatures"
+
+#: class/view/settings/part-advanced.php:396
+#: class/view/shortpixel_view.php:1379
+msgid "Please check the thumbnail sizes you would like to <strong>exclude</strong> from optimization. There might be sizes created by themes or plugins which do not appear here, because they were not properly registered with WordPress. If you want to ignore them too, please uncheck the option <strong>Optimize other thumbs</strong> above."
+msgstr "Veuillez vérifier les tailles de miniature que vous souhaitez <strong>exclure</strong> de l’optimisation. Il peut y avoir des tailles créées par des thèmes ou des extensions qui n’apparaissent pas ici, car elles n’étaient pas correctement enregistrées avec WordPress. Si vous souhaitez également les ignorer, décochez l’option <strong>Optimiser les autres miniatures</strong> ci-dessus."
+
+#: class/wp-short-pixel.php:2055
+msgid "File %s cannot be restored due to lack of permissions, please contact your hosting provider to assist you in fixing this."
+msgstr "Le fichier %s ne peut pas être récupéré à cause d’un manque de droits d’accès, veuillez contacter votre fournisseur d’hébergement pour vous aider à corriger ce problème."
+
+#: class/view/settings/part-cloudflare.php:24
+#: class/view/shortpixel_view.php:1441
+msgid "Zone ID:"
+msgstr "ID de la zone :"
+
+#: class/Controller/EditMediaController.php:106
+#: class/view/shortpixel_view.php:1661
+msgid "Cleanup"
+msgstr "Nettoyer"
+
+#: class/view/settings/part-statistics.php:151
+#: class/view/shortpixel_view.php:1582
+msgid "Are you sure you want to delete all the backup images? You won't be able to restore from backup or to reoptimize with different settings if you delete the backups."
+msgstr "Confirmez-vous que vous voulez vraiment supprimer toutes les images de sauvegarde ? Vous ne pourrez pas restaurer à partir de la sauvegarde ou ré-optimiser avec différents réglages si vous supprimez les sauvegardes."
+
+#: class/view/settings/part-nokey.php:84 class/view/shortpixel_view.php:856
+msgid "If you already have an API Key please input it below and press Validate."
+msgstr "Si vous disposez d’une clé API veuillez la saisir ci-dessous et appuyez sur Valider."
+
+#: class/view/settings/part-nokey.php:81 class/view/shortpixel_view.php:853
+msgid "Already have an API Key:"
+msgstr "Vous avez déjà une clé API :"
+
+#: class/view/settings/part-nokey.php:39 class/view/shortpixel_view.php:815
+msgid "Request an API Key:"
+msgstr "Demander une clé API :"
+
+#: class/view/shortpixel_view.php:160 class/view/shortpixel_view.php:481
+msgid "Top-up your account to optimize more images."
+msgstr "Recharger votre compte pour optimiser plus d’images."
+
+#: class/Controller/AdminNoticesController.php:568
+#: class/view/shortpixel_view.php:64
+msgid "Confirm New Credits"
+msgstr "Confirmez les nouveaux crédits"
+
+#: class/view/shortpixel_view.php:1692
+msgid "Reduced by X%(unknown)"
+msgstr "Réduit de X% (inconnu)"
+
+#: class/view/settings/part-advanced.php:180
+#: class/view/shortpixel_view.php:1203
+msgid "You need PHP GD for this. Please ask your hosting to install it."
+msgstr "Vous avez besoin de PHP GD pour cela. Veuillez demander à votre hébergeur de l'installer."
+
+#: class/view/shortpixel_view.php:196 class/view/shortpixel_view.php:487
+msgid "Bulk Delete Pending Metadata"
+msgstr "Suppression en masse des métadonnées en attente"
+
+#: class/view/shortpixel_view.php:374
+msgid "(%s more)"
+msgstr "(%s de plus)"
+
+#: class/Controller/AdminNoticesController.php:455
+msgid "The following plugins are not compatible with ShortPixel and may lead to unexpected results: "
+msgstr "Les extensions suivantes ne sont pas compatibles avec ShortPixel et peuvent conduire à des résultats inattendus : "
+
+#: class/wp-short-pixel.php:390
+msgid "Are you sure you want to cleanup the pending metadata?"
+msgstr "Confirmez-vous vouloir vraiment nettoyer les métadonnées en attente ?"
+
+#: class/Controller/AdminNoticesController.php:248
+msgid "ShortPixel is not able to write to the uploads folder so it cannot optimize images, please check permissions (tried to create the file %s/.shortpixel-q-1)."
+msgstr "ShortPixel n’est pas en mesure d’écrire dans le dossier de téléversement, donc il ne peut pas optimiser les images, veuillez vérifier les droits d’accès (essayez de créer le fichier %s/.shortpixel-q-1)."
+
+#: class/shortpixel-png2jpg.php:451
+msgid "Excerpts"
+msgstr "Extraits"
+
+#: class/shortpixel-png2jpg.php:453
+msgid "Links"
+msgstr "Liens"
+
+#: class/shortpixel-png2jpg.php:455
+msgid "GUIDs"
+msgstr "GUID"
+
+#: class/wp-short-pixel.php:3490
+msgid "Test&nbsp;for&nbsp;free"
+msgstr "Essayer gratuitement"
+
+#: class/shortpixel-png2jpg.php:452
+msgid "Attachments"
+msgstr "Fichiers joints"
+
+#: class/Controller/EditMediaController.php:164
+msgid "Converted from PNG"
+msgstr "Convertit depuis PNG"
+
+#: class/view/settings/part-advanced.php:304
+#: class/view/shortpixel_view.php:1300
+msgid "Optimize other thumbs"
+msgstr "Optimiser les autres miniatures"
+
+#: class/view/settings/part-advanced.php:309
+#: class/view/shortpixel_view.php:1305
+msgid "Some plugins create thumbnails which are not registered in the metadata but instead only create them alongside the other thumbnails. Let ShortPixel optimize them as well."
+msgstr "Certaines extensions créent des miniatures qui ne sont pas enregistrées dans les métadonnées mais les créent uniquement à côté des autres miniatures. Laissez ShortPixel les optimiser également."
+
+#: class/shortpixel-png2jpg.php:454
+msgid "Custom Fields"
+msgstr "Custom Fields"
+
+#: class/shortpixel-png2jpg.php:450
+msgid "Content Items (Posts, Pages, Custom Post Types, Revisions)"
+msgstr "Éléments de contenu (articles, pages, type de publication personnalisé, révisions)"
+
+#: class/view/settings/part-advanced.php:296
+#: class/view/shortpixel_view.php:1292
+msgid "If you have a Retina plugin that generates Retina-specific images (@2x), ShortPixel can optimize them too, alongside the regular Media Library images and thumbnails."
+msgstr "Si vous disposez d’une extension Retina qui génère des images spécifiques à Retina (@ 2x), ShortPixel peut également les optimiser, en plus des images et des miniatures habituelles de la médiathèque."
+
+#: class/Controller/AdminNoticesController.php:565
+#: class/view/shortpixel_view.php:61
+msgid "Go to my account and select a plan"
+msgstr "Accéder à mon compte et sélectionner un plan"
+
+#: class/view/settings/part-general.php:180 class/view/shortpixel_view.php:986
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: class/Controller/AdminNoticesController.php:477
+msgid "For example, the image"
+msgstr "Par exemple, l’image"
+
+#: class/view/settings/part-general.php:86 class/view/shortpixel_view.php:926
+msgid "More info about glossy"
+msgstr "Plus d’infos sur glossy"
+
+#: class/view/settings/part-nokey.php:57 class/view/shortpixel_view.php:832
+msgid "Please provide a valid e-mail address."
+msgstr "Veuillez fournir une adresse de messagerie valide."
+
+#: class/view/settings/part-nokey.php:63 class/view/shortpixel_view.php:838
+msgid "Please input your e-mail address and press the Request Key button."
+msgstr "Veuillez entrer votre adresse de messagerie et appuyez sur le bouton demande de clé."
+
+#: class/Controller/AdminNoticesController.php:476
+msgid "<p>ShortPixel found thumbnails which are not registered in the metadata but present alongside the other thumbnails. These thumbnails could be created and needed by some plugin or by the theme. Let ShortPixel optimize them as well?</p>"
+msgstr "<p>ShortPixel a trouvé des miniatures qui ne sont pas enregistrées dans les métadonnées mais qui sont présentes à côté d’autres miniatures. Ces miniatures pourraient être créées et nécessaires pour certaines extensions ou par le thème. Laisser ShortPixel les optimiser également ?</p>"
+
+#: class/wp-short-pixel.php:389
+msgid "Are you sure you want to cleanup the ShortPixel metadata info for the images in your Media Library optimized with ShortPixel? This will make ShortPixel 'forget' that it optimized them and will optimize them again if you re-run the Bulk Optimization process."
+msgstr "Confirmez-vous que vous voulez vraiment nettoyer les informations de métadonnées de ShortPixel pour les images de votre médiathèque optimisées avec ShortPixel ? Cela fera oublier à ShortPixel qu’il les a optimisées et les optimisera à nouveau si vous ré-exécutez le processus d’optimisation groupée."
+
+#: class/Controller/AdminNoticesController.php:490
+#: class/Controller/AdminNoticesController.php:500
+#: class/Controller/AdminNoticesController.php:563
+#: class/view/shortpixel_view.php:59
+msgid "Show me the best available options"
+msgstr "Montrez-moi les meilleures options disponibles"
+
+#: class/view/settings/part-advanced.php:176
+#: class/view/shortpixel_view.php:1199
+msgid "Convert PNG images to JPEG"
+msgstr "Convertir des images PNG en JPEG"
+
+#: class/Controller/AdminNoticesController.php:589
+msgid "Upgrade your ShortPixel account"
+msgstr "Mettez à niveau votre compte ShortPixel"
+
+#: class/view/shortpixel_view.php:191 class/view/shortpixel_view.php:485
+msgid "Bulk Delete SP Metadata"
+msgstr "Supprimer en bloc les métadonnées SP"
+
+#: class/view/shortpixel_view.php:641
+msgid "Bulk cleanup has started."
+msgstr "Le nettoyage en masse a commencé."
+
+#: class/view/settings/part-advanced.php:179
+#: class/view/shortpixel_view.php:1202
+msgid "Automatically convert the PNG images to JPEG if possible."
+msgstr "Convertissez automatiquement les images PNG en JPEG si possible."
+
+#: class/view/shortpixel_view.php:1761
+msgid "Compare Images"
+msgstr "Comparer des images"
+
+#: class/wp-short-pixel.php:388
+msgid "Are you sure you want to restore from backup all the images in your Media Library optimized with ShortPixel?"
+msgstr "Confirmez-vous vouloir vraiment restaurer à partir de la sauvegarde toutes les images de votre médiathèque optimisées avec ShortPixel ?"
+
+#: class/view/shortpixel_view.php:640
+msgid "Media Library cleanup in progress ..."
+msgstr "Nettoyage de la médiathèque des médias en cours…"
+
+#: class/view/shortpixel_view.php:724 class/view/view-settings.php:16
+msgid "FAQ"
+msgstr "FAQ"
+
+#: class/wp-short-pixel.php:3488
+msgid " not processed."
+msgstr "Non traité."
+
+#: class/view/shortpixel_view.php:1253
+msgid "Each &lt;img&gt; will be replaced with a &lt;picture&gt; tag that will also provide the WebP image as a choice for browsers that support it. Also loads the picturefill.js for browsers that don't support the &lt;picture&gt; tag. You don't need to activate this if you're using the Cache Enabler plugin because your WebP images are already handled by this plugin. <strong>Please make a test before using this option</strong>, as if the styles that your theme is using rely on the position of your &lt;img&gt; tag, you might experience display problems."
+msgstr "Chaque « img » sera remplacée par une balise « picture » qui fournira également l’image WebP comme choix aux navigateurs qui la prennent en charge. Il charge également le fichier picturefill.js pour les navigateurs qui ne prennent pas en charge la balise « picture ». Vous n’avez pas besoin de l'activer si vous utilisez l’extension Cache Enabler car vos images WebP sont déjà gérées par cette extension. <strong>Veuillez effectuer un test avant d’utiliser cette option</strong>, car si les styles que votre thème utilise dépendent de la position de votre balise « img », vous risquez de rencontrer des problèmes d’affichage."
+
+#: class/view/settings/part-advanced.php:321
+#: class/view/shortpixel_view.php:1317
+msgid "Exclude patterns"
+msgstr "Exclure des modèles"
+
+#: class/view/settings/part-advanced.php:324
+#: class/view/shortpixel_view.php:1320
+msgid "name:keepbig, path:/ignore_regex/i, size:1000x2000"
+msgstr "nom : keepbig, chemin : /ignore_regex/i, taille : 1000x2000"
+
+#: class/view/settings/part-advanced.php:325
+#: class/view/shortpixel_view.php:1321
+msgid "Exclude certain images from being optimized, based on patterns."
+msgstr "Exclure certaines images de l’optimisation en se basant sur des motifs."
+
+#: class/wp-short-pixel.php:1177
+msgid "Restoring images...  "
+msgstr "Restauration des images... "
+
+#: class/view/shortpixel_view.php:929
+msgid ""
+"<b>Lossless compression: </b> the resulting image is pixel-identical with the original image.</br>Make sure not a single pixel looks different in the optimized image compared with the original.\n"
+"                                In some rare cases you will need to use this type of compression. Some technical drawings or images from vector graphics are possible situations."
+msgstr ""
+"<b> Compression Lossless : </b>l’image résultante est identique en pixels à l’image d’origine. </br>Assurez-vous qu’aucun pixel ne semble différent dans l’image optimisée par rapport à l’originale.\n"
+"                                  Dans certains cas rares, vous devrez utiliser ce type de compression. Certains dessins techniques ou images de graphiques vectoriels sont des situations possibles de cela."
+
+#: class/Controller/View/OtherMediaViewController.php:101
+#: class/view/shortpixel-list-table.php:77
+msgid "Re-optimize glossy"
+msgstr "Ré-optimiser glossy"
+
+#: class/view/shortpixel_view.php:413
+msgid "%s images and %s thumbnails were optimized <strong>%s</strong>. "
+msgstr "%s images et %s miniatures optimisées <strong>%s</strong>."
+
+#: class/view/shortpixel_view.php:416
+msgid "%s images were optimized <strong>%s</strong>. "
+msgstr "%s images ont été optimisées <strong>%s</strong>."
+
+#: class/view/shortpixel_view.php:636
+msgid "Bulk restore has started."
+msgstr "La restauration en bloc a commencé."
+
+#: class/Controller/View/OtherMediaViewController.php:655
+#: class/view/settings/part-general.php:73 class/view/shortpixel_view.php:913
+msgid "Glossy"
+msgstr "Brillant"
+
+#: class/view/settings/part-general.php:84 class/view/shortpixel_view.php:924
+msgid "<b>Glossy compression: </b>creates images that are almost pixel-perfect identical to the originals.</br> Best option for photographers and other professionals that use very high quality images on their sites and want best compression while keeping the quality untouched."
+msgstr "<b>Compression Glossy : </b> crée des images presque identiques au pixel près aux originales.</br>Meilleure option pour les photographes et autres professionnels qui utilisent des images de très haute qualité sur leurs sites et qui souhaitent la meilleure compression tout en conservant la qualité intacte."
+
+#: class/view/settings/part-general.php:81 class/view/shortpixel_view.php:921
+msgid "<b>Lossy compression (recommended): </b>offers the best compression rate.</br> This is the recommended option for most users, producing results that look the same as the original to the human eye."
+msgstr "<b>Compression avec perte (recommandée) : </b> offre le meilleur taux de compression.</br> Il s’agit de l’option recommandée pour la plupart des utilisateurs, produisant des résultats qui ressemblent à l’original pour l’œil humain."
+
+#: class/view/shortpixel_view.php:635
+msgid "Media Library restore in progress ..."
+msgstr "Restauration de la médiathèque en cours…"
+
+#: class/view/shortpixel_view.php:482
+msgid "Bulk Restore Media Library"
+msgstr "Restauration groupée de la médiathèque"
+
+#: class/view/settings/part-advanced.php:317
+#: class/view/shortpixel_view.php:1313
+msgid "Automatically optimize PDF documents."
+msgstr "Optimisez automatiquement les documents PDF."
+
+#: class/view/settings/part-advanced.php:314
+#: class/view/shortpixel_view.php:1310
+msgid "Optimize PDFs"
+msgstr "Optimiser les PDF"
+
+#: class/wp-short-pixel.php:1260
+msgid "Searching images to optimize...  "
+msgstr "Recherche d'images à optimiser..."
+
+#: class/wp-short-pixel.php:1008 shortpixel_api.php:103 shortpixel_api.php:105
+msgid "Image files are missing."
+msgstr "Les fichiers d’image sont manquants."
+
+#: class/view/shortpixel_view.php:547
+msgid "Too many images processing simultaneously for your site, automatically retrying in 1 min. Please don't close this window."
+msgstr "Trop d’images traitées simultanément sur votre site, réessayez automatiquement dans 1 min. Veuillez ne pas fermer cette fenêtre."
+
+#: class/view/shortpixel_view.php:543
+msgid "The ShortPixel API is in maintenance mode. Please don't close this window. The bulk will resume automatically as soon as the API is back online."
+msgstr "L’API ShortPixel est en mode maintenance. Veuillez ne pas fermer cette fenêtre. L’opération reprendra automatiquement dès que l’API sera de nouveau en ligne."
+
+#: class/Controller/AdminNoticesController.php:527
+#: class/view/shortpixel_view.php:31
+msgid "Average image<br>reduction so far:"
+msgstr "Réduction moyenne de l’image<br>Jusqu'à présent :"
+
+#: class/view/shortpixel_view.php:529
+msgid "While you wait for your images to optimize, check out Squirrly, a great plugin for further boosting your SEO."
+msgstr "Pendant que vous attendez que vos images soient optimisées, consultez Squirrly, une excellente extension pour booster davantage votre référencement."
+
+#: class/view/settings/part-statistics.php:82
+#: class/view/shortpixel_view.php:1524
+msgid "Your monthly plan"
+msgstr "Votre forfait mensuel"
+
+#: class/view/settings/part-nokey.php:50 class/view/shortpixel_view.php:825
+msgid "Request a new API key"
+msgstr "Demander une nouvelle clé API"
+
+#: class/view/settings/part-nokey.php:54 class/view/shortpixel_view.php:829
+msgid "Request Key"
+msgstr "Demander une Clé"
+
+#: class/view/settings/part-nokey.php:45 class/view/shortpixel_view.php:820
+msgid "E-mail address:"
+msgstr "Adresse de messagerie :"
+
+#: class/Controller/EditMediaController.php:99
+#: class/view/shortpixel_view.php:1653
+msgid "Cleanup&Retry"
+msgstr "Nettoyage & nouvelle tentative"
+
+#: class/wp-short-pixel.php:387
+msgid "Please do not set a {0} less than 1024, to be able to still regenerate all your thumbnails in case you'll ever need this."
+msgstr "Veuillez ne pas définir une {0} inférieur à 1024, pour pouvoir toujours régénérer toutes vos miniatures au cas où vous en auriez besoin."
+
+#: class/wp-short-pixel.php:386
+msgid "Please do not set a {0} less than the {1} of the largest thumbnail which is {2}, to be able to still regenerate all your thumbnails in case you'll ever need this."
+msgstr "Veuillez ne pas définir une {0} inférieur à {1} de la plus grande miniature qui est {2}, pour pouvoir régénérer toutes vos miniatures au cas où vous en auriez besoin."
+
+#: class/view/settings/part-nokey.php:61 class/view/shortpixel_view.php:836
+msgid "<b>%s</b> is the e-mail address in your WordPress Settings. You can use it, or change it to any valid e-mail address that you own."
+msgstr "<b>%s</b> est l’adresse de messagerie dans vos réglages WordPress. Vous pouvez l’utiliser ou la changer en n’importe quelle adresse de messagerie valide que vous possédez."
+
+#: class/view/settings/part-nokey.php:40 class/view/shortpixel_view.php:816
+msgid "If you don't have an API Key, you can request one for free. Just press the \"Request Key\" button after checking that the e-mail is correct."
+msgstr "Si vous n’avez pas de clé API, vous pouvez en demander une gratuitement. Appuyez simplement sur le bouton « Demander la clé » après avoir vérifié que l’adresse de messagerie est correcte."
+
+#: class/view/settings/part-advanced.php:6 class/view/shortpixel_view.php:759
+msgid "Advanced"
+msgstr "Avancé"
+
+#: class/view/settings/part-advanced.php:152
+#: class/view/shortpixel_view.php:1175
+msgid "Cancel"
+msgstr "Annuler"
+
+#: class/view/shortpixel_view.php:629
+msgid "Custom folders"
+msgstr "Dossiers personnalisés"
+
+#: class/view/settings/part-advanced.php:80
+#: class/view/settings/part-advanced.php:85
+#: class/view/settings/part-advanced.php:89
+#: class/view/settings/part-advanced.php:94 class/view/shortpixel_view.php:1110
+#: class/view/shortpixel_view.php:1115 class/view/shortpixel_view.php:1117
+#: class/view/shortpixel_view.php:1119
+msgid "Empty"
+msgstr "Vide"
+
+#: class/view/settings/part-statistics.php:150
+#: class/view/shortpixel_view.php:1581
+msgid "Empty backups"
+msgstr "Sauvegardes vides"
+
+#: class/db/shortpixel-meta-facade.php:460
+msgid "Error"
+msgstr "Erreur"
+
+#: shortpixel_api.php:465
+msgid "Error downloading file"
+msgstr "Erreur lors du téléchargement du fichier"
+
+#: class/view/settings/part-advanced.php:62 class/view/shortpixel_view.php:1100
+msgid "Files"
+msgstr "Fichiers"
+
+#: class/db/shortpixel-custom-meta-dao.php:265
+msgid "Folder already included in %s."
+msgstr "Dossier déjà inclus dans %s."
+
+#: class/view/settings/part-general.php:4 class/view/shortpixel_view.php:753
+msgid "General"
+msgstr "Général"
+
+#: class/view/shortpixel-list-table.php:18 class/wp-short-pixel.php:3487
+msgid "Image"
+msgstr "Image"
+
+#: class/wp-short-pixel.php:3477
+msgid "Image waiting to be processed."
+msgstr "Image en attente de traitement."
+
+#: class/view/shortpixel-list-table.php:19
+msgid "Images"
+msgstr "Images"
+
+#: class/view/shortpixel-list-table.php:156
+msgid "Keep EXIF"
+msgstr "Conserver les données EXIF"
+
+#: class/view/settings/part-advanced.php:63 class/view/shortpixel_view.php:1101
+msgid "Last change"
+msgstr "Dernier changement"
+
+#: class/Controller/View/OtherMediaViewController.php:658
+#: class/view/settings/part-general.php:76 class/view/shortpixel_view.php:916
+msgid "Lossless"
+msgstr "Sans perte"
+
+#: class/wp-short-pixel.php:1100
+msgid "Missing API Key"
+msgstr "Clé API manquante"
+
+#: class/view/settings/part-general.php:39
+#: class/view/settings/part-nokey.php:113 class/view/shortpixel_view.php:877
+msgid "Multisite API Key"
+msgstr "Clé API multisite"
+
+#: class/wp-short-pixel.php:1607
+msgid "NextGen image not found"
+msgstr "Image NextGen introuvable"
+
+#: class/view/shortpixel-list-table.php:69
+msgid "Optimize"
+msgstr "Optimiser"
+
+#: class/view/settings/part-advanced.php:166
+#: class/view/shortpixel_view.php:1189
+msgid "Optimize NextGen galleries"
+msgstr "Optimiser les galeries NextGen"
+
+#: class/wp-short-pixel.php:365
+msgid "Optimize with ShortPixel"
+msgstr "Optimiser avec ShortPixel"
+
+#: class/view/settings/part-advanced.php:82
+#: class/view/settings/part-advanced.php:89
+#: class/view/settings/part-advanced.php:94 class/view/shortpixel_view.php:1112
+#: class/view/shortpixel_view.php:1117 class/view/shortpixel_view.php:1119
+#: class/wp-short-pixel.php:3592
+msgid "Optimized"
+msgstr "Optimisé"
+
+#: class/view/shortpixel_view.php:574 class/wp-short-pixel.php:394
+msgid "Optimized image"
+msgstr "Image optimisée"
+
+#: class/view/shortpixel-list-table.php:37
+msgid "Options"
+msgstr "Options"
+
+#: class/view/shortpixel_view.php:570 class/wp-short-pixel.php:393
+msgid "Original image"
+msgstr "Image originale"
+
+#. translators: title and menu name for the Other media page
+#: shortpixel-plugin.php:176
+msgid "Other Media Optimized by ShortPixel"
+msgstr "Autres médias optimisés par ShortPixel"
+
+#: class/view/view-other-media.php:20
+msgid "Other Media optimized by ShortPixel"
+msgstr "Autres médias optimisés par ShortPixel"
+
+#: class/wp-short-pixel.php:3378
+msgid "PDF not processed."
+msgstr "PDF non traité."
+
+#: class/view/settings/part-advanced.php:347
+#: class/view/shortpixel_view.php:1343
+msgid "Password"
+msgstr "Mot de passe"
+
+#: class/view/settings/part-advanced.php:83
+#: class/view/settings/part-advanced.php:95
+#: class/view/shortpixel-list-table.php:137 class/view/shortpixel_view.php:1113
+#: class/view/shortpixel_view.php:1120
+msgid "Pending"
+msgstr "En attente"
+
+#: shortpixel_api.php:330
+msgid "Quota exceeded."
+msgstr "Quota dépassé."
+
+#: class/view/shortpixel_view.php:1724 class/view/shortpixel_view.php:1728
+msgid "Re-optimize"
+msgstr "Ré-optimiser"
+
+#: class/Controller/View/OtherMediaViewController.php:97
+#: class/view/shortpixel-list-table.php:73
+msgid "Re-optimize lossless"
+msgstr "Ré-optimiser sans perte"
+
+#: class/view/view-other-media.php:30
+msgid "Refresh folders"
+msgstr "Actualiser les dossiers"
+
+#: class/view/shortpixel_view.php:604
+msgid "Remaining credits"
+msgstr "Crédits restants"
+
+#: class/view/shortpixel_view.php:1732 class/wp-short-pixel.php:379
+msgid "Restore backup"
+msgstr "Restaurer la sauvegarde"
+
+#: class/Controller/EditMediaController.php:110
+#: class/Controller/View/OtherMediaViewController.php:95
+#: class/view/shortpixel-list-table.php:71 class/view/shortpixel_view.php:1666
+#: class/wp-short-pixel.php:383
+msgid "Retry"
+msgstr "Réessayer"
+
+#. Author of the plugin
+msgid "ShortPixel"
+msgstr "ShortPixel"
+
+#: class/view/shortpixel-list-table.php:334
+msgid "Show more details"
+msgstr "Afficher plus de détails"
+
+#: class/view/settings/part-advanced.php:89 class/view/shortpixel_view.php:1117
+msgid "Stop monitoring"
+msgstr "Arrêter la surveillance"
+
+#: class/Controller/View/OtherMediaViewController.php:137
+#: class/view/shortpixel-list-table.php:34
+msgid "Type"
+msgstr "Type"
+
+#: shortpixel_api.php:408 shortpixel_api.php:471
+msgid "Unable to locate downloaded file"
+msgstr "Impossible de localiser le fichier téléchargé"
+
+#: class/view/settings/part-nokey.php:121 class/view/shortpixel_view.php:885
+msgid "Validate"
+msgstr "Valider"
+
+#: class/view/settings/part-statistics.php:173
+#: class/view/shortpixel_view.php:784
+msgid "WP Resources"
+msgstr "Ressources WP"
+
+#: class/view/settings/part-statistics.php:13
+#: class/view/shortpixel_view.php:1466
+msgid "Your ShortPixel Stats"
+msgstr "Vos statistiques ShortPixel"
+
+#: class/view/shortpixel_view.php:148
+msgid "Your custom folders"
+msgstr "Vos dossiers personnalisés"
+
+#: class/view/shortpixel_view.php:628
+msgid "and"
+msgstr "et"
+
+#: class/Controller/View/OtherMediaViewController.php:630
+#: class/view/shortpixel-list-table.php:143
+msgid "code"
+msgstr "code"
+
+#. Author URI of the plugin
+msgid "https://shortpixel.com"
+msgstr "https://shortpixel.com"
+
+#. Plugin URI of the plugin
+msgid "https://shortpixel.com/"
+msgstr "https://shortpixel.com/"
+
+#: class/view/settings/part-advanced.php:203
+#: class/view/shortpixel_view.php:1219
+msgid "Adjust your images' colours for computer and mobile screen display."
+msgstr "Ajustez les couleurs de vos images pour l’affichage sur ordinateur et sur écran mobile."
+
+#: class/view/settings/part-advanced.php:200
+#: class/view/shortpixel_view.php:1216
+msgid "CMYK to RGB conversion"
+msgstr "Conversion CMJN en RVB"
+
+#: class/view/settings/part-general.php:115 class/view/shortpixel_view.php:954
+msgid "Image backup"
+msgstr "Sauvegarde d'image"
+
+#: class/view/settings/part-advanced.php:291
+#: class/view/shortpixel_view.php:1287
+msgid "Optimize Retina images"
+msgstr "Optimiser les images Retina"
+
+#: class/view/settings/part-general.php:127 class/view/shortpixel_view.php:962
+msgid "Remove EXIF"
+msgstr "Supprimer EXIF"
+
+#: class/view/settings/part-general.php:165 class/view/shortpixel_view.php:971
+msgid "Resize large images"
+msgstr "Redimensionner de grandes images"
+
+#: class/view/settings/part-statistics.php:9 class/view/shortpixel_view.php:776
+msgid "Statistics"
+msgstr "statistiques"
+
+#: class/view/shortpixel_view.php:725 class/view/view-settings.php:17
+msgid "Support"
+msgstr "support"
+
+#: shortpixel_api.php:236 shortpixel_api.php:246
+msgid "Timed out while processing."
+msgstr "Expiré lors du traitement."
+
+#: class/view/settings/part-general.php:168 class/view/shortpixel_view.php:974
+msgid "to maximum"
+msgstr "au maximum"
+
+#: class/view/shortpixel_view.php:723 class/view/view-settings.php:15
+msgid "Upgrade now"
+msgstr "Mettre à jour maintenant"
+
+#: class/view/settings/part-general.php:130 class/view/shortpixel_view.php:965
+msgid "Remove the EXIF tag of the image (recommended)."
+msgstr "Supprimez la balise EXIF ​​de l&rsquo;image (recommandé)."
+
+#: class/view/settings/part-advanced.php:404
+#: class/view/settings/part-general.php:306 class/view/shortpixel_view.php:1008
+#: class/view/shortpixel_view.php:1387
+msgid "Save and go to the Bulk Processing page"
+msgstr "Enregistrez et accédez à la page de traitement par lot"
+
+#: class/view/settings/part-advanced.php:404
+#: class/view/settings/part-general.php:306 class/view/shortpixel_view.php:1008
+#: class/view/shortpixel_view.php:1387
+msgid "Save and Go to Bulk Process"
+msgstr "Enregistrer et passer par lot"
+
+#: class/view/settings/part-general.php:118 class/view/shortpixel_view.php:957
+msgid "Save and keep a backup of your original images in a separate folder."
+msgstr "Enregistrez et conservez une sauvegarde de vos images d&rsquo;origine dans un dossier séparé."
+
+#: class/view/shortpixel_view.php:718 class/view/view-settings.php:9
+msgid "ShortPixel Plugin Settings"
+msgstr "Paramètres de l&rsquo;extension ShortPixel"
+
+#: class/view/settings/part-general.php:108 class/view/shortpixel_view.php:947
+msgid "thumbnails to optimize"
+msgstr "miniatures à optimiser"
+
+#: class/view/settings/part-advanced.php:354
+#: class/view/shortpixel_view.php:1360
+msgid "Optimize media on upload"
+msgstr "Optimiser les médias lors du téléversement"
+
+#: class/view/settings/part-statistics.php:141
+#: class/view/shortpixel_view.php:1573
+msgid "Original images are stored in a backup folder. Your backup folder's size is now:"
+msgstr "Les images initiales sont stockées dans un dossier de sauvegarde. La taille de votre dossier de sauvegarde est de :"
+
+#: class/view/settings/part-general.php:174 class/view/shortpixel_view.php:980
+msgid "pixels high (original aspect ratio is preserved and image is not cropped)"
+msgstr "pixels élevés (le rapport de format initial est préservé et l&rsquo;image n&rsquo;est pas rognée)"
+
+#: class/view/settings/part-general.php:171 class/view/shortpixel_view.php:977
+msgid "pixels wide &times;"
+msgstr "pixels de large &times;"
+
+#: class/view/settings/part-general.php:178 class/view/shortpixel_view.php:984
+msgid "Recommended for large photos, like the ones taken with your phone. Saved space can go up to 80% or more after resizing."
+msgstr "Recommandé pour les grandes photos, comme celles prises avec votre téléphone. L&rsquo;espace enregistré peut aller jusqu'à 80% ou plus après le redimensionnement."
+
+#: class/Controller/OtherMediaController.php:66
+msgid "The %s folder cannot be processed as it's not inside the root path of your website (%s)."
+msgstr "Le dossier %s ne peut être traité car il n'est pas dans le chemin racine de votre site (%s)"
+
+#: class/Controller/AdminNoticesController.php:574
+#: class/view/shortpixel_view.php:70
+msgid "for your unique referral link. For each user that joins, you will receive +100 additional image credits/month."
+msgstr "pour votre lien de parrainage unique. Pour chaque utilisateur qui nous rejoint, vous recevrez +100 crédits d’image supplémentaires/mois."
+
+#: class/view/shortpixel_view.php:138
+msgid "Already optimized thumbnails"
+msgstr "Miniatures déjà optimisées"
+
+#: class/view/shortpixel_view.php:218
+msgid "How does it work?"
+msgstr "Comment cela fonctionne ?"
+
+#: class/view/shortpixel_view.php:357
+msgid "%s images are not yet optimized by ShortPixel."
+msgstr "%s images ne sont pas encore optimisées par ShortPixel."
+
+#: class/view/shortpixel_view.php:364
+msgid "Some have errors"
+msgstr "Certaines contiennent des erreurs."
+
+#: class/view/settings/part-advanced.php:144
+#: class/view/settings/part-advanced.php:218
+#: class/view/settings/part-advanced.php:228
+#: class/view/settings/part-advanced.php:298
+#: class/view/settings/part-advanced.php:338 class/view/shortpixel_view.php:448
+#: class/view/shortpixel_view.php:1167 class/view/shortpixel_view.php:1233
+#: class/view/shortpixel_view.php:1294 class/view/shortpixel_view.php:1334
+msgid "More info"
+msgstr "Plus d’informations"
+
+#: class/view/shortpixel_view.php:630
+msgid "optimization in progress ..."
+msgstr "optimisation en cours..."
+
+#: class/view/settings/part-advanced.php:138
+#: class/view/shortpixel_view.php:1161
+msgid "Select ..."
+msgstr "Sélectionnez..."
+
+#: class/view/settings/part-advanced.php:153
+#: class/view/shortpixel_view.php:1176
+msgid "Select"
+msgstr "Choisir"
+
+#: class/view/settings/part-advanced.php:346
+#: class/view/shortpixel_view.php:1342
+msgid "User"
+msgstr "Utilisateur"
+
+#: class/view/shortpixel_view.php:359
+msgid "%s thumbnails are not yet optimized by ShortPixel."
+msgstr "%s vignettes ne sont pas encore optimisées par ShortPixel."
+
+#: class/Controller/EditMediaController.php:167
+msgid "Optimized on"
+msgstr "Optimisé le"
+
+#: class/wp-short-pixel.php:470
+msgid "ShortPixel optimizing..."
+msgstr "Optimisation par ShortPixel…"
+
+#: class/wp-short-pixel.php:3312 class/wp-short-pixel.php:3313
+#: class/wp-short-pixel.php:3314 class/wp-short-pixel.php:3315
+msgid " images"
+msgstr " Images"
+
+#: class/view/shortpixel_view.php:511 class/view/shortpixel_view.php:526
+msgid "Dismiss"
+msgstr "Ignorer"
+
+#: class/view/shortpixel_view.php:106
+msgid "Smaller thumbnails"
+msgstr "Petites miniatures"
+
+#: class/view/shortpixel_view.php:110 class/view/shortpixel_view.php:456
+msgid "Include thumbnails"
+msgstr "Inclure les miniatures"
+
+#: class/view/shortpixel_view.php:142 class/view/shortpixel_view.php:150
+msgid "Total to be optimized"
+msgstr "Total à optimiser"
+
+#: class/view/shortpixel_view.php:214
+msgid "The thumbnails also generate traffic on your website pages and they influence your website's speed."
+msgstr "Les miniatures génèrent également du trafic sur les pages de votre site Web et influencent la vitesse de votre site Web."
+
+#: class/view/shortpixel_view.php:220
+msgid "You will be able to pause the process anytime."
+msgstr "Vous pourrez interrompre le processus à tout moment."
+
+#: class/view/shortpixel_view.php:252 class/view/shortpixel_view.php:258
+msgid "Summary"
+msgstr "Résumé"
+
+#: class/view/shortpixel_view.php:231 class/view/shortpixel_view.php:354
+msgid "%s images and %s thumbnails are not yet optimized by ShortPixel."
+msgstr "%s images et %s miniatures ne sont pas encore optimisées par ShortPixel."
+
+#: class/view/shortpixel_view.php:434
+msgid " thumbnails will be restored to originals."
+msgstr "les miniatures seront restaurées vers les originaux."
+
+#: class/view/shortpixel_view.php:444
+msgid "Already  <strong>%s</strong> optimized images will not be reprocessed."
+msgstr "Les images déjà optimisées <strong>%s </strong> ne seront pas retraitées."
+
+#: class/view/settings/part-general.php:53
+#: class/view/settings/part-nokey.php:125 class/view/shortpixel_view.php:891
+msgid "Key defined in wp-config.php."
+msgstr "Clé définie dans wp-config.php."
+
+#: class/Model/ApiKeyModel.php:275
+msgid "here"
+msgstr "Ici"
+
+#: class/view/settings/part-advanced.php:168
+#: class/view/shortpixel_view.php:1191
+msgid "Optimize NextGen galleries."
+msgstr "Optimiser les galeries NextGen."
+
+#: class/view/settings/part-advanced.php:170
+#: class/view/shortpixel_view.php:1193
+msgid "Check this to add all your current NextGen galleries to the custom folders list and to also have all the future NextGen galleries and images optimized automatically by ShortPixel."
+msgstr "Cochez cette case pour ajouter toutes vos galeries NextGen actuelles à la liste des dossiers personnalisés et pour que toutes les futures galeries et images NextGen soient optimisées automatiquement par ShortPixel."
+
+#: class/view/settings/part-advanced.php:349
+#: class/view/shortpixel_view.php:1345
+msgid "Only fill in these fields if your site (front-end) is not publicly accessible and visitors need a user/pass to connect to it. If you don't know what is this then just <strong>leave the fields empty</strong>."
+msgstr "Ne remplissez ces champs que si votre site (frontal) n'est pas accessible au public et que les visiteurs ont besoin d'un nom d'utilisateur / pass pour s'y connecter. Si vous ne savez pas ce que c'est, alors <strong> laissez les champs vides </strong>."
+
+#: class/view/settings/part-statistics.php:161
+#: class/view/shortpixel_view.php:1592
+msgid "* Saved bandwidth is calculated at 10,000 impressions/image"
+msgstr "* La bande passante enregistrée est calculée à 10 000 impressions/image"
+
+#: class/Controller/EditMediaController.php:67
+#: class/view/shortpixel_view.php:1623 class/wp-short-pixel.php:581
+#: class/wp-short-pixel.php:668
+msgid "Optimization N/A"
+msgstr "Optimisation N/A"
+
+#: class/Controller/EditMediaController.php:73
+#: class/view/shortpixel_view.php:1632
+msgid "Invalid API Key. <a href=\"options-general.php?page=wp-shortpixel-settings\">Check your Settings</a>"
+msgstr "Clé API non valide. <a href=\"options-general.php?page=wp-shortpixel-settings\">Vérifiez vos paramètres</a>"
+
+#: class/Controller/EditMediaController.php:145
+#: class/view/shortpixel_view.php:1701
+msgid "+%s Retina images optimized"
+msgstr "+%s Images Rétina optimisées"
+
+#: class/Controller/View/OtherMediaViewController.php:104
+#: class/view/shortpixel_view.php:1748 class/wp-short-pixel.php:381
+msgid "Extend Quota"
+msgstr "Étendre le quota"
+
+#: class/view/shortpixel_view.php:1751 class/wp-short-pixel.php:382
+msgid "Check&nbsp;&nbsp;Quota"
+msgstr "Vérifier&nbsp;&nbsp;Quota"
+
+#: shortpixel_api.php:239
+msgid "Image ID"
+msgstr "ID image"
+
+#: shortpixel_api.php:239
+msgid "Media ID"
+msgstr "ID Média"
+
+#: shortpixel_api.php:240
+msgid "Skip this image, try the next one."
+msgstr "Ignorez cette image, essayez la suivante."
+
+#: shortpixel_api.php:322
+msgid "Unrecognized API response. Please contact support."
+msgstr "Réponse API non reconnue. Veuillez contacter le support."
+
+#. translators: title and menu name for the Bulk Processing page
+#: shortpixel-plugin.php:179
+msgid "ShortPixel Bulk Process"
+msgstr "Processus en Bloc de ShortPixel"
+
+#. translators: title and menu name for the Bulk Processing page
+#: shortpixel-plugin.php:179
+msgid "Bulk ShortPixel"
+msgstr "ShortPixel En Bloc"
+
+#: class/wp-short-pixel.php:257
+msgid "Media alert dismissed"
+msgstr "Alerte médias rejetée"
+
+#: class/wp-short-pixel.php:375
+msgid "+{0} thumbnails optimized"
+msgstr "+ {0} miniatures optimisées"
+
+#: class/wp-short-pixel.php:376
+msgid "+{0} Retina images optimized"
+msgstr "+{0} Images Retina optimisées"
+
+#: class/wp-short-pixel.php:377
+msgid "Optimize {0} thumbnails"
+msgstr "Optimiser les miniatures de {0}"
+
+#: class/wp-short-pixel.php:378
+msgid "Reoptimize {0}"
+msgstr "Réoptimisez {0}"
+
+#: class/wp-short-pixel.php:380
+msgid "Get API Key"
+msgstr "Obtenir la clé API"
+
+#: class/wp-short-pixel.php:384
+msgid "This content is not processable."
+msgstr "Ce contenu ne peut être traité."
+
+#: class/wp-short-pixel.php:482
+msgid "ShortPixel quota exceeded. Click for details."
+msgstr "Le quota ShortPixel a été dépassé. Cliquer pour plus de détails."
+
+#: class/wp-short-pixel.php:1410
+msgid " Retry limit reached. Skipping file ID "
+msgstr "Limite de nouvelles tentatives atteinte. ID du fichier ignoré"
+
+#: class/view/view-other-media.php:29
+msgid "Refresh custom folders content"
+msgstr "Actualiser le contenu des dossiers personnalisés"
+
+#: class/wp-short-pixel.php:2778 class/wp-short-pixel.php:2786
+#: class/wp-short-pixel.php:2919 class/wp-short-pixel.php:2965
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous ne disposez pas des autorisations suffisantes pour accéder à cette page."
+
+#: class/Controller/SettingsController.php:88 class/Model/ApiKeyModel.php:268
+msgid "The key you provided has %s characters. The API key should have 20 characters, letters and numbers only."
+msgstr "La clé que vous avez fournie contient %s caractères. La clé API ne doit comporter que 20 caractères, lettres et chiffres uniquement."
+
+#: class/Model/ApiKeyModel.php:270
+msgid "Please check that the API key is the same as the one you received in your confirmation email."
+msgstr "Veuillez vérifier que la clé API est la même que celle que vous avez reçue dans votre e-mail de confirmation."
+
+#: class/Model/ApiKeyModel.php:272
+msgid "If this problem persists, please contact us at "
+msgstr "Si ce problème persiste, veuillez nous contacter à"
+
+#: class/Model/ApiKeyModel.php:274
+msgid " or "
+msgstr "ou"
+
+#: class/Controller/SettingsController.php:445
+msgid "Folder added successfully."
+msgstr "Le dossier a bien été ajouté."
+
+#: class/wp-short-pixel.php:3261 class/wp-short-pixel.php:3262
+msgid "Information unavailable. Please check your API key."
+msgstr "Information non disponible. Veuillez vérifier votre clé API."
+
+#: class/wp-short-pixel.php:3632
+msgid "ShortPixel Info"
+msgstr "Info ShortPixel"
+
+#: class/wp-short-pixel.php:3739
+msgid "ShortPixel Statistics"
+msgstr "Statistiques ShortPixel"
+
+#: class/view/shortpixel_view.php:134
+msgid "Total images"
+msgstr "Toutes les images"
+
+#: class/view/shortpixel_view.php:104
+msgid "Original images"
+msgstr "Images originales"
+
+#: class/Controller/View/OtherMediaViewController.php:103
+#: class/view/shortpixel-list-table.php:79
+msgid "Check quota"
+msgstr "Vérifier le quota "
+
+#: class/view/shortpixel-list-table.php:81
+msgid "Restore"
+msgstr "Restaurer"
+
+#: class/Controller/View/OtherMediaViewController.php:114
+#: class/view/shortpixel-list-table.php:86
+msgid "View"
+msgstr "Voir"
+
+#: class/Controller/EditMediaController.php:128
+#: class/Controller/View/OtherMediaViewController.php:647
+#: class/view/shortpixel-list-table.php:133 class/view/shortpixel_view.php:1693
+#: class/wp-short-pixel.php:373
+msgid "Reduced by"
+msgstr "Réduit de "
+
+#: class/view/shortpixel-list-table.php:32
+msgid "Filename"
+msgstr "Nom de fichier"
+
+#: class/Controller/View/OtherMediaViewController.php:133
+#: class/view/shortpixel-list-table.php:33
+msgid "Folder"
+msgstr "Répertoire"
+
+#: class/view/shortpixel_view.php:291
+msgid "Tweet"
+msgstr "Tweet"
+
+#: class/view/settings/part-general.php:12
+#: class/view/settings/part-nokey.php:94 class/view/shortpixel_view.php:863
+msgid "API Key:"
+msgstr "Clé API"
+
+#: class/view/settings/part-general.php:45
+#: class/view/settings/part-nokey.php:119 class/view/shortpixel_view.php:883
+msgid "Validate the provided API key"
+msgstr "Valider la clé API fournie"
+
+#: class/view/settings/part-advanced.php:60 class/view/shortpixel_view.php:1098
+msgid "Folder name"
+msgstr "Nom du répertoire"
+
+#: class/Controller/OtherMediaController.php:71
+#: class/db/shortpixel-custom-meta-dao.php:243
+msgid "This folder contains the ShortPixel Backups. Please select a different folder."
+msgstr "Le dossier contient les sauvegardes ShortPixel. Veuillez sélectionner un dossier différent."
+
+#. translators: header of the alert box
+#: class/Controller/AdminNoticesController.php:543
+#: class/Controller/EditMediaController.php:76
+#: class/view/shortpixel_view.php:44 class/view/shortpixel_view.php:1753
+msgid "Quota Exceeded"
+msgstr "Quota dépassé"
+
+#: class/view/shortpixel_view.php:614
+msgid "Average reduction"
+msgstr "Réduction moyenne"
+
+#: class/view/shortpixel-list-table.php:157
+msgid "Preserve CMYK"
+msgstr "Préserver CMYK"
+
+#: class/Controller/View/OtherMediaViewController.php:652
+#: class/view/settings/part-general.php:70 class/view/shortpixel_view.php:910
+msgid "Lossy"
+msgstr "Avec perte"
+
+#: class/view/settings/part-advanced.php:83
+#: class/view/settings/part-advanced.php:95
+#: class/view/shortpixel-list-table.php:139 class/view/shortpixel_view.php:1113
+#: class/view/shortpixel_view.php:1120
+msgid "Waiting"
+msgstr "En attente"
+
+#: class/Controller/EditMediaController.php:133
+#: class/Controller/View/OtherMediaViewController.php:645
+#: class/view/shortpixel-list-table.php:132
+#: class/view/shortpixel-list-table.php:134 class/view/shortpixel_view.php:1696
+#: class/wp-short-pixel.php:374
+msgid "Bonus processing"
+msgstr "Processus bonus"
+
+#: class/Controller/View/OtherMediaViewController.php:615
+#: class/view/shortpixel-list-table.php:125
+msgid "Restored"
+msgstr "Récupéré"
+
+#: class/Controller/AdminNoticesController.php:566
+#: class/view/shortpixel_view.php:62
+msgid "Upgrade"
+msgstr "Mettre à niveau"
+
+#: class/Controller/AdminNoticesController.php:573
+#: class/view/shortpixel_view.php:69
+msgid "Check your account"
+msgstr "Vérifier votre compte"
+
+#: class/view/shortpixel_view.php:136
+msgid "Already optimized originals"
+msgstr "Originaux optimisés"
+
+#: class/view/shortpixel_view.php:1144
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+#: class/view/settings/part-advanced.php:96 class/view/shortpixel_view.php:1121
+msgid "Failed"
+msgstr "Échoué"
+
+#: class/view/settings/part-advanced.php:53 class/view/shortpixel_view.php:1092
+msgid "Additional media folders"
+msgstr "Dossiers média supplémentaires"
+
+#: class/view/settings/part-advanced.php:403
+#: class/view/settings/part-cloudflare.php:86
+#: class/view/settings/part-cloudflare.php:87
+#: class/view/settings/part-general.php:305 class/view/shortpixel_view.php:1007
+#: class/view/shortpixel_view.php:1386 class/view/shortpixel_view.php:1455
+#: class/view/shortpixel_view.php:1456
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: class/view/shortpixel_view.php:667
+msgid "Pause"
+msgstr "Mettre en pause"
+
+#: class/view/shortpixel_view.php:648
+msgid "optimization paused"
+msgstr "optimisation mise en pause"
+
+#: class/view/shortpixel_view.php:648
+msgid "and Custom folders"
+msgstr "et dossiers personnalisés"
+
+#: class/view/shortpixel_view.php:672
+msgid "Only other media"
+msgstr "Autre média uniquement"
+
+#: class/view/settings/part-advanced.php:150
+#: class/view/shortpixel_view.php:1173
+msgid "Select the images folder"
+msgstr "Sélectionner le dossier des images"
+
+#: class/view/settings/part-advanced.php:137
+#: class/view/shortpixel_view.php:1160
+msgid "Select the images folder on your server."
+msgstr "Sélectionner le dossier des images sur votre serveur."
+
+#: class/view/settings/part-advanced.php:367
+#: class/view/shortpixel_view.php:1353
+msgid "Automatically optimize images added by users in front end."
+msgstr "Optimiser automatiquement les images ajoutées par les utilisateurs en front end."
+
+#: class/view/settings/part-advanced.php:364
+#: class/view/shortpixel_view.php:1350
+msgid "Process in front-end"
+msgstr "Procéder en front-end"
+
+#: class/view/settings/part-advanced.php:344
+#: class/view/shortpixel_view.php:1340
+msgid "HTTP AUTH credentials"
+msgstr "identifiants HTTP AUTH"
+
+#: class/view/settings/part-advanced.php:294
+#: class/view/shortpixel_view.php:1290
+msgid "Also optimize the Retina images (@2x) if they exist."
+msgstr "Optimiser aussi les images Retina (@2x) si elles existent."
+
+#: class/Controller/EditMediaController.php:150
+msgid " WebP images"
+msgstr "Images WebP"
+
+#: class/Controller/EditMediaController.php:91
+#: class/Controller/View/OtherMediaViewController.php:93
+#: class/view/shortpixel_view.php:1641
+msgid "Optimize now"
+msgstr "Optimiser maintenant"
+
+#: class/view/settings/part-statistics.php:38
+#: class/view/shortpixel_view.php:688
+msgid "Average optimization:"
+msgstr "Optimisation moyenne :"
+
+#: shortpixel_api.php:512
+msgid "Backup folder does not exist and it cannot be created"
+msgstr "Le dossier de sauvegarde n’existe pas et ne peut pas être créé"
+
+#: shortpixel_api.php:539
+msgid "Cannot save file <i>%s</i> in backup directory"
+msgstr "Impossible d’enregistrer le fichier <i>%s</i> dans le répertoire de sauvegarde"
+
+#: shortpixel_api.php:548
+msgid "Cannot save file in backup directory"
+msgstr "Impossible d’enregistrer le fichier dans le répertoire de sauvegarde"
+
+#: class/wp-short-pixel.php:3459 class/wp-short-pixel.php:3461
+msgid "Cannot write optimized file"
+msgstr "Impossible d’écrire le fichier optimisé"
+
+#: class/view/shortpixel_view.php:250
+msgid "Congratulations!"
+msgstr "Félicitations !"
+
+#. translators: console message Empty queue 1234 -> 1234
+#: class/wp-short-pixel.php:1124
+msgid "Empty queue "
+msgstr "File d’attente vide "
+
+#: class/wp-short-pixel.php:3473
+msgid "Image does not exist"
+msgstr "L’image n’existe pas"
+
+#: class/view/settings/part-advanced.php:89 class/view/shortpixel_view.php:1117
+msgid "Stop optimizing"
+msgstr "Arrêtez l’optimisation"
+
+#: shortpixel_api.php:266 shortpixel_api.php:302 shortpixel_api.php:305
+msgid "There was an error and your request was not processed."
+msgstr "Une erreur s’est produite et votre demande n’a pas été traitée."
+
+#: class/view/settings/part-statistics.php:34
+#: class/view/shortpixel_view.php:685
+msgid "Total files processed:"
+msgstr "Nombre de fichiers traités :"
+
+#: class/view/shortpixel_view.php:1099
+msgid "Type &amp;<br>Status"
+msgstr "Type &amp;<br>État"
+
+#: class/view/settings/part-statistics.php:36
+msgid "Used quota:"
+msgstr "Quota utilisé :"
+
+#: class/wp-short-pixel.php:3462
+msgid "Why?"
+msgstr "Pourquoi ?"
+
+#: class/view/settings/part-statistics.php:89
+#: class/view/shortpixel_view.php:1531
+msgid "%s/month, renews in %s  days, on %s ( <a href=\"https://shortpixel.com/login/%s\" target=\"_blank\">Need More? See the options available</a> )"
+msgstr " %s / mois, est renouvelé dans %s jours, le %s (<a href=\"https://shortpixel.com/login/%s\" target=\"_blank\">Besoin de plus ? Consultez les options disponibles</a>)"
+
+#: class/view/settings/part-statistics.php:163
+#: class/view/shortpixel_view.php:1594
+msgid "** Increase your image quota by <a href=\"https://shortpixel.com/login/%s\" target=\"_blank\">upgrading your ShortPixel plan.</a>"
+msgstr "** Augmentez votre quota d’images par <a href=\"https://shortpixel.com/login/%s\" target=\"_blank\">mise à niveau de votre offre ShortPixel.</a>"
+
+#: class/view/settings/part-statistics.php:92
+#: class/view/shortpixel_view.php:1534
+msgid "<a href=\"https://shortpixel.com/login/%s/tell-a-friend\" target=\"_blank\">Join our friend referral system</a> to win more credits. For each user that joins, you receive +100 images credits/month."
+msgstr "<a href=\"https://shortpixel.com/login/%s/tell-a-friend\" target=\"_blank\">Rejoignez notre système de parrainage d’amis</a> pour gagner plus de crédits. Pour chaque utilisateur qui rejoint, vous recevez +100 crédits images / mois."
+
+#: class/view/settings/part-general.php:105 class/view/shortpixel_view.php:944
+msgid "Also include thumbnails:"
+msgstr "Inclure également les miniatures :"
+
+#: class/view/settings/part-general.php:107 class/view/shortpixel_view.php:946
+msgid "Apply compression also to <strong>image thumbnails.</strong> "
+msgstr "Appliquez également la compression aux <strong>miniatures d’image</strong> . "
+
+#: class/view/settings/part-statistics.php:18
+#: class/view/shortpixel_view.php:1471
+msgid "Average compression of your files:"
+msgstr "Compression moyenne de vos fichiers :"
+
+#: class/view/shortpixel_view.php:93 class/view/shortpixel_view.php:502
+#: class/view/view-restore-all.php:5
+msgid "Bulk Image Optimization by ShortPixel"
+msgstr "Optimisation d’image en masse par ShortPixel"
+
+#: class/view/settings/part-advanced.php:369
+#: class/view/shortpixel_view.php:1355
+msgid "Check this if you have users that add images or PDF documents from custom forms in the front-end. This could increase the load on your server if you have a lot of users simultaneously connected."
+msgstr "Cochez cette option si vous avez des utilisateurs qui ajoutent des images ou des documents PDF à partir de formulaires personnalisés dans l’interface frontale. Cela pourrait augmenter la charge sur votre serveur si plusieurs utilisateurs sont connectés simultanément."
+
+#: class/view/settings/part-advanced.php:204
+#: class/view/shortpixel_view.php:1220
+msgid "Images for the web only need RGB format and converting them from CMYK to RGB makes them smaller."
+msgstr "Les images destinées au web ont uniquement besoin du format RVB et leur conversion de CMJN à RVB les réduit."
+
+#: class/view/settings/part-general.php:110 class/view/shortpixel_view.php:949
+msgid "It is highly recommended that you optimize the thumbnails as they are usually the images most viewed by end users and can generate most traffic.<br>Please note that thumbnails count up to your total quota."
+msgstr "Il est vivement recommandé d'optimiser les miniatures, car ce sont généralement les images les plus visionnées par les utilisateurs finaux et peuvent générer le plus de trafic.<br>Veuillez noter que les vignettes comptent pour votre quota total."
+
+#: class/view/shortpixel_view.php:425
+msgid "%s images and %s thumbnails were optimized <strong>%s</strong>. You can re-optimize <strong>%s</strong> the ones that have backup."
+msgstr "%s images et %s miniatures ont été optimisées <strong>%s </strong>. Vous pouvez ré-optimiser <strong>%s </strong> celles qui ont une sauvegarde."
+
+#. Description of the plugin
+msgid "ShortPixel optimizes images automatically, while guarding the quality of your images. Check your <a href=\"options-general.php?page=wp-shortpixel-settings\" target=\"_blank\">Settings &gt; ShortPixel</a> page on how to start optimizing your image library and make your website load faster."
+msgstr "ShortPixel optimise automatiquement les images, tout en préservant leur qualité. Consultez votre page <a href=\"options-general.php?page=wp-shortpixel-settings\" target=\"_blank\">Réglages &gt; ShortPixel</a> pour savoir comment commencer à optimiser votre bibliothèque d’images et accélérer le chargement de votre site web."
+
+#: class/Model/ApiKeyModel.php:252
+msgid "There is something preventing us to create a new folder for backing up your original files.<BR>Please make sure that folder <b>%s</b> has the necessary write and read rights."
+msgstr "Quelque chose nous empêche de créer un nouveau dossier pour sauvegarder vos fichiers d’origine.<br>Veuillez vous assurer que le dossier <b>%s</b> dispose des droits d’écriture et de lecture nécessaires."
+
+#: class/Model/ApiKeyModel.php:244
+msgid "Great, your API Key is valid. Please take a few moments to review the plugin settings before starting to optimize your images."
+msgstr "Génial, votre clé API est valide. Veuillez prendre quelques instants pour revoir les réglages de l’extension ci-dessous avant de commencer à optimiser vos images."
+
+#: class/Model/ApiKeyModel.php:237
+msgid "API Key is valid but your site is not accessible from our servers. Please make sure that your server is accessible from the Internet before using the API or otherwise we won't be able to optimize them."
+msgstr "La clé API est valide mais votre site n’est pas accessible à partir de nos serveurs. Veuillez vous assurer que votre serveur est accessible depuis Internet avant d’utiliser l’API, sinon nous ne pourrons pas les optimiser."
+
+#: class/wp-short-pixel.php:2468 class/wp-short-pixel.php:2533
+msgid "Please optimize image for ID: "
+msgstr "Veuillez optimiser l’image pour l’ID : "
+
+#: class/view/shortpixel_view.php:251
+msgid "Your media library has been successfully optimized!"
+msgstr "Votre médiathèque a bien été optimisée !"
+
+#: class/Controller/AdminNoticesController.php:227
+msgid "Your image gallery is not optimized. It takes 2 minutes to <a href='https://shortpixel.com/wp-apikey' target='_blank'>get your API key</a> and activate your ShortPixel plugin."
+msgstr "Votre galerie d’images n’est pas optimisée. Il faut 2 minutes pour <a href='https://shortpixel.com/wp-apikey' target='_blank'>obtenir votre clé API </a> et activer votre extension ShortPixel."
+
+#: class/view/shortpixel_view.php:47 class/wp-short-pixel.php:2569
+msgid "You have no available image credits. If you just bought a package, please note that sometimes it takes a few minutes for the payment confirmation to be sent to us by the payment processor."
+msgstr "Vous n’avez aucun crédit image disponible. Si vous avez acheté un package, veuillez noter que cela peut prendre plusieurs minutes pour que la confirmation de paiement nous soit communiquée par l’organisme de paiement."
+
+#: class/view/shortpixel_view.php:222
+msgid "You can watch the images being processed live, right here, after you start optimizing."
+msgstr "Vous pouvez regarder les images en cours de traitement en direct, ici, après avoir commencé l’optimisation."
+
+#: class/view/shortpixel_view.php:236
+msgid "You can continue optimizing your Media Gallery from where you left, by clicking the Resume processing button. Already optimized images will not be reprocessed."
+msgstr "Vous pouvez continuer à optimiser votre galerie de médias là où vous avez quitté, en cliquant sur le bouton reprendre le traitement. Les images déjà optimisées ne seront pas retraitées."
+
+#: class/view/settings/part-general.php:119 class/view/shortpixel_view.php:958
+msgid "You <strong>need to have backup active</strong> in order to be able to restore images to originals or to convert from Lossy to Lossless and back."
+msgstr "Vous <strong>avez besoin d’une sauvegarde active</strong> d’abord pour être capable de restaurer les images vers les originaux ou pour convertir de Lossy à Lossless et inversement."
+
+#: class/wp-short-pixel.php:2474 class/wp-short-pixel.php:2533
+msgid "No thumbnails to optimize for ID: "
+msgstr "Aucune miniature à optimiser pour l’ID : "
+
+#: class/wp-short-pixel.php:2423 class/wp-short-pixel.php:2445
+msgid "Could not restore from backup: "
+msgstr "Impossible de restaurer à partir de la sauvegarde : "
+
+#: class/wp-short-pixel.php:385
+msgid "Image waiting to optimize thumbnails"
+msgstr "Image en attente pour optimiser les miniatures"
+
+#: class/wp-short-pixel.php:372
+msgid "Are you sure you want to stop optimizing the folder {0}?"
+msgstr "Confirmez-vous vouloir vraiment arrêter l’optimisation du dossier {0} ?"
+
+#: class/wp-short-pixel.php:371
+msgid "This type of optimization will apply to new uploaded images. Images that were already processed will not be re-optimized unless you restart the bulk process."
+msgstr "Ce type d’optimisation s’appliquera aux nouvelles images téléversées. Les images déjà traitées ne seront pas ré-optimisées à moins que vous ne redémarriez le processus en masse."
+
+#: class/wp-short-pixel.php:370
+msgid "In order to access the ShortPixel Optimization actions and info, please change to {0}List View{1}List View{2}Dismiss{3}"
+msgstr "Pour accéder aux actions et informations d’optimisation de ShortPixel, veuillez passer à {0} Voir liste{1}Voir liste{2}Ignorer{3}"
+
+#: class/view/settings/part-statistics.php:175
+#: class/view/shortpixel_view.php:786
+msgid "Please reload"
+msgstr "Veuillez rafraîchir"
+
+#: class/view/settings/part-statistics.php:39
+#: class/view/shortpixel_view.php:689
+msgid "Saved space:"
+msgstr "Espace économisé :"
+
+#: class/view/settings/part-statistics.php:35
+#: class/view/shortpixel_view.php:686
+msgid "Minus files with <5% optimization (free):"
+msgstr "Petits fichiers avec optimisation <5% (gratuit) :"
+
+#: class/view/settings/part-statistics.php:33
+#: class/view/shortpixel_view.php:684
+msgid "Processed Thumbnails:"
+msgstr "Miniatures traitées :"
+
+#: class/view/settings/part-statistics.php:32
+#: class/view/shortpixel_view.php:683
+msgid "Processed Images and PDFs:"
+msgstr "Images et PDF traités :"
+
+#. translators: title and menu name for the Other media page
+#: shortpixel-plugin.php:176
+msgid "Other Media"
+msgstr "Autres médias"
+
+#: shortpixel-plugin.php:172
+msgid "ShortPixel Settings"
+msgstr "Réglages ShortPixel"
+
+#: shortpixel_api.php:826
+msgid "Optimized version of %s file(s) couldn't be updated."
+msgstr "La version optimisée du %s fichier(s) n’a pas pu être mise à jour."
+
+#: shortpixel_api.php:481
+msgid "Error downloading file - incorrect file size (downloaded: %s, correct: %s )"
+msgstr "Erreur lors du téléchargement du fichier - taille de fichier incorrecte (téléchargé : %s, correct : %s)"
+
+#: class/wp-short-pixel.php:3467 shortpixel_api.php:221
+msgid "The file(s) do not exist on disk: "
+msgstr "Le ou les fichiers n’existent pas sur le disque : "
+
+#: class/view/shortpixel_view.php:1723 class/view/shortpixel_view.php:1727
+msgid "Reoptimize from the backed-up image"
+msgstr "Ré-optimiser à partir de l’image sauvegardée"
+
+#: class/view/shortpixel_view.php:1716
+msgid "Optimize %s  thumbnails"
+msgstr "Optimiser les %s miniatures"
+
+#: class/view/shortpixel_view.php:1700
+msgid "+%s thumbnails optimized"
+msgstr "+%s miniatures optimisées"
+
+#: class/Controller/EditMediaController.php:138
+#: class/view/shortpixel_view.php:1699
+msgid "+%s of %s thumbnails optimized"
+msgstr "+%s sur %s miniatures optimisées"
+
+#: class/view/shortpixel_view.php:1630
+msgid "Please <a href=\"options-general.php?page=wp-shortpixel-settings\">go to Settings</a> to validate the API Key."
+msgstr "Veuillez <a href=\"options-general.php?page=wp-shortpixel-settings\"> aller dans Réglages </a> pour valider la clé API."
+
+#: class/Controller/EditMediaController.php:70
+#: class/view/shortpixel_view.php:1626
+msgid "Image does not exist."
+msgstr "L’image n’existe pas."
+
+#: class/view/shortpixel_view.php:1512
+msgid "Bandwith* saved by ShortPixel:"
+msgstr "Bande passante* enregistrée par ShortPixel :"
+
+#: class/view/shortpixel_view.php:1231
+msgid "WebP images can be up to three times smaller than PNGs and 25% smaller than JPGs. Choosing this option <strong>does not use up additional credits</strong>."
+msgstr "Les images WebP peuvent être jusqu’à trois fois plus petites que les PNG et 25% plus petites que les JPG. Choisir cette option <strong>n’utilise pas de crédits supplémentaires</strong>."
+
+#: class/view/shortpixel_view.php:1143
+msgid "Full folder refresh, check each file of the folder if it changed since it was optimized. Might take up to 1 min. for big folders."
+msgstr "Actualisation complète du dossier, vérifie si chaque fichier du dossier a changé depuis qu’il a été optimisé. Peut prendre jusqu’à 1 min. pour les gros dossiers."
+
+#: class/view/shortpixel_view.php:1087
+msgid "Please enter your API key in the General tab first."
+msgstr "Veuillez d’abord saisir votre clé API dans l’onglet Principal."
+
+#: class/view/settings/part-general.php:192
+#: class/view/settings/part-general.php:247 class/view/shortpixel_view.php:997
+msgid "Sizes will be smaller or equal to the corresponding value. For example, if you set the resize dimensions at 1000x1200, an image of 2000x3000px will be resized to 800x1200px while an image of 3000x2000px will be resized to 1000x667px"
+msgstr "Les tailles seront plus petites ou égales à la valeur correspondante. Par exemple, si vous définissez les tailles de redimensionnement à 1000x1200, une image de 2000x3000px sera redimensionnée à 800x1200px tandis qu’une image de 3000x2000px sera redimensionnée à 1000x667px"
+
+#: class/view/settings/part-general.php:188
+#: class/view/settings/part-general.php:243 class/view/shortpixel_view.php:993
+msgid "Sizes will be greater or equal to the corresponding value. For example, if you set the resize dimensions at 1000x1200, an image of 2000x3000px will be resized to 1000x1500px while an image of 3000x2000px will be resized to 1800x1200px"
+msgstr "Les tailles seront supérieures ou égales à la valeur correspondante. Par exemple, si vous définissez les tailles de redimensionnement à 1000x1200, une image de 2000x3000px sera redimensionnée à 1000x1500px tandis qu’une image de 3000x2000px sera redimensionnée à 1800x1200px"
+
+#: class/view/settings/part-general.php:64 class/view/shortpixel_view.php:902
+msgid "Compression type:"
+msgstr "Type de compression :"
+
+#: class/view/settings/part-advanced.php:142
+#: class/view/shortpixel_view.php:1165
+msgid "Use the Select... button to select site folders. ShortPixel will optimize images and PDFs from the specified folders and their subfolders. The optimization status for each image or PDF in these folders can be seen in the <a href=\"upload.php?page=wp-short-pixel-custom\">Other Media list</a>, under the Media menu."
+msgstr "Utiliser le bouton Sélectionner... pour sélectionner les dossiers du site. ShortPixel optimisera les images et les PDF à partir des dossiers spécifiés et de leurs sous-dossiers. L’état d’optimisation de chaque image ou PDF dans ces dossiers peut être vu dans <a href=\"upload.php?page=wp-short-pixel-custom\"> liste Autres médias </a>, sous le menu Médias."
+
+#. translators: percent follows
+#: class/view/shortpixel_view.php:578
+msgid "Optimized by:"
+msgstr "Optimisé par :"
+
+#: class/view/shortpixel_view.php:539
+msgid "Optimizing image"
+msgstr "Optimisation de l’image"
+
+#: class/view/shortpixel_view.php:317
+msgid "Please rate us!"
+msgstr "Évaluez-nous !"
+
+#: class/Controller/View/OtherMediaViewController.php:99
+#: class/view/shortpixel-list-table.php:75
+msgid "Re-optimize lossy"
+msgstr "Ré-optimiser avec perte"
+
+#: class/view/shortpixel_view.php:265
+msgid "Share your optimization results:"
+msgstr "Partagez vos résultats d’optimisation :"
+
+#: class/Controller/EditMediaController.php:231
+#: class/Controller/View/OtherMediaViewController.php:144
+#: class/view/shortpixel-list-table.php:36
+msgid "Status"
+msgstr "État"
+
+#: class/db/shortpixel-custom-meta-dao.php:268
+msgid "Folder does not exist."
+msgstr "Le dossier n’existe pas."
+
+#: class/view/shortpixel-list-table.php:180 class/view/view-other-media.php:74
+msgid "No images available. Go to <a href=\"options-general.php?page=wp-shortpixel-settings&part=adv-settings\">Advanced Settings</a> to configure additional folders to be optimized."
+msgstr "Aucune image disponible. Aller à <a href=\"options-general.php?page=wp-shortpixel-settings&part=adv-settings\">Réglages Avancés</a> pour configurer des dossiers supplémentaires à optimiser."
+
+#: class/view/shortpixel_view.php:631
+msgid "Bulk optimization has started."
+msgstr "L’optimisation groupée a démarré."
+
+#. Plugin Name of the plugin
+msgid "ShortPixel Image Optimizer"
+msgstr "ShortPixel Image Optimizer"
+
+#: class/external/nextgen.php:282 class/wp-short-pixel.php:3735
+msgid "ShortPixel Compression"
+msgstr "ShortPixel Compression"
+
+#: class/wp-short-pixel.php:3260
+msgid "API Key could not be validated due to a connectivity error.<BR>Your firewall may be blocking us. Please contact your hosting provider and ask them to allow connections from your site to api.shortpixel.com (IP 176.9.21.94).<BR> If you still cannot validate your API Key after this, please <a href=\"https://shortpixel.com/contact\" target=\"_blank\">contact us</a> and we will try to help. "
+msgstr "La clé API n’a pas pu être validée en raison d'une erreur de connectivité.<br>Votre pare-feu peut nous bloquer. Veuillez contacter votre fournisseur d’hébergement et lui demander d’autoriser les connexions de votre site vers api.shortpixel.com (IP 176.9.21.94). <br> Si vous ne pouvez toujours pas valider votre clé API après cela, veuillez <a href=\"https://shortpixel.com/contact\" target=\"_blank\">nous contacter</a> et nous essaierons de vous aider. "
+
+#: class/Controller/OtherMediaController.php:81
+#: class/Model/DirectoryOtherMediaModel.php:274
+msgid "Folder %s is not writeable. Please check permissions and try again."
+msgstr "Le dossier %s n’est pas modifiable. Veuillez vérifier les permissions et réessayer."
+
+#: class/view/shortpixel_view.php:554
+msgid "Error processing file:"
+msgstr "Erreur lors du traitement du fichier :"
+
+#: class/view/shortpixel_view.php:564
+msgid "Just optimized:"
+msgstr "Juste optimisé :"
+
+#: class/view/shortpixel_view.php:53
+msgid "<strong>%s images and %s thumbnails</strong> are not yet optimized by ShortPixel."
+msgstr "<strong>%s images et %s miniatures</strong> ne sont pas encore optimisées par ShortPixel."
+
+#: class/Controller/AdminNoticesController.php:572
+#: class/view/shortpixel_view.php:67
+msgid "Get more image credits by referring ShortPixel to your friends!"
+msgstr "Obtenir plus de crédits d’image en référant ShortPixel à vos amis !"
+
+#: class/view/shortpixel_view.php:538
+msgid "Lengthy operation in progress:"
+msgstr "Longue opération en cours :"
+
+#: class/view/shortpixel_view.php:480
+msgid "Restart Optimizing"
+msgstr "Redémarrer l’optimisation"
+
+#: class/view/shortpixel_view.php:287
+msgid "I just #optimized my site's images "
+msgstr "Les images de mon site sont maintenant #optimisées"
+
+#: class/view/shortpixel_view.php:228
+msgid "Please see below the optimization status so far:"
+msgstr "Veuillez voir ci-dessous l’état d'optimisation jusqu'à maintenant :"
+
+#: class/view/shortpixel_view.php:290
+msgid "with @ShortPixel, a #WordPress image optimization plugin"
+msgstr "avec @ShortPixel, une extension #WordPress d’optimisation d'image."
+
+#: class/view/shortpixel_view.php:212
+msgid "What are Thumbnails?"
+msgstr "Que sont les miniatures ?"
+
+#: class/view/shortpixel_view.php:221
+msgid "<p>Your original images will be stored in a separate back-up folder.</p>"
+msgstr "<p> Vos images originales seront enregistrées dans un dossier de sauvegarde distinct.</p>"
+
+#: class/view/shortpixel_view.php:215
+msgid "It's highly recommended that you include thumbnails in the optimization as well."
+msgstr "Il est fortement recommandé d’inclure également les miniatures dans l’optimisation."
+
+#: class/view/shortpixel_view.php:181
+msgid "Nothing to optimize! The images that you add to Media Gallery will be automatically optimized after upload."
+msgstr "Rien à optimiser ! Les images que vous ajoutez à la galerie des médias seront automatiquement optimisées après le téléversement."
+
+#: class/view/shortpixel_view.php:206
+msgid "After you start the bulk process, in order for the optimization to run, you must keep this page open and your computer running. If you close the page for whatever reason, just turn back to it and the bulk process will resume."
+msgstr "Après avoir démarré le processus groupé, pour que l’optimisation s’exécute, vous devez garder cette page ouverte et votre ordinateur en cours d’exécution. Si vous fermez la page pour une raison quelconque, revenez-y et le processus d’optimisation groupée reprendra."
+
+#: class/view/shortpixel_view.php:168
+msgid "<span class=\"label\">Start Optimizing</span><br> <span class=\"total\">%s</span> images"
+msgstr "<span class=\"label\">Démarrer l’optimisation</span><br> <span class=\"total\">%s</span> images"
+
+#: class/Controller/AdminNoticesController.php:219
+msgid "Action needed. Please <a href='https://shortpixel.com/wp-apikey' target='_blank'>get your API key</a> to activate your ShortPixel plugin."
+msgstr "Action requise. Veuillez <a href='https://shortpixel.com/wp-apikey' target='_blank'> obtenir votre clé API </a> pour activer votre extension ShortPixel."
+
+#: class/Controller/AdminNoticesController.php:448
+msgid "Please <a href=\"https://shortpixel.com/wp-apikey\" target=\"_blank\">sign up to get your API key.</a>"
+msgstr "Veuillez <a href=\"https://shortpixel.com/wp-apikey\" target=\"_blank\"> vous inscrire pour obtenir votre clé API.</a>"
+
+#: class/view/shortpixel_view.php:649
+msgid "Bulk processing is paused until you resume the optimization process."
+msgstr "Le traitement groupé est suspendu jusqu’à ce que vous repreniez le processus d’optimisation."
+
+#: class/Model/ApiKeyModel.php:241
+msgid "Great, your API Key is valid! <br>You seem to be running a multisite, please note that API Key can also be configured in wp-config.php like this:"
+msgstr "Génial, votre clé API est valide ! <br>Il semble que vous utilisz un multisite, veuillez noter que la clé API peut aussi être configurée dans wp-config.php comme cela :"
+
+#: class/view/shortpixel_view.php:446
+msgid "Please note that reoptimizing images as <strong>lossy/lossless</strong> may use additional credits."
+msgstr "Veuillez noter que la ré-optimisation d’images comme <strong> lossy/lossless </strong> peut utiliser des crédits supplémentaires."
+
+#: class/view/shortpixel_view.php:336
+msgid "The following images could not be processed because of their limited write rights. This usually happens if you have changed your hosting provider. Please restart the optimization process after you granted write rights to all the files below."
+msgstr "Les images suivantes n’ont pas pu être traitées en raison de leurs droits d'accès limités. Cela se produit généralement si vous avez changé votre fournisseur d’hébergement. Veuillez redémarrer le processus d’optimisation après avoir accordé les droits d’accès à tous les fichiers ci-dessous."
+
+#: class/Controller/AdminNoticesController.php:447
+msgid "If you don’t have an API Key, you can get one delivered to your inbox, for free."
+msgstr "Si vous n’avez pas de clé API, vous pouvez en obtenir une gratuitement via votre boîte de réception."
+
+#: class/Controller/AdminNoticesController.php:551
+#: class/view/shortpixel_view.php:49
+msgid "The plugin has optimized <strong>%s images</strong> and stopped because it reached the available quota limit."
+msgstr "L’extension a optimisée <strong>%s images</strong> est s’est arrêtée parce qu’elle atteint la limite du quota disponible."
+
+#: class/view/shortpixel_view.php:285
+msgid "I just #optimized my site's images by "
+msgstr "Je viens d’#optimiser les images de mon site avec "
+
+#: class/view/shortpixel_view.php:439
+msgid "Restart the optimization process for these images by clicking the button below."
+msgstr "Redémarrez le processus d’optimisation pour ces images en cliquant sur le bouton ci-dessous."
+
+#: class/view/shortpixel_view.php:431
+msgid "%s images were optimized <strong>%s</strong>. You can re-optimize <strong>%s</strong> the ones that have backup. "
+msgstr "%s images ont été optimisées <strong>%s</strong>. Vous pouvez ré-optimiser <strong>%s</strong> celles que vous avez sauvegardé."
+
+#: class/view/settings/part-advanced.php:359
+#: class/view/shortpixel_view.php:1365
+msgid "By default, ShortPixel will automatically optimize all the freshly uploaded image and PDF files. If you uncheck this you'll need to either run Bulk ShortPixel or go to Media Library (in list view) and click on the right side \"Optimize now\" button(s)."
+msgstr "Par défaut, ShortPixel optimise automatiquement toutes les images et les fichiers PDF récemment téléversés. Si vous décochez cette case, vous devrez soit exécuter Bulk ShortPixel, soit accéder à la médiathèque (en mode liste), puis cliquer sur le bouton « Optimiser maintenant » situé à droite."
+
+#: class/view/settings/part-advanced.php:357
+#: class/view/shortpixel_view.php:1363
+msgid "Automatically optimize Media Library items after they are uploaded (recommended)."
+msgstr "Optimiser automatiquement les éléments de la médiathèque après leur téléversement (recommandé)."
+
+#: class/view/shortpixel_view.php:812
+msgid "New images uploaded to the Media Library will be optimized automatically.<br/>If you have existing images you would like to optimize, you can use the <a href=\"%supload.php?page=wp-short-pixel-bulk\">Bulk Optimization Tool</a>."
+msgstr "Les nouvelles images téléversées dans la médiathèque seront optimisées automatiquement.<br/> Si vous avez des images existantes que vous souhaitez optimiser, vous pouvez utiliser <a href=\"%supload.php?page=wp-short-pixel-bulk\">Outil d’optimisation groupée</a>."
+
+#: class/view/shortpixel_view.php:672
+msgid "Process only the other media, skipping the Media Library"
+msgstr "Traiter uniquement les autres médias, en ignorant la médiathèque"
+
+#: class/view/shortpixel_view.php:627 class/view/shortpixel_view.php:648
+msgid "Media Library"
+msgstr "Médiathèque"
+
+#: class/view/shortpixel_view.php:441
+msgid "Restart the optimization process for new images added to your library by clicking the button below."
+msgstr "Redémarrer le processus d’optimisation pour les nouvelles images ajoutées à votre médiathèque en cliquant sur le bouton ci-dessous."
+
+#: class/view/shortpixel_view.php:219
+msgid "The plugin processes images starting with the newest ones you uploaded in your Media Library."
+msgstr "L’extension traite les images en commençant par les plus récentes que vous avez téléversées dans votre médiathèque."
+
+#: class/view/shortpixel_view.php:213
+msgid "Thumbnails are smaller images usually generated by your WP theme. Most themes generate between 3 and 6 thumbnails for each Media Library image."
+msgstr "Les miniatures sont des images plus petites généralement générées par votre thème WP. La plupart des thèmes génèrent entre 3 et 6 miniatures pour chaque image de la médiathèque."
+
+#: class/view/shortpixel_view.php:103
+msgid "Your media library"
+msgstr "Votre médiathèque"
+
+#: class/Controller/OtherMediaController.php:76
+msgid "This folder contains Media Library images. To optimize Media Library images please go to <a href=\"upload.php?mode=list\">Media Library list view</a> or to <a href=\"upload.php?page=wp-short-pixel-bulk\">ShortPixel Bulk page</a>."
+msgstr "Le dossier contient des images de la médiathèque. Pour optimiser des images de la médiathèque, veuillez aller à <a href=\"upload.php?mode=list\">vue liste de la médiathèque</a> ou à <a href=\"upload.php?page=wp-short-pixel-bulk\">page de masse ShortPixel</a>."
+
+#: class/view/shortpixel_view.php:643
+msgid ""
+"This process will take some time, depending on the number of images in your library. In the meantime, you can continue using\n"
+"                    the admin as usual, <a href=\"%s\" target=\"_blank\">in a different browser window or tab</a>.<br>\n"
+"                   However, <strong>if you close this window, the bulk processing will pause</strong> until you open the media gallery or the ShortPixel bulk page again."
+msgstr ""
+"Ce processus prendra un certain temps, selon le nombre d’images dans votre médiathèque. En attendant, vous pouvez continuer à utiliser\n"
+"                 l’administrateur comme d’habitude, <a href=\"%s\" target=\"_blank\"> dans une fenêtre ou un onglet de navigateur différent </a>.<br>\n"
+"                 Cependant, <strong> si vous fermez cette fenêtre, le processus d’optimisation groupée sera mis en pause</strong> jusqu’à ce que vous ouvriez la galerie média ou la page d’optimisation groupée de ShortPixel à nouveau."

@@ -1,0 +1,130 @@
+.ahb_m2 #fbuilder .ui-datepicker table, .ahb_m2 #fbuilder .ui-datepicker thead, .ahb_m2 #fbuilder .ui-datepicker tr, .ahb_m2 #fbuilder .ui-datepicker th, .ahb_m2 #fbuilder .ui-datepicker td {border: 0px;}
+.ahb_m2 #fbuilder .ui-datepicker{box-shadow:none;font:inherit}
+.ahb_m2 #fbuilder .ui-datepicker-header{background:none;padding:0px}
+.ahb_m2 #fbuilder .ui-datepicker-header{text-shadow:none;color:inherit}
+.ahb_m2 #fbuilder .ui-datepicker-calendar .ui-state-default{background:none;box-shadow: none;}
+.ahb_m2 #fbuilder .ui-datepicker-calendar .ui-state-active{box-shadow:none;text-shadow:none;color:#2271b3;border:0px solid}
+.ahb_m2 #fbuilder .ui-datepicker thead{background:none}
+
+.ahb_m2 #fbuilder .dfield.fapp{display: flex;flex-wrap: wrap;}
+.ahb_m2 #fbuilder .fieldCalendarService,.ahb_m2 #fbuilder .usedSlots ,.ahb_m2 #fbuilder .usedSlots,.ahb_m2 #fbuilder .totalCost{width: 100%;}  
+.ahb_m2 #fbuilder .fieldCalendar,#fbuilder .slotsCalendar{
+    width: auto;
+    display: inline-flex;
+    flex: 1;
+    
+}
+@media (max-width: 767px) {
+ .ahb_m2 #fbuilder .dfield.fapp{display: block}
+ .ahb_m2 #fbuilder .slots{margin:0px;padding:0px}
+
+.ahb_m2 #fbuilder .ui-datepicker-header{padding:0px 3%}
+}
+.ahb_m2 #fbuilder .ui-datepicker-inline{max-width:calc(97%);}   
+.ahb_m2 #fbuilder .slots{border:0px;box-shadow:none;}	
+
+.ahb_m2 #fbuilder .ui-datepicker-next,.ahb_m2 #fbuilder .ui-datepicker-prev {display: inline-block;width: 10px;height: 10px;border-top: 2px solid #000;border-right: 2px solid #000;background:none;margin:30px 10px;}
+.ahb_m2 #fbuilder .ui-datepicker-next {transform: rotate(45deg);}
+.ahb_m2 #fbuilder .ui-datepicker-prev {transform: rotate(-135deg);}
+
+
+.ahb_m2 #fbuilder .dfield.fapp{display: block}
+.ahb_m2 #fbuilder {text-shadow: none;}
+.ahb_m2 #fbuilder .ui-datepicker table, .ahb_m2 #fbuilder .ui-datepicker thead, .ahb_m2 #fbuilder .ui-datepicker tr, .ahb_m2 #fbuilder .ui-datepicker th, .ahb_m2 #fbuilder .ui-datepicker td {border: 0px;}
+.ahb_m2 #fbuilder .ui-datepicker table {
+	border-collapse:collapse;
+	background-color: #f8f8f8;
+}
+
+.ahb_m2 #fbuilder .ui-datepicker-calendar td {
+	text-align: center;
+}
+.ahb_m2 #fbuilder .ui-datepicker-header { 
+	font-size: 1.6rem;
+    background: #D4D4D4;
+    font-weight: 300;
+    line-height: 70px;
+}
+.ahb_m2 #fbuilder .ui-datepicker th {
+	background: #eaeaea; font-weight: 300;
+	line-height: 40px;
+}
+.ahb_m2 #fbuilder td a,.ahb_m2 #fbuilder td span
+{
+    border-radius: 50%;
+	max-width:50px  !important;
+	max-height:50px !important;
+	width: 90%;
+	padding-top: min(12px, 10%)  !important; /* 1:1 Aspect Ratio */
+	padding-bottom: min(38px, 90%)  !important;
+	vertical-align:middle !important;
+	margin-top:2px; 
+	text-shadow:none;
+	font-weight: 300;
+	color:#000;
+}
+
+.ahb_m2 #fbuilder .ui-datepicker-unselectable .ui-state-default {color:#AAAAAA}
+.ahb_m2 #fbuilder td:not(.ui-datepicker-unselectable) a.ui-state-default:hover {color: #FFF; background: #66CCFF;}
+.ahb_m2 #fbuilder td:not(.ui-datepicker-unselectable) a.ui-state-default.ui-state-active {color: #FFF;background: #3995D0;}
+
+.ahb_m2 #fbuilder .slots {
+	text-align: center; padding: 20px 10px 10px;
+}
+
+.ahb_m2 #fbuilder .slots div {
+	border-color:transparent; margin: 14px 4px 0;
+}
+
+.ahb_m2 #fbuilder .slots div a {
+	width: 100%; border-radius: 100px; 
+	background: #f8f8f8; 
+	color: #000;
+	border:1px solid #66CCFF;
+	text-decoration:none;
+	padding:8px 12px;
+}
+.ahb_m2 #fbuilder .slots div:not(.htmlUsed)  a:hover {
+	background:#66CCFF;
+	color:#fff;
+}
+.ahb_m2 #fbuilder .slots div.htmlUsed a:hover {
+	cursor:text;
+}
+.ahb_m2 #fbuilder .slots div.htmlUsed a{
+	border:1px solid #ccc;
+}
+.ahb_m2 #fbuilder .slots div.htmlUsed {
+border-color:transparent;
+}
+
+.ahb_m2 #fbuilder .slots div.currentSelection.htmlUsed a {
+    color: #fff; background: #3995D0 !important;
+}
+.ahb_m2 #fbuilder .slots div.currentSelection a {
+    color: #fff; background: #3995D0 !important;
+}
+.ahb_m2 #fbuilder .usedSlots .ahb_list{
+margin-top:5px;
+}
+.ahb_m2 #fbuilder a.cancel {
+    visibility:hidden;
+    padding: 0 14px 2px 12px;
+    color: #FFA500;
+    background: #FFA500;
+    border-radius: 999em;
+    position:relative;
+}
+.ahb_m2 #fbuilder a.cancel:before {
+    display: inline-block;
+    content: "X";
+    color: #fff;
+    background: #FFA500;
+    border-radius: 999em;
+    visibility: visible;
+    position: absolute;
+    padding: 0px 10px;    
+    font-weight: 500;
+    margin-top: 5px;
+    font-size: 12px;
+}    

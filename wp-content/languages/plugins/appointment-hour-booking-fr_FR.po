@@ -1,0 +1,1509 @@
+# Translation of Plugins - Appointment Hour Booking &#8211; WordPress Booking Plugin - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Appointment Hour Booking &#8211; WordPress Booking Plugin - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-02 14:57:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Appointment Hour Booking &#8211; WordPress Booking Plugin - Development (trunk)\n"
+
+#: cp-settings.inc.php:424
+msgid "Store user's IP address?"
+msgstr "Stocker l’adresse IP de l’utilisateur ou de l’utilisatrice ?"
+
+#: cp-settings.inc.php:419
+msgid "* Adds a hidden text field to the forms to trap the spam bots (honeypot feature)."
+msgstr "Ajoute un champ caché aux formulaires pour bloquer les robots indésirables (fonctionnalité pot de miel)."
+
+#: cp-settings.inc.php:411
+msgid "Protect the forms against the spam bots"
+msgstr "Protège les formulaires contre les robots indésirables"
+
+#: cp-settings.inc.php:131 cp-settings.inc.php:402
+msgid "Misc Settings"
+msgstr "Réglages divers"
+
+#: addons/payment_methods_order.addon.php:26
+msgid "Tool for setting the order in which the payment options appear in the booking form (if multiple payment options are enabled)."
+msgstr "Outil pour définir l’ordre dans lequel les options de paiement apparaissent dans le formulaire de réservation (lorsque plusieurs options de paiement sont activées)."
+
+#: addons/google-maps-address.addon.php:25
+msgid "Convert text fields to auto-complete address fields using Google Maps addresses"
+msgstr "Convertir les champs texte en champs d’adresse avec l’autocomplétion des adresses Google Maps"
+
+#: addons/google-calendar-api.addon.php:23
+msgid "The add-on adds support for Google Calendar API integration"
+msgstr "Le module ajoute la prise en charge de l’intégration Google Calendar API"
+
+#: addons/targetpay.ideal.addon.php:23
+msgid "The add-on adds support for iDeal via TargetPay payments"
+msgstr "Le module ajoute la prise en charge de iDeal via TargetPay payments"
+
+#: addons/admin-calendar-frontend.addon.php:24
+msgid "Shortcode to admin the calendar assigned to the logged in user in the frontend."
+msgstr "Code court pour administrer le calendrier assigné au compte en front-end."
+
+#: addons/square.addon.php:23
+msgid "The add-on adds support for Square (squareup.com) payments"
+msgstr "Le module ajoute la prise en charge des paiements Square (squareup.com)"
+
+#: addons/twiliosms.addon.php:23
+msgid "The add-on adds support for Twilio SMS notifications"
+msgstr "Le module ajoute la prise en charge des notifications SMS Twilio"
+
+#: addons/skrill.addon.php:23
+msgid "The add-on adds support for Skrill payments"
+msgstr "Le module ajoute la prise en charge des paiements Skrill"
+
+#: addons/qrcode.addon.php:23
+msgid "Generates a QRCode image for each booking."
+msgstr "Génère une image QRCode pour chaque réservation"
+
+#: addons/sagepay.addon.php:23
+msgid "The add-on adds support for SagePay payments"
+msgstr "Le module ajoute la prise en charge des paiements SagePay"
+
+#: addons/remove_ignore_old_bookings.addon.php:24
+msgid "The add-on allows to automatically remove or ignore old bookings to increase the booking form speed"
+msgstr "Le module permet de supprimer ou ignorer automatiquement les anciennes réservations pour améliorer la rapidité du formulaire"
+
+#: addons/uploads.addon.php:23
+msgid "The add-on allows to add the uploaded files to the Media Library, and the support for new mime types"
+msgstr "Le module autorise l’ajout des fichiers téléversés à la médiathèque, et la prise en charge de nouveaux types mime"
+
+#: addons/cancellation.addon.php:23
+msgid "The add-on adds support for cancellation links for bookings"
+msgstr "Le module ajoute la prise en charge de liens d’annulation pour les réservations"
+
+#: addons/auto-select-time.addon.php:23
+msgid "Select automatically the time after clicking the day. Useful for cases with only one time-slot per day."
+msgstr "Sélectionner automatiquement l’heure après clic sur le jour. Utile pour les cas avec uniquement un créneau par jour."
+
+#: addons/timezoneconversion.addon.php:23
+msgid "The add-on applies the timezone conversion to display the time-slots in the customer timezone"
+msgstr "Le module applique la conversion de fuseau horaire pour afficher les blocs de temps dans le fuseau horaire du client ou de la cliente"
+
+#: addons/double-opt-in.addon.php:23
+msgid "Double opt-in email verification link to mark the booking as approved"
+msgstr "Double e-mail de validation avec lien de vérification pour marquer la réservation comme approuvée"
+
+#: addons/share-booked-times.addon.php:23
+msgid "The add-on allow to share the booked times between calendars (for blocking booked times)"
+msgstr "Le module autorise le partage des créneaux réservés entre les calendriers (pour bloquer les créneaux de réservation)"
+
+#: addons/credits-purchase.addon.php:23
+msgid "The add-on allows to purchase some number of hours (credits) and then use those credits to complete bookings"
+msgstr "Le module autorise l’achat d’un certain nombre d’heures (crédits) et ensuite d’utiliser ces crédits pour acheter des réservations"
+
+#: addons/lookup-data.addon.php:25
+msgid "The add-on enables data lookup in previous bookings to auto-fill fields"
+msgstr "Le module permet de chercher des données dans les anciennes réservations pour remplir automatiquement des champs"
+
+#: addons/authnet.addon.php:23
+msgid "The add-on adds support for Authorize.net Server Integration Method payments"
+msgstr "Le module ajoute la prise en charge de l’intégration des paiements Authorize.net Server"
+
+#: addons/paypalpro.addon.php:23
+msgid "The add-on adds support for PayPal Payment Pro payments to accept credit cars directly into the website"
+msgstr "Le module ajoute la prise en charge des paiements PayPal Payment Pro pour accepter les cartes bancaires directement depuis le site"
+
+#: addons/cff-integration.addon.php:24
+msgid "The add-on adds offers integration with the Calculated Fields Form plugin"
+msgstr "Le module ajoute l’intégration avec l’extension Calculated Fields Form"
+
+#: addons/signature.addon.php:23
+msgid "The add-on allows to replace form fields with \"Signature\" fields"
+msgstr "Le module autorise le remplacement de champs du formulaire par des champs « Signature »"
+
+#: addons/user-registration.addon.php:23
+msgid "The add-on creates a WordPress user account upon submission"
+msgstr "Le module créé un compte WordPress au moment de la demande de réservation"
+
+#: addons/paypal.addon.php:23
+msgid "The add-on adds support for PayPal Standard payments"
+msgstr "Le module ajoute la prise en charge des paiements PayPal Standard"
+
+#: addons/schedule-calendar-contents.addon.php:23
+msgid "The add-on allow to customize the content and colors displayed on the schedule calendar for each form."
+msgstr "Le module autorise la personnalisation du contenu et des couleurs affichées dans les calendriers pour chaque formulaire."
+
+#: addons/recaptcha.addon.php:22
+msgid "The add-on allows to protect the forms with reCAPTCHA service of Google"
+msgstr "Le module autorise la protection des formulaires avec le service Google reCAPTCHA"
+
+#: addons/redsys-bizum.addon.php:25
+msgid "The add-on adds support for RedSys-Bizum TPV payments"
+msgstr "Le module ajoute la prise en charge des paiements RedSys-Bizum TPV"
+
+#: addons/user-calendar-creation.addon.php:23
+msgid "The add-on creates and assign a calendar for each new registered user"
+msgstr "Le module créé et assigne un calendrier pour chaque nouveau compte inscrit"
+
+#: addons/icalimport.addon.php:23
+msgid "The add-on adds support for importing iCal files from external websites/services"
+msgstr "Le module ajoute le support pour importer des fichiers iCal depuis des sites ou services externes"
+
+#: addons/mailchimp.addon.php:22
+msgid "The add-on creates MailChimp List members with the submitted information"
+msgstr "Le module créé une liste de membres MailChimp avec les informations soumises"
+
+#: addons/zoom.addon.php:23
+msgid "Automatically creates a Zoom.us meeting for the booked time"
+msgstr "Crée automatiquement une réunion Zoom.us pour le créneau réservé"
+
+#: addons/coupons.addon.php:25
+msgid "The add-on adds support for coupons / discounts codes"
+msgstr "Le module ajoute la possibilité de faire des codes promo ou des bons de réduction"
+
+#: addons/redsys.addon.php:25
+msgid "The add-on adds support for RedSys TPV payments"
+msgstr "Le module ajoute la prise en charge des paiements RedSys TPV"
+
+#: addons/cryptocom.addon.php:23
+msgid "The add-on adds support for Crypto.com payments"
+msgstr "Le module ajoute la prise en charge des paiements Crypto.com"
+
+#: addons/followup.addon.php:23
+msgid "The add-on adds support for followup notifications"
+msgstr "Le module ajoute la prise en charge des notifications de suivi"
+
+#: addons/text-em-all.addon.php:24
+msgid "The add-on adds support for Text-Em-All SMS notifications"
+msgstr "Le module ajoute la prise en charge de notifications Text-Em-All SMS"
+
+#: addons/deposits.addon.php:24
+msgid "The add-on enables the option to accept payment deposit as fixed amount or percent of the booking cost"
+msgstr "Le module ajoute une option de paiement d’acompte (montant fixe ou pourcentage du prix de la réservation)"
+
+#: addons/password.addon.php:23
+msgid "The add-on is for requiring a password to make a booking."
+msgstr "Le module demande un mot de passe obligatoire pour faire une réservation"
+
+#: addons/razorpay.addon.php:24
+msgid "The add-on adds support for Razorpay.com payments"
+msgstr "Le module ajoute la prise en charge des paiements Razorpay.com"
+
+#: addons/frontend-lists.addon.php:22
+msgid "The add-on allows to displays list (schedule) of bookings grouped by date in the frontend"
+msgstr "Le module autorise l’affichage d’une liste (calendrier) des réservations groupées par date sur l’interface publique"
+
+#: addons/clickatell.addon.php:22
+msgid "The add-on allows to send notification messages (SMS) via Clickatell after submitting the form"
+msgstr "Le module autorise l’envoi de messages de notification (SMS) via Clickatell après la validation du formulaire"
+
+#: addons/dashboard-box.addon.php:51
+msgid "Visual column names at the top of the table"
+msgstr "Noms des colonnes affichés en haut du tableau"
+
+#: addons/dashboard-box.addon.php:48
+msgid "Column labels"
+msgstr "Libellés des colonnes"
+
+#: addons/dashboard-box.addon.php:44
+msgid "Click for more info about supported column names"
+msgstr "Cliquez pour plus d’informations à propos des noms des colonnes prises en charge"
+
+#: addons/dashboard-box.addon.php:44
+msgid "Sample column names"
+msgstr "Exemples de noms de colonnes"
+
+#: addons/dashboard-box.addon.php:41
+msgid "Columns"
+msgstr "Colonnes"
+
+#: addons/smsbroadcast.addon.php:23
+msgid "The add-on allows to send notification messages (SMS) via SMSBroadcast.com.au after submitting the form"
+msgstr "Le module autorise l’envoi de notifications (SMS) via SMSBroadcast.com.au après la validation du formulaire"
+
+#: addons/edition.addon.php:23
+msgid "The add-on allows customers to modify/edit the bookings"
+msgstr "Le module permet aux clients de modifier les réservations"
+
+#: addons/custom-statuses.addon.php:22
+msgid "The add-on allows to add new statuses to the bookings."
+msgstr "Le module autorise l’ajout de nouveaux états de réservation."
+
+#: addons/webhook.addon.php:23
+msgid "The add-on allows put the submitted information to a webhook URL, and integrate the forms with the Zapier service"
+msgstr "Le module autorise l’envoi des informations soumises à une URL de crochet web et d’intégrer les formulaires avec le service Zapier"
+
+#: addons/woocommerce.addon.php:22
+msgid "The add-on allows integrate the forms with WooCommerce products"
+msgstr "Le module autorise l’intégration des formulaires avec des produits WooCommerce"
+
+#: addons/sagepayments.addon.php:23
+msgid "The add-on adds support for SagePayments payments"
+msgstr "Le module ajoute la prise en charge de paiements SagePayments"
+
+#: addons/salesforce.addon.php:22
+msgid "The add-on allows create SalesForce leads with the submitted information"
+msgstr "Le module autorise la création des prospects SalesForce avec les informations soumises"
+
+#: addons/reminder.addon.php:23
+msgid "The add-on adds support for reminder notifications"
+msgstr "Le module ajoute la prise en charge de notifications de rappel"
+
+#: addons/status_update_emails.addon.php:23
+msgid "The add-on allows to define emails to be sent when the booking status is changed from the bookings list"
+msgstr "Le module autorise à définir des e-mails à envoyer lorsque l’état de la réservation est changée depuis la liste des réservations"
+
+#: addons/mollie.addon.php:23
+msgid "The add-on adds support for iDeal via Mollie payments"
+msgstr "Le module ajoute la prise en charge de iDeal via Mollie payments"
+
+#: addons/worldpay.addon.php:24
+msgid "The add-on adds support for WorldPay payments"
+msgstr "Le module ajoute la prise en charge des paiements WorldPay "
+
+#: addons/stripe.addon.php:23
+msgid "The add-on adds support for Stripe payments"
+msgstr "Le module ajoute la prise en charge des paiements Stripe"
+
+#: addons/applimit.addon.php:24
+msgid "The add-on adds support for limiting the number of appointments per user"
+msgstr "Le module permet de définir un nombre maximum de rendez-vous par personne"
+
+#: cp-admin-int-block-times.inc.php:44
+msgid "booking orders list"
+msgstr "Liste des réservations"
+
+#: cp-admin-int-block-times.inc.php:44
+msgid "To un-block times, delete the \"blocked\" entry from the"
+msgstr "Pour débloquer une heure, supprimer l’entrée « bloquée » de"
+
+#: cp-admin-int.inc.php:326
+msgid "\"Selected time is no longer available...\" text"
+msgstr "Texte « L’heure sélectionnée n’est plus disponible... »"
+
+#: cp-settings.inc.php:385
+msgid "Other parameters"
+msgstr "Autres paramètres"
+
+#: cp-settings.inc.php:376
+msgid "Exclude calendar from schedule contents"
+msgstr "Exclure le calendrier des évènements programmés"
+
+#: cp-settings.inc.php:365
+msgid "Include admin blocked times?"
+msgstr "Inclure les heures bloquées par l’admin ?"
+
+#: cp-settings.inc.php:360
+msgid "ADVANCED SETTINGS"
+msgstr "RÉGLAGES AVANCÉS"
+
+#: cp-settings.inc.php:335
+msgid "CONTENTS FOR CALENDAR DISPLAYED PUBLIC WEBSITE"
+msgstr "Contenu pour les calendriers affichés sur le site public"
+
+#: cp-settings.inc.php:325 cp-settings.inc.php:350
+msgid "Event Content"
+msgstr "Contenu de l’évènement"
+
+#: cp-settings.inc.php:315 cp-settings.inc.php:340
+msgid "Event title"
+msgstr "Titre de l’évènement"
+
+#: cp-settings.inc.php:310
+msgid "CONTENTS FOR CALENDAR DISPLAYED ADMIN AREA"
+msgstr "Contenu pour les calendriers affichés sur l’interface d’administration"
+
+#: cp-settings.inc.php:130 cp-settings.inc.php:300
+msgid "Schedule Calendar Contents"
+msgstr "Planifier un évènement"
+
+#: cp-settings.inc.php:293
+msgid "Update Changes"
+msgstr "Mettre à jour les modifications"
+
+#: cp-settings.inc.php:288
+msgid "Enter field names comma separated, example: <b>paid,cancelled<b>"
+msgstr "Saisissez les noms des champs séparés par des virgules, exemple : <b>payé, annulé<b>"
+
+#: cp-settings.inc.php:279
+msgid "Enter field names comma separated, example: <b>final_price,referrer,fieldname1,fieldname2<b>"
+msgstr "Saisissez les noms de champ séparés par des virgules, exemple : <b>final_price, referrer, fieldname1, fieldname2<b>"
+
+#: cp-settings.inc.php:191
+msgid "Update Report Settings"
+msgstr "Mettre à jour les réglages du rapport"
+
+#: addons/dashboard-box.addon.php:103
+msgid "Time"
+msgstr "Horaire"
+
+#: addons/dashboard-box.addon.php:84
+msgid "Appointment Hour Booking: Upcoming appointments"
+msgstr "Appointment Hour Booking : Rendez-vous à venir"
+
+#: cp-main-class.inc.php:790
+msgid "Upgrade Plugin"
+msgstr "Mettre à niveau l’extension"
+
+#: cp-main-class.inc.php:789
+msgid "I Need Help"
+msgstr "J’ai besoin d’aide"
+
+#: cp-main-class.inc.php:788
+msgid "Online Demo"
+msgstr "Démo en ligne"
+
+#: cp-admin-int-schedule.inc.php:121
+msgid "Qty"
+msgstr "Qté"
+
+#: cp-admin-int.inc.php:322
+msgid "\"Cost\" label"
+msgstr "Libellé « Coût »"
+
+#: cp-admin-int.inc.php:316
+msgid "\"Cancel\" link label"
+msgstr "Libellé du lien « Annuler »"
+
+#: cp-admin-int.inc.php:312
+msgid "\"Quantity\" field label"
+msgstr "Libellé du champ « Quantité »"
+
+#: cp-admin-int.inc.php:307
+msgid "Other Texts"
+msgstr "Autres textes"
+
+#: cp-settings.inc.php:477
+msgid "Hide the service drop-down:"
+msgstr "Masquer le menu déroulant du service :"
+
+#: cp-addons.inc.php:191
+msgid "The following Add Ons are included in the commercial versions of the plugin:"
+msgstr "Les modules complémentaires suivants sont inclus dans les versions commerciales de l’extension :"
+
+#: addons/dashboard-box.addon.php:55
+msgid "Save settings"
+msgstr "Enregistrer les réglages"
+
+#: addons/dashboard-box.addon.php:35
+msgid "Maximum items listed"
+msgstr "Nombre maximum d’éléments répertoriés"
+
+#: cp-admin-int.inc.php:201
+msgid "Save Changes and Continue Editing"
+msgstr "Enregistrer les modifications et continuer les modifications"
+
+#: cp-settings.inc.php:254
+msgid "Change it if you get the CSV columns mixed"
+msgstr "Modifiez-le si vous mélangez les colonnes CSV"
+
+#: cp-settings.inc.php:252
+msgid "semicolon: \";\""
+msgstr "Point-virgule (;)"
+
+#: cp-settings.inc.php:251
+msgid "comma: \",\""
+msgstr "virgule : \",\""
+
+#: cp-settings.inc.php:247
+msgid "Field separator for CSV files?"
+msgstr "Chercher les séparateurs de colonnes dans les fichiers CSV ?"
+
+#: cp-settings.inc.php:242
+msgid "Set to \"No\" if special characters appear with question marks \"?\" in the CSV file."
+msgstr "Régler sur \"Non\" si des caractères spéciaux apparaissent avec des points d’interrogation \"?\" dans le fichier CSV."
+
+#: cp-settings.inc.php:235
+msgid "Auto-fix character for CSV files?"
+msgstr "Caractère auto-fixe pour les fichiers CSV ?"
+
+#: cp-main-class.inc.php:410
+msgid "No appointments found with the selected filters"
+msgstr "Aucun rendez-vous trouvé avec les filtres sélectionnés"
+
+#: cp-main-class.inc.php:1442
+msgid "BLOCKED BY ADMIN"
+msgstr "BLOQUÉ PAR L’ADMINISTRATEUR"
+
+#: cp-admin-int-block-times.inc.php:47
+msgid "If you want to block complete dates please use instead the <a href=\"https://apphourbooking.dwbooster.com/customdownloads/invalid-dates.png\" target=\"_blank\">invalid dates feature</a>."
+msgstr "Si vous souhaitez bloquer une série de dates, vous devez utiliser la fonctionnalité de <a href=\"https://apphourbooking.dwbooster.com/customdownloads/invalid-dates.png\" target=\"_blank\">dates non valides</a>."
+
+#: cp-admin-int-block-times.inc.php:44
+msgid "This page is for <strong>blocking some of the available times</strong>. For services with multiple capacity be sure to select the \"quantity\" to be blocked."
+msgstr "Cette page permet de <strong>bloquer certaines heures</strong>. Pour les services à capacité multiple, veillez à sélectionner la « quantité » à bloquer."
+
+#: cp-admin-int-block-times.inc.php:37 cp-admin-int-list.inc.php:210
+msgid "Block Times"
+msgstr "Horaires à bloquer"
+
+#: cp-public-int.inc.php:32
+msgid "Block selected dates"
+msgstr "Bloquer les dates sélectionnées"
+
+#: cp-main-class.inc.php:569
+msgid "No more slots available."
+msgstr "Plus de créneaux disponibles."
+
+#: addons/dashboard-box.addon.php:236
+msgid "delete"
+msgstr "supprimer"
+
+#: addons/dashboard-box.addon.php:168
+msgid "No upcoming appointments found"
+msgstr "Aucun rendez-vous à venir trouvé"
+
+#: addons/dashboard-box.addon.php:121
+msgid "upcoming appointments:"
+msgstr "rendez-vous à venir :"
+
+#: addons/dashboard-box.addon.php:121
+msgid "Next"
+msgstr "Suivant"
+
+#: addons/dashboard-box.addon.php:75
+msgid "The add-on adds a widget to display a list of upcoming appointments in the dashboard welcome page."
+msgstr "Le module ajoute un widget pour afficher une liste des prochains rendez-vous dans la page d’accueil du tableau de bord."
+
+#: cp-main-class.inc.php:549
+msgid "Please enter at least {0} characters."
+msgstr "Veuillez entrer au moins {0} caractères."
+
+#: cp-main-class.inc.php:548
+msgid "Please enter no more than {0} characters."
+msgstr "Veuillez entrer un maximum de {0} caractères."
+
+#: cp-admin-int.inc.php:474
+msgid "Include appointment end-time in the confirmation emails?"
+msgstr "Inclure l’heure de fin du rendez-vous dans les e-mails de confirmation ?"
+
+#: cp-settings.inc.php:532
+msgid "For other styles check the design section in the FAQ:"
+msgstr "Pour les autres styles, consultez la section Design de la FAQ :"
+
+#: cp-settings.inc.php:284
+msgid "Exclude fields from \"Schedule List View\" CSV export"
+msgstr "Exclure les champs de l’exportation du CSV « Vue de planification en liste »"
+
+#: cp-settings.inc.php:275
+msgid "Exclude fields from \"Booking Orders\" CSV export"
+msgstr "Exclure les champs de l’exportation du CSV « Liste des rendez-vous »"
+
+#: cp-settings.inc.php:266
+msgid "CSV Settings Area"
+msgstr "Zone de réglages CSV"
+
+#: cp-settings.inc.php:129
+msgid "CSV Settings"
+msgstr "Réglages CSV"
+
+#: addons/icalexport.addon.php:90
+msgid "iCal timezone difference"
+msgstr "Différence de fuseau horaire iCal"
+
+#: cp-admin-int.inc.php:521
+msgid "Allow selected users access also to the calendar settings?"
+msgstr "Autoriser les comptes sélectionnés à accéder également aux réglages du calendrier ?"
+
+#: cp-admin-int-schedule.inc.php:155
+msgid "and the bookings will appear in this calendar.<br />For CSV export, print and filter options switch to the \"<strong>List View</strong>\" with the button above this text."
+msgstr "et les réservations apparaîtront dans ce calendrier.<br />Pour l’exportation CSV, les options d’impression et de filtre passent à la « <strong>Vue en liste</strong> » avec le bouton au dessus du texte."
+
+#: cp-admin-int-schedule.inc.php:155
+msgid "add bookings from the dashboard"
+msgstr "ajouter des réservations depuis le tableau de bord"
+
+#: cp-admin-int-schedule.inc.php:155
+msgid "The purpose of this page is to <strong>display the bookings/schedule in a calendar view</strong>. You can add bookings from the public booking form or"
+msgstr "Le propos de cette page est d' <strong>afficher les réservations/agendas dans une vue calendrier</strong>. Vous pouvez ajouter des réservations à partir du formulaire public de réservation ou"
+
+#: cp-admin-int-schedule.inc.php:145
+msgid "Print"
+msgstr "Imprimer"
+
+#: cp-admin-int-schedule.inc.php:125
+msgid "Status"
+msgstr "État"
+
+#: addons/dashboard-box.addon.php:103 cp-admin-int-schedule.inc.php:124
+msgid "Data"
+msgstr "Données"
+
+#: addons/dashboard-box.addon.php:103 cp-admin-int-schedule.inc.php:120
+msgid "Service"
+msgstr "Service"
+
+#: cp-admin-int-schedule.inc.php:119
+msgid "Slot"
+msgstr "Créneau"
+
+#: addons/dashboard-box.addon.php:109 cp-admin-int-schedule.inc.php:118
+msgid "Date"
+msgstr "Date"
+
+#: cp-admin-int-schedule.inc.php:85
+msgid "Paid only"
+msgstr "Payé seulement"
+
+#: cp-admin-int-schedule.inc.php:84
+msgid "All"
+msgstr "Tous"
+
+#: cp-admin-int-schedule.inc.php:67
+msgid "Change to Schedule List View"
+msgstr "Passer en vue de planification en liste"
+
+#: cp-admin-int-schedule.inc.php:65
+msgid "Change to Schedule Calendar View"
+msgstr "Passer en vue de planification calendaire"
+
+#: cp-publish-wizzard.inc.php:217
+msgid "which has been added to your Upload/Insert Menu, just below the title of your Post/Page or under the \"+\" icon if using the Gutemberg editor."
+msgstr "qui a été ajouté à votre menu Téléverser/Insérer, juste en dessous du titre de votre page/publication ou sous l’icône « + » si vous utilisez l’éditeur Gutemberg."
+
+#: cp-publish-wizzard.inc.php:214
+msgid "Note"
+msgstr "Note"
+
+#: cp-publish-wizzard.inc.php:169
+msgid "Publish Calendar"
+msgstr "Publier le calendrier"
+
+#: cp-publish-wizzard.inc.php:150
+msgid "Select post"
+msgstr "Sélectionner la publication"
+
+#: cp-publish-wizzard.inc.php:133
+msgid "which has been added to your Upload/Insert Menu, just below the title of your Post/Page"
+msgstr "qui a été ajouté à votre menu télécharger/Insérer, juste en dessous du titre de votre page/publication."
+
+#: cp-publish-wizzard.inc.php:132 cp-publish-wizzard.inc.php:216
+msgid "Insert "
+msgstr "Insérer "
+
+#: cp-publish-wizzard.inc.php:132 cp-publish-wizzard.inc.php:216
+msgid "You can also publish the form in a post/page, use the dedicated icon"
+msgstr "Vous pouvez également publier le formulaire dans une publication/page, utilisez l’icône dédiée"
+
+#: cp-publish-wizzard.inc.php:130
+msgid "Using classic WordPress editor or other editors?"
+msgstr "Vous utilisez un éditeur WordPress classique ou d’autres éditeurs ?"
+
+#: cp-publish-wizzard.inc.php:125
+msgid "Using New WordPress Editor (Gutemberg)?"
+msgstr "Vous utilisez le nouvel éditeur WordPress (Gutenberg) ?"
+
+#: cp-publish-wizzard.inc.php:119
+msgid "Using Elementor?"
+msgstr "Vous utilisez Elementor ?"
+
+#: cp-publish-wizzard.inc.php:111
+msgid "Classic way? Just copy and paste the following shortcode into the page/post:"
+msgstr "Manière classique ? Il suffit de copier et coller le code court suivant dans la page/publication :"
+
+#: cp-publish-wizzard.inc.php:102
+msgid "Page/Post Title"
+msgstr "Titre de publication/page"
+
+#: cp-publish-wizzard.inc.php:97
+msgid "Widget in a sidebar, header or footer - upgrade required for this option -"
+msgstr "Widget dans une colonne latérale, un en-tête ou un pied de page - mise à niveau nécessaire pour cette option -"
+
+#: cp-publish-wizzard.inc.php:96
+msgid "Into an existent post"
+msgstr "Dans une publication existante"
+
+#: cp-publish-wizzard.inc.php:95
+msgid "Into an existent page"
+msgstr "Dans une page existante"
+
+#: cp-publish-wizzard.inc.php:94
+msgid "Into a new post"
+msgstr "Dans un nouvelle publication"
+
+#: cp-publish-wizzard.inc.php:93
+msgid "Into a new page"
+msgstr "Dans une nouvelle page"
+
+#: cp-publish-wizzard.inc.php:90
+msgid "Where to publish it?"
+msgstr "Où le publier ?"
+
+#: cp-publish-wizzard.inc.php:78
+msgid "Select calendar"
+msgstr "Sélectionner un calendrier"
+
+#: cp-publish-wizzard.inc.php:64
+msgid "Edit the booking form settings and calendar availability"
+msgstr "Modifier les réglages du formulaire de réservation et la disponibilité du calendrier"
+
+#: cp-publish-wizzard.inc.php:62
+msgid "Note: If the calendar was published in a new page or post it will be a 'draft', you have to publish the page/post in the future if needed."
+msgstr "Remarque : si le calendrier a été publié dans une nouvelle page ou qu’il s’agit d’un « projet », vous devez publier la page/publication à l’avenir si nécessaire."
+
+#: cp-publish-wizzard.inc.php:60
+msgid "View the Published Booking Form"
+msgstr "Voir le formulaire de réservation publié"
+
+#: cp-publish-wizzard.inc.php:58
+msgid "Now you can:"
+msgstr "Maintenant, vous pouvez :"
+
+#: cp-publish-wizzard.inc.php:57
+msgid "The booking form was placed into the page"
+msgstr "Le formulaire de réservation a été placé dans la page"
+
+#: cp-publish-wizzard.inc.php:56
+msgid "Great! Form successfully published"
+msgstr "Bravo ! Le formulaire a bien été publié."
+
+#: cp-admin-int-list.inc.php:214
+msgid "Delete"
+msgstr "Supprimer"
+
+#: cp-admin-int-list.inc.php:213
+msgid "Clone"
+msgstr "Dupliquer"
+
+#: cp-admin-int-list.inc.php:211
+msgid "Stats"
+msgstr "Statistiques"
+
+#: cp-admin-int-list.inc.php:208 cp-admin-int-schedule.inc.php:60
+msgid "Schedule"
+msgstr "Planification"
+
+#: cp-admin-int-list.inc.php:205
+msgid "Publish"
+msgstr "Publié"
+
+#: cp-admin-int-list.inc.php:199
+msgid "Rename"
+msgstr "Renommer"
+
+#: cp-admin-int-list.inc.php:183
+msgid "Shortcode for Pages and Posts"
+msgstr "Code court pour les pages et les publications"
+
+#: cp-admin-int-list.inc.php:183
+msgid "Form Name"
+msgstr "Nom du formulaire"
+
+#: cp-admin-int-list.inc.php:176
+msgid "Calendars List"
+msgstr "Liste des calendriers"
+
+#: cp-admin-int-list.inc.php:169
+msgid "New Calendar"
+msgstr "Nouveau calendrier"
+
+#: addons/icalexport.addon.php:194
+msgid "The add-on adds support for exporting iCal files."
+msgstr "Le module ajoute le support pour l’exportation des fichiers iCal."
+
+#: addons/icalexport.addon.php:160
+msgid "iCal entry description"
+msgstr "Description d’entrée iCal"
+
+#: addons/icalexport.addon.php:153
+msgid "iCal entry summary"
+msgstr "Résumé de l’entrée iCal"
+
+#: addons/icalexport.addon.php:142
+msgid "Attach iCal file to notification emails?"
+msgstr "Joindre le fichier iCal aux e-mails de notification ?"
+
+#: addons/icalexport.addon.php:132
+msgid "Daylight saving time zone"
+msgstr "Fuseau horaire de l’heure d’été"
+
+#: addons/icalexport.addon.php:124
+msgid "Observe daylight saving time?"
+msgstr "Suivre l’heure d’été ?"
+
+#: cp-addons.inc.php:145
+msgid "Appointment Hour Booking - Add Ons"
+msgstr "Appointment Hour Booking - Modules"
+
+#: cp-main-class.inc.php:1358
+msgid "Appointments"
+msgstr "Rendez-vous"
+
+#: cp-main-class.inc.php:813
+msgid "Insert  Appointment Hour Booking"
+msgstr "Insérer une réservation d’heure de rendez-vous"
+
+#: cp-main-class.inc.php:775
+msgid "Settings"
+msgstr "Réglages"
+
+#: cp-main-class.inc.php:773
+msgid "Request custom changes"
+msgstr "Demander des modifications personnalisées"
+
+#: addons/dashboard-box.addon.php:219 cp-main-class.inc.php:239
+#: cp-main-class.inc.php:441 cp-main-class.inc.php:2208
+#: cp-main-class.inc.php:2222 cp-main-class.inc.php:2357
+#: cp-main-class.inc.php:2594 cp-main-class.inc.php:2608
+msgid "Approved"
+msgstr "Approuvé"
+
+#: cp-main-class.inc.php:238
+msgid "[All]"
+msgstr "[Tous]"
+
+#: controllers/elementor/elementorwidget_class.inc.php:96
+msgid "Select Form"
+msgstr "Sélectionner un formulaire"
+
+#: controllers/elementor/elementorwidget_class.inc.php:82
+#: cp-main-class.inc.php:813
+msgid "Insert Appointment Hour Booking"
+msgstr "Insérer une réservation d’heure de rendez-vous"
+
+#: cp-admin-int-add-booking.inc.php:40
+msgid "This page is for adding bookings from the administration area. The captcha and payment process are disabled in order to allow the website manager easily adding bookings."
+msgstr "Cette page permet d’ajouter des réservations depuis la zone d’administration. Le captcha et le processus de paiement sont désactivés afin d’autoriser au gestionnaire de site Web d’ajouter facilement des réservations."
+
+#: cp-admin-int-add-booking.inc.php:33 cp-admin-int-list.inc.php:209
+msgid "Add Booking"
+msgstr "Ajouter une réservation"
+
+#: cp-admin-int-message-list.inc.php:243 cp-admin-int-schedule.inc.php:122
+msgid "Paid"
+msgstr "Payé"
+
+#: cp-admin-int-list.inc.php:183 cp-admin-int-message-list.inc.php:212
+#: cp-main-class.inc.php:784 cp-main-class.inc.php:785
+msgid "Options"
+msgstr "Options"
+
+#: cp-admin-int-message-list.inc.php:211 cp-admin-int-schedule.inc.php:83
+msgid "Paid Status"
+msgstr "État payé"
+
+#: cp-admin-int-message-list.inc.php:209 cp-admin-int-schedule.inc.php:123
+msgid "Email"
+msgstr "E-mail"
+
+#: cp-admin-int-message-list.inc.php:208
+msgid "Submission Date"
+msgstr "Date de soumission"
+
+#: cp-admin-int-list.inc.php:183 cp-admin-int-message-list.inc.php:207
+msgid "ID"
+msgstr "ID"
+
+#: cp-admin-int-message-list.inc.php:188
+msgid "Next &raquo;"
+msgstr "Suivant >"
+
+#: cp-admin-int-message-list.inc.php:187
+msgid "&laquo; Previous"
+msgstr "< Précédent"
+
+#: cp-admin-int-list.inc.php:207 cp-admin-int-message-list.inc.php:133
+msgid "Booking Orders"
+msgstr "Liste des rendez-vous"
+
+#: cp-admin-int-message-list.inc.php:46
+msgid "Manually updated"
+msgstr "Mis a jour manuellement"
+
+#: cp-admin-int-list.inc.php:252 cp-admin-int.inc.php:845
+#: cp-main-class.inc.php:777
+msgid "Help"
+msgstr "Aide"
+
+#: cp-admin-int-list.inc.php:252 cp-admin-int.inc.php:845
+msgid "Free Support"
+msgstr "Support gratuit"
+
+#: cp-admin-int-list.inc.php:252 cp-admin-int.inc.php:845
+msgid "Request Custom Modifications"
+msgstr "Demande de modifications"
+
+#: cp-admin-int.inc.php:823
+msgid "If you don't want to enable add ons now then <strong>continue saving these settings and publishing the booking form</strong>."
+msgstr "Si vous ne souhaitez pas activer les modules complémentaires maintenant, <strong>continuez d’enregistrer ces réglages et de publier le formulaire de réservation</strong>."
+
+#: cp-admin-int.inc.php:822
+msgid "The add ons can be enabled to add new features"
+msgstr "Les modules supplémentaires peuvent être activés pour ajouter de nouvelles fonctionnalités"
+
+#: cp-admin-int.inc.php:821
+msgid "activate add ons in the add ons section"
+msgstr "activer les modules complémentaires dans la section modules complémentaires"
+
+#: cp-admin-int.inc.php:821
+msgid "You can optionally"
+msgstr "Vous pouvez optionnellement"
+
+#: cp-admin-int.inc.php:815
+msgid "<h2>Add-Ons Settings:</h2><hr />"
+msgstr "<h2>Réglages des modules :</h2><hr />"
+
+#: cp-admin-int.inc.php:802
+msgid "Next Step - Add Ons >"
+msgstr "Étape suivante - Ajouter sur >"
+
+#: cp-admin-int.inc.php:795
+msgid "Email Text (CSV file will be attached with the submissions)"
+msgstr "Texte de l’e-mail (le fichier CSV sera joint avec les soumissions)"
+
+#: cp-admin-int.inc.php:777
+msgid "Send the report to the following email addresses (comma separated)"
+msgstr "Envoyez le rapport aux adresses messagerie suivantes (séparées par des virgules)"
+
+#: cp-admin-int.inc.php:765
+msgid "Send report after this hour (server time)"
+msgstr "Envoyer le rapport après cette heure (heure du serveur)"
+
+#: cp-admin-int.inc.php:762
+msgid "days (Put a 0 to send the report immediately after each submission)"
+msgstr "jours (Mettez un 0 pour envoyer le rapport immédiatement après chaque soumission)"
+
+#: cp-admin-int.inc.php:747
+msgid "Automatic Reports: Send submissions in CSV format via email"
+msgstr "Rapports automatiques : envoyer des soumissions au format CSV par e-mail"
+
+#: cp-admin-int.inc.php:739
+msgid "Next Step - Reports >"
+msgstr "Étape suivante - Rapports >"
+
+#: cp-admin-int.inc.php:725
+msgid "Font"
+msgstr "Police"
+
+#: cp-admin-int.inc.php:723
+msgid "Border"
+msgstr "Bordure"
+
+#: cp-admin-int.inc.php:721
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: cp-admin-int.inc.php:715
+msgid "Noise Length"
+msgstr "Longueur de bruit"
+
+#: cp-admin-int.inc.php:713
+msgid "Noise"
+msgstr "Bruit"
+
+#: cp-admin-int.inc.php:705
+msgid "Preview"
+msgstr "Aperçu"
+
+#: cp-admin-int.inc.php:702
+msgid "Max font size"
+msgstr "Taille de police maximale"
+
+#: cp-admin-int.inc.php:700
+msgid "Min font size"
+msgstr "Taille de police minimale"
+
+#: cp-admin-int.inc.php:695
+msgid "Chars"
+msgstr "Caractères"
+
+#: cp-admin-int.inc.php:693
+msgid "Height"
+msgstr "Hauteur"
+
+#: cp-admin-int.inc.php:691
+msgid "Width"
+msgstr "Largeur"
+
+#: cp-admin-int.inc.php:680
+msgid "Use Captcha Verification?"
+msgstr "Utiliser la vérification de Captcha ?"
+
+#: cp-admin-int.inc.php:676
+msgid "Captcha Verification"
+msgstr "Vérification Captcha"
+
+#: cp-admin-int.inc.php:667
+msgid "Next Step - Antispam >"
+msgstr "Étape suivante - Antispam >"
+
+#: cp-admin-int.inc.php:642
+msgid "Email field on the form"
+msgstr "Champ e-mail dans le formulaire"
+
+#: cp-admin-int.inc.php:632
+msgid "Send confirmation/thank you message to user?"
+msgstr "Envoyer un message de confirmation ou de remerciement à l’utilisateur ?"
+
+#: cp-admin-int.inc.php:628
+msgid "Email Copy to the User / Customer"
+msgstr "Copie par e-mail à l’utilisateur/utilisatrice ou client/cliente"
+
+#: cp-admin-int-message-list.inc.php:210 cp-admin-int.inc.php:622
+#: cp-admin-int.inc.php:660
+msgid "Message"
+msgstr "Message"
+
+#: cp-admin-int.inc.php:602
+msgid "Include additional information?"
+msgstr "Inclure des informations supplémentaires ?"
+
+#: cp-admin-int.inc.php:594
+msgid "Email Notification to Website Administrator"
+msgstr "Notification par e-mail à l’administrateur/administratrice du site Web"
+
+#: cp-admin-int.inc.php:586
+msgid "Field that cotains the destination email(s)"
+msgstr "Champ qui contient le/les email(s) de destination"
+
+#: cp-admin-int.inc.php:582
+msgid "Destination emails (comma separated)"
+msgstr "E-mails de destination (séparés par une virgule)"
+
+#: cp-admin-int.inc.php:577
+msgid "If you select \"To email ...in form field\" then add a field like a drop-down, radio-button or checkbox that contains the email address in the field value (not needed in the field text but in the internal value)."
+msgstr "Si vous sélectionnez « Envoyer par e-mail... » dans le champ du formulaire, ajoutez un champ comme une liste déroulante, un bouton radio ou une case à cocher qui contient l’adresse e-mail dans la valeur du champ (non nécessaire dans le texte du champ mais dans la valeur interne)."
+
+#: cp-admin-int.inc.php:575
+msgid "If you select \"To fixed...\" enter the destination emails in the next field. "
+msgstr "Si vous sélectionnez « À fixe... », saisissez les e-mails de destination dans le champ suivant."
+
+#: cp-admin-int.inc.php:572
+msgid "To the email address selected in a form field (ex: captcha image enabled is recommended in this case)"
+msgstr "Pour l’adresse e-mail sélectionnée dans un champ de formulaire (ex : l’image captcha activée est recommandée dans ce cas)"
+
+#: cp-admin-int.inc.php:571
+msgid "To the fixed email(s) address(es) indicated below - Recommended option"
+msgstr "Pour la ou les adresses e-mail fixes indiquées ci-dessous - Option recommandée"
+
+#: cp-admin-int.inc.php:567
+msgid "Send email \"To\""
+msgstr "E-mail du destinataire"
+
+#: cp-admin-int.inc.php:563
+msgid "\"From\" email (for fixed \"from\" addresses)"
+msgstr "E-mail « De » (pour les adresses fixes « De »)"
+
+#: cp-admin-int.inc.php:557
+msgid ""
+"If you select \"from customer email\" then the customer email will appear also visually when you receive the email, but this isn't supported by all hosting services, so this\n"
+"                option isn't recommended in most cases."
+msgstr ""
+"Si vous sélectionnez « à partir de l’e-mail du client », l’e-mail du client apparaîtra également lorsque vous recevrez l’e-mail, mais cela n’est pas pris en charge par tous les services d’hébergement.\n"
+"Cette option n’est donc pas recommandée dans la plupart des cas."
+
+#: cp-admin-int.inc.php:555
+msgid "If you select \"from fixed...\" the customer email address will appear in the \"to\" address when you hit \"reply\", this is the recommended setting to avoid mail server restrictions."
+msgstr "Si vous sélectionnez « Depuis l’adresse e-mail fixe... », l’adresse e-mail du client apparaîtra dans l’adresse « à » lorsque vous cliquez sur « répondre », ce paramètre est recommandé pour éviter les restrictions du serveur de messagerie."
+
+#: cp-admin-int.inc.php:552
+msgid "From the email address indicated by the custome"
+msgstr "De l’adresse de messagerie indiquée par la personne"
+
+#: cp-admin-int.inc.php:551
+msgid "From fixed email address indicated below - Recommended option"
+msgstr "Depuis l’adresse e-mail fixe indiquée ci-dessous - Option recommandée"
+
+#: cp-admin-int.inc.php:547
+msgid "Send email \"From\""
+msgstr "E-mail de l’expéditeur"
+
+#: cp-admin-int.inc.php:542
+msgid "From / To Email Addresses"
+msgstr "Adresse e-mails d’expédition/réception"
+
+#: cp-admin-int.inc.php:534
+msgid "Next Step - Notification Emails >"
+msgstr "Étape suivante - E-mails de notification >"
+
+#: cp-admin-int.inc.php:505
+msgid "Select users with access (CTRL+click for multiple selection)"
+msgstr "Sélectionner les utilisateurs ayant accès (CTRL + clic pour une sélection multiple)"
+
+#: cp-admin-int.inc.php:501
+msgid "Users with access to the messages list"
+msgstr "Utilisateurs ayant accès à la liste des messages"
+
+#: cp-admin-int.inc.php:498
+msgid "Note: To enable a payment method enable first the related addon."
+msgstr "Remarque : pour activer un mode de paiement, activez d’abord le module nécessaire."
+
+#: cp-admin-int.inc.php:494
+msgid "Label of \"Pay Later\" option (if enabled)"
+msgstr "Libellé de l’option « Payer plus tard » (si activé)"
+
+#: cp-admin-int.inc.php:490
+msgid "Product name at payment page"
+msgstr "Nom du produit sur la page de paiement"
+
+#: cp-admin-int.inc.php:486
+msgid "Payment Integration Settings"
+msgstr "Réglages d’intégration de paiement"
+
+#: cp-admin-int.inc.php:393
+msgid "Calendar Language"
+msgstr "Langue du calendrier"
+
+#: cp-admin-int.inc.php:375
+msgid "Date Format"
+msgstr "Format de Date"
+
+#: cp-admin-int.inc.php:372
+msgid "Global Calendar Settings"
+msgstr "Réglages globaux de calendrier"
+
+#: cp-admin-int.inc.php:367
+msgid "If a payment add-on is enabled the booking will be changed to this status after the payment."
+msgstr "Si un module de paiement est activé, la réservation sera modifiée pour cet état après le paiement."
+
+#: cp-admin-int.inc.php:365
+msgid "Default status of paid bookings"
+msgstr "État par défaut des réservations payées"
+
+#: cp-admin-int.inc.php:362
+msgid "Only \"Approved\" items are taken in account for the availability verification."
+msgstr "Seuls les rendez-vous « approuvés » sont pris en compte pour la vérification de disponibilité."
+
+#: cp-admin-int.inc.php:360
+msgid "Default status of new bookings"
+msgstr "État par défaut des nouvelles réservations"
+
+#: cp-admin-int-schedule.inc.php:87 cp-admin-int.inc.php:357
+msgid "Booking Status"
+msgstr "État de la Réservation"
+
+#: cp-admin-int.inc.php:352
+msgid "Address / URL of the page where the user will be redirected after submiting the booking form"
+msgstr "Adresse/URL de la page où l’utilisateur/utilisatrice sera redirigé⋅e après avoir envoyé le formulaire de réservation"
+
+#: cp-admin-int.inc.php:347 cp-admin-int.inc.php:350
+msgid "Confirmation / Thank you page"
+msgstr "Page de confirmation/remerciement"
+
+#: cp-admin-int.inc.php:336 cp-admin-int.inc.php:536 cp-admin-int.inc.php:669
+#: cp-admin-int.inc.php:741 cp-admin-int.inc.php:804 cp-admin-int.inc.php:830
+msgid "Save and Return"
+msgstr "Enregistrer et retour"
+
+#: cp-admin-int.inc.php:335 cp-admin-int.inc.php:535 cp-admin-int.inc.php:668
+#: cp-admin-int.inc.php:740 cp-admin-int.inc.php:803 cp-admin-int.inc.php:829
+msgid "Save and Publish"
+msgstr "Enregistrer et publier"
+
+#: cp-admin-int.inc.php:334
+msgid "Next Step - General Settings >"
+msgstr "Étape suivante - Réglages généraux >"
+
+#: cp-admin-int.inc.php:297
+msgid "\"Max appointments allowed messsage\" text"
+msgstr "Texte « Rendez-vous maxi autorisés »"
+
+#: cp-admin-int.inc.php:293
+msgid "\"over minimum\" text"
+msgstr "Texte « au-dessus du minimum »"
+
+#: cp-admin-int.inc.php:287
+msgid "\"under maximum\" text"
+msgstr "Texte « en-dessous du maximum »"
+
+#: cp-admin-int.inc.php:283
+msgid "\"only digits\" text"
+msgstr "Texte « chiffres seulement »"
+
+#: cp-admin-int.inc.php:277
+msgid "\"is number\" text"
+msgstr "texte « est un numéro »"
+
+#: cp-admin-int.inc.php:273
+msgid "\"is valid date (dd/mm/yyyy)\" text"
+msgstr "Texte « est une date valide (dd/mm/yyyy) »"
+
+#: cp-admin-int.inc.php:269
+msgid "\"is valid date (mm/dd/yyyy)\" text"
+msgstr "Texte « est une date valide (dd/mm/yyyy) »"
+
+#: cp-admin-int.inc.php:266
+msgid "\"is valid captcha\" text"
+msgstr "Texte « est une captcha valide »"
+
+#: cp-admin-int.inc.php:260
+msgid "\"is email\" text"
+msgstr "Texte « est un e-mail »"
+
+#: cp-admin-int.inc.php:256
+msgid "\"is required\" text"
+msgstr "Texte « est nécessaire »"
+
+#: cp-admin-int.inc.php:251
+msgid "Error messages for validation rules"
+msgstr "Messages d’erreur pour les règles de validation"
+
+#: cp-admin-int.inc.php:240
+msgid "Next page button label (text)"
+msgstr "Libellé de bouton de page suivante (texte)"
+
+#: cp-admin-int.inc.php:237
+msgid "Previous page button label (text)"
+msgstr "Libellé du bouton de la page précédente (texte)"
+
+#: cp-admin-int.inc.php:231
+msgid "Page {0} of {0} (text"
+msgstr "Page {0} de {0} (texte"
+
+#: cp-admin-int.inc.php:227
+msgid "Submit button label (text)"
+msgstr "Libellé du bouton d’envoi (texte)"
+
+#: cp-admin-int.inc.php:222
+msgid "Button Labels"
+msgstr "Libellés de bouton"
+
+#: cp-admin-int.inc.php:219
+msgid "Labels and Texts"
+msgstr "Libellés et textes"
+
+#: cp-admin-int.inc.php:207
+msgid "The full set of fields also supports:"
+msgstr "L’ensemble complet des champs prend également en charge :"
+
+#: cp-admin-int.inc.php:206
+msgid "Activate the FULL form builder"
+msgstr "Activer le constructeur de formulaires COMPLET"
+
+#: cp-admin-int.inc.php:205
+msgid "<STRONG>In this version</STRONG> the form builder supports <STRONG>calendar, text, email and acceptance checkbox fields</STRONG>."
+msgstr "<STRONG>Dans cette version</STRONG> le constructeur de formulaires supporte<STRONG> des champs de calendrier, de texte, d’e-mail et des case à cocher</STRONG>."
+
+#: cp-admin-int.inc.php:184
+msgid "Form Settings"
+msgstr "Réglages du formulaire"
+
+#: cp-admin-int.inc.php:183
+msgid "Field Settings"
+msgstr "Réglages des champs"
+
+#: cp-admin-int.inc.php:182
+msgid "Add a Field"
+msgstr "Ajouter un champ"
+
+#: cp-addons.inc.php:161 cp-admin-int.inc.php:102 cp-main-class.inc.php:787
+msgid "Add Ons"
+msgstr "Modules"
+
+#: cp-admin-int.inc.php:98
+msgid "Reports"
+msgstr "Rapports"
+
+#: cp-admin-int.inc.php:94
+msgid "Antispam"
+msgstr "Antispam"
+
+#: cp-admin-int.inc.php:90
+msgid "Notification Emails"
+msgstr "E-mails de notification"
+
+#: cp-admin-int.inc.php:86 cp-main-class.inc.php:786
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: cp-admin-int.inc.php:82
+msgid "Editor"
+msgstr "Éditeur"
+
+#: cp-admin-int.inc.php:73
+msgid "Save Changes and Return"
+msgstr "Enregistrer les modifications et retour"
+
+#: cp-admin-int-list.inc.php:202 cp-admin-int.inc.php:63
+msgid "Edit"
+msgstr "Modifier"
+
+#: cp-admin-int-report.inc.php:250
+msgid "Print Stats"
+msgstr "Imprimer les statistiques"
+
+#: cp-admin-int-report.inc.php:239
+msgid "to"
+msgstr "à"
+
+#: cp-admin-int-report.inc.php:239
+msgid "Date range from"
+msgstr "Date allant de"
+
+#: cp-admin-int-report.inc.php:239
+msgid "Number of times that appears each value. Percent in relation to the total of submissions."
+msgstr "Nombre de fois qu’apparaît chaque valeur. Pourcentage par rapport au total des soumissions."
+
+#: cp-admin-int-report.inc.php:215
+msgid "Report of values for"
+msgstr "Rapport des valeurs pour"
+
+#: cp-admin-int-report.inc.php:202
+msgid "Select field for the report"
+msgstr "Sélectionner un champ pour le rapport"
+
+#: cp-admin-int-report.inc.php:185
+msgid "Hours from 0 to 23"
+msgstr "Heures de 0 à 23"
+
+#: cp-admin-int-report.inc.php:185
+msgid "Total submissions per hour in the selected date range."
+msgstr "Nombre total de soumissions par heure dans la plage de dates sélectionnée."
+
+#: cp-admin-int-report.inc.php:179
+msgid "Submissions per hour"
+msgstr "Soumissions par heure"
+
+#: cp-admin-int-report.inc.php:172
+msgid "Days from"
+msgstr "Jours de"
+
+#: cp-admin-int-report.inc.php:172
+msgid "Submissions per day in the selected date range."
+msgstr "Soumissions par jour dans la plage de dates sélectionnées."
+
+#: cp-admin-int-report.inc.php:166
+msgid "Submissions per day"
+msgstr "Soumissions par jour"
+
+#: cp-admin-int-message-list.inc.php:166 cp-admin-int-report.inc.php:157
+#: cp-admin-int-schedule.inc.php:104
+msgid "Filter"
+msgstr "Filtrer"
+
+#: cp-admin-int-message-list.inc.php:167 cp-admin-int-report.inc.php:156
+#: cp-admin-int-schedule.inc.php:105
+msgid "Export to CSV"
+msgstr "Exporter en CSV"
+
+#: cp-admin-int-message-list.inc.php:151 cp-admin-int-report.inc.php:148
+#: cp-admin-int-schedule.inc.php:89
+msgid "All Items"
+msgstr "Tous les éléments"
+
+#: cp-admin-int-message-list.inc.php:150 cp-admin-int-report.inc.php:147
+#: cp-admin-int-schedule.inc.php:88
+msgid "Item"
+msgstr "Élément"
+
+#: cp-admin-int-message-list.inc.php:149 cp-admin-int-report.inc.php:146
+#: cp-admin-int-schedule.inc.php:82
+msgid "To"
+msgstr "À"
+
+#: cp-admin-int-message-list.inc.php:148 cp-admin-int-report.inc.php:145
+#: cp-admin-int-schedule.inc.php:81
+msgid "From"
+msgstr "De"
+
+#: cp-admin-int-message-list.inc.php:147 cp-admin-int-report.inc.php:144
+msgid "Search for"
+msgstr "Recherche pour"
+
+#: cp-addons.inc.php:151 cp-admin-int-add-booking.inc.php:36
+#: cp-admin-int-block-times.inc.php:40 cp-admin-int-message-list.inc.php:136
+#: cp-admin-int-message-list.inc.php:263 cp-admin-int-report.inc.php:132
+#: cp-admin-int-report.inc.php:251 cp-admin-int-schedule.inc.php:69
+#: cp-admin-int-schedule.inc.php:146 cp-admin-int.inc.php:74
+#: cp-admin-int.inc.php:838 cp-publish-wizzard.inc.php:41
+msgid "Return to the calendars list"
+msgstr "Retour à la liste des calendriers"
+
+#: cp-public-int.inc.php:25
+msgid "Please enter the security code"
+msgstr "Veuillez saisir le code de sécurité"
+
+#: cp-public-int.inc.php:23
+msgid "Security Code"
+msgstr "Code de sécurité"
+
+#: cp-settings.inc.php:544
+msgid "Use this area to add custom custom scripts. These scripts will be keep safe even after updating the plugin."
+msgstr "Utilisez cette zone pour ajouter des scripts personnalisés. Ces scripts seront conservés en cas de mise à jour de l’extension."
+
+#: cp-settings.inc.php:529
+msgid "Other styles:"
+msgstr "Autres styles :"
+
+#: cp-settings.inc.php:520
+msgid "Change the calendar header color:"
+msgstr "Modifiez la couleur de l’en-tête du calendrier :"
+
+#: cp-settings.inc.php:507
+msgid "Change color of fonts into all fields"
+msgstr "Modifier la couleur des polices dans tous les champs"
+
+#: cp-settings.inc.php:498
+msgid "Change the color of all form field labels:"
+msgstr "Modifier la couleur de tous les libellés de champ du formulaire :"
+
+#: cp-settings.inc.php:486
+msgid "Make the send button in a hover format:"
+msgstr "Définir le bouton d’envoi dans un format au survol :"
+
+#: cp-settings.inc.php:468
+msgid "Make the calendar 100% width / responsive:"
+msgstr "Définir le calendrier responsive / largeur 100 % :"
+
+#: cp-settings.inc.php:462
+msgid "Sample Styles"
+msgstr "Exemples de styles"
+
+#: cp-settings.inc.php:445
+msgid "For commonly used CSS styles please check the following FAQ section:"
+msgstr "Pour les styles CSS couramment utilisés, veuillez consulter la section FAQ suivante :"
+
+#: cp-settings.inc.php:444
+msgid "Use this area to add custom CSS styles. These styles will be keep safe even after updating the plugin."
+msgstr "Utilisez cette zone pour ajouter des styles CSS personnalisés. Ces styles sont conservés en cas de mise à jour de l’extension."
+
+#: cp-settings.inc.php:230
+msgid "Update the charset if you are getting problems displaying special/non-latin characters. After updated you need to edit the special characters again."
+msgstr "Mettez à jour le jeu de caractères si vous rencontrez des problèmes d’affichage de caractères spéciaux/non latins. Une fois mis à jour, vous devez modifier à nouveau les caractères spéciaux."
+
+#: cp-settings.inc.php:227
+msgid "try this first"
+msgstr "essayez ça en premier"
+
+#: cp-settings.inc.php:226
+msgid "Keep current charset (Recommended)"
+msgstr "Garder le jeu de caractères actuel (conseillé)"
+
+#: cp-settings.inc.php:222
+msgid "Character encoding"
+msgstr "Encodage des caractères"
+
+#: cp-settings.inc.php:217
+msgid "Change the script load method if the form doesn't appear in the public website."
+msgstr "Modifiez la méthode de chargement du script si le formulaire n’apparaît pas sur le site web public."
+
+#: cp-settings.inc.php:215
+msgid "Direct"
+msgstr "Direct"
+
+#: cp-settings.inc.php:214
+msgid "Classic (Recommended)"
+msgstr "Classique (conseillé)"
+
+#: cp-settings.inc.php:210
+msgid "Script load method"
+msgstr "Méthode de chargement du script"
+
+#: cp-settings.inc.php:201
+msgid "Use this area only if you are experiencing conflicts with third party plugins, with the theme scripts or with the character encoding."
+msgstr "Utilisez cette zone uniquement si vous rencontrez des conflits avec des extensions tierces, avec les scripts de thème ou avec l’encodage des caractères."
+
+#: cp-settings.inc.php:201
+msgid "Important!"
+msgstr "Important !"
+
+#: cp-settings.inc.php:194
+msgid "Note: For setting up a report only for a specific form use the setting area available for that when editing each form settings"
+msgstr "Remarque : pour configurer un rapport pour un formulaire spécifique, utilisez la zone de configuration disponible pour cela lors de la modification de chaque réglage de formulaire."
+
+#: cp-settings.inc.php:187
+msgid "Email Text (CSV file will be attached"
+msgstr "Texte de l’e-mail (le fichier CSV sera joint"
+
+#: cp-admin-int.inc.php:617 cp-admin-int.inc.php:655 cp-admin-int.inc.php:790
+#: cp-settings.inc.php:182
+msgid "HTML (use html in the textarea below)"
+msgstr "HTML (utilisez du html dans la zone de texte ci-dessous)"
+
+#: cp-admin-int.inc.php:616 cp-admin-int.inc.php:654 cp-admin-int.inc.php:789
+#: cp-settings.inc.php:181
+msgid "Plain Text (default)"
+msgstr "Texte brut (par défaut)"
+
+#: cp-admin-int.inc.php:612 cp-admin-int.inc.php:650 cp-admin-int.inc.php:785
+#: cp-settings.inc.php:177
+msgid "Email format?"
+msgstr "Format d’e-mail"
+
+#: cp-admin-int.inc.php:598 cp-admin-int.inc.php:646 cp-admin-int.inc.php:781
+#: cp-settings.inc.php:173
+msgid "Email subject"
+msgstr "Sujet de l’e-mail"
+
+#: cp-settings.inc.php:169
+msgid "Send to email(s)"
+msgstr "E-mails pour envoi"
+
+#: cp-settings.inc.php:165
+msgid "Send email from"
+msgstr "E-mail de l’expéditeur"
+
+#: cp-settings.inc.php:155
+msgid "Send after this hour (server time)"
+msgstr "Envoyer après cette heure (heure du serveur)"
+
+#: cp-settings.inc.php:153
+msgid "days"
+msgstr "jours"
+
+#: cp-admin-int.inc.php:761 cp-settings.inc.php:153
+msgid "Send report every"
+msgstr "Envoyer un rapport tous les "
+
+#: addons/dashboard-box.addon.php:228 cp-admin-int.inc.php:478
+#: cp-admin-int.inc.php:525 cp-admin-int.inc.php:606 cp-admin-int.inc.php:636
+#: cp-admin-int.inc.php:684 cp-admin-int.inc.php:756 cp-main-class.inc.php:450
+#: cp-main-class.inc.php:2365 cp-settings.inc.php:150 cp-settings.inc.php:239
+#: cp-settings.inc.php:416 cp-settings.inc.php:429
+msgid "Yes"
+msgstr "Oui"
+
+#: cp-admin-int.inc.php:479 cp-admin-int.inc.php:526 cp-admin-int.inc.php:607
+#: cp-admin-int.inc.php:637 cp-admin-int.inc.php:685 cp-admin-int.inc.php:755
+#: cp-settings.inc.php:149 cp-settings.inc.php:240 cp-settings.inc.php:415
+#: cp-settings.inc.php:428
+msgid "No"
+msgstr "Non"
+
+#: cp-admin-int.inc.php:751 cp-settings.inc.php:146
+msgid "Enable Reports?"
+msgstr "Activer les rapports ?"
+
+#: cp-settings.inc.php:139
+msgid "Automatic email reports for <b>ALL forms</b>: Send submissions in CSV format via email."
+msgstr "Rapports automatiques par e-mail pour <b>TOUS les formulaires</b> : envoyer les soumissions au format CSV par e-mail."
+
+#: cp-settings.inc.php:138
+msgid "Automatic Email Reports"
+msgstr "Rapports automatiques par e-mail"
+
+#: cp-settings.inc.php:133 cp-settings.inc.php:543
+msgid "Edit Scripts"
+msgstr "Modifier les scripts"
+
+#: cp-settings.inc.php:132 cp-settings.inc.php:443
+msgid "Edit Styles"
+msgstr "Modifier les styles"
+
+#: cp-settings.inc.php:128 cp-settings.inc.php:200
+msgid "Troubleshoot Area"
+msgstr "Zone de dépannage"
+
+#: cp-settings.inc.php:127
+msgid "Email Report Settings"
+msgstr "Réglages de l’e-mail de rapport"
+
+#: cp-settings.inc.php:121
+msgid "Appointment Hour Booking - General Settings"
+msgstr "Appointment Hour Booking - Réglages généraux"
+
+#. Author of the plugin
+#: controllers/elementor/cp-elementor-widget.inc.php:49
+msgid "CodePeople"
+msgstr "CodePeople"
+
+#. Description of the plugin
+msgid "Appointment Hour Booking is a plugin for creating booking forms for appointments with a start time and a defined duration."
+msgstr "Appointment Hour Booking est une extension pour créer des formulaires de réservation pour les rendez-vous avec une heure de début et une durée définie."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://apphourbooking.dwbooster.com"
+msgstr "https://apphourbooking.dwbooster.com"
+
+#. Plugin Name of the plugin
+msgid "Appointment Hour Booking"
+msgstr "Appointment Hour Booking"

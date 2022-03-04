@@ -1,0 +1,2135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-01-18 14:51+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/applimit.addon.php:127
+msgid "The add-on adds support for limiting the number of appointments per user"
+msgstr "Надстройка добавляет поддержку ограничения количества встреч на одного пользователя"
+
+#: addons/applimit.addon.php:298
+msgid "Number of allowed appointments exceeded."
+msgstr "Превышено количество разрешенных встреч."
+
+#: addons/authnet.addon.php:109
+msgid "Enable Authorize.net SIM?"
+msgstr "Включить SIM-карту Authorize.net?"
+
+#: addons/authnet.addon.php:111 addons/mollie.addon.php:62 addons/paypal.addon.php:74 addons/paypalpro.addon.php:80 addons/redsys.addon.php:88 addons/sagepay.addon.php:99
+#: addons/sagepayments.addon.php:83 addons/skrill.addon.php:69 addons/stripe.addon.php:80 addons/targetpay.ideal.addon.php:65 cp-admin-int.inc.php:542 cp-admin-int.inc.php:573
+#: cp-admin-int.inc.php:621 cp-admin-int.inc.php:691 cp-settings.inc.php:136
+msgid "No"
+msgstr "Нет"
+
+#: addons/authnet.addon.php:112 addons/frontend-lists.addon.php:273 addons/mollie.addon.php:63 addons/paypal.addon.php:75 addons/paypalpro.addon.php:81 addons/redsys.addon.php:89
+#: addons/sagepay.addon.php:100 addons/sagepayments.addon.php:84 addons/skrill.addon.php:70 addons/stripe.addon.php:81 addons/targetpay.ideal.addon.php:66 cp-admin-int.inc.php:541
+#: cp-admin-int.inc.php:572 cp-admin-int.inc.php:620 cp-admin-int.inc.php:692 cp-main-class.inc.php:301 cp-settings.inc.php:137
+msgid "Yes"
+msgstr "Да"
+
+#: addons/authnet.addon.php:113 addons/mollie.addon.php:64 addons/paypal.addon.php:76 addons/paypalpro.addon.php:82 addons/redsys.addon.php:90 addons/sagepay.addon.php:101
+#: addons/sagepayments.addon.php:85 addons/skrill.addon.php:71 addons/stripe.addon.php:82 addons/targetpay.ideal.addon.php:67
+msgid "Optional: This payment method + Pay Later (submit without payment)"
+msgstr "Необязательно: этот способ оплаты + Pay Later (отправить без оплаты)"
+
+#: addons/authnet.addon.php:114 addons/mollie.addon.php:65 addons/paypal.addon.php:77 addons/paypalpro.addon.php:83 addons/redsys.addon.php:91 addons/sagepay.addon.php:102
+#: addons/sagepayments.addon.php:86 addons/skrill.addon.php:72 addons/stripe.addon.php:83 addons/targetpay.ideal.addon.php:68
+msgid "Optional: This payment method + Other payment methods (enabled)"
+msgstr "Необязательно: этот способ оплаты + другие способы оплаты (включены)"
+
+#: addons/authnet.addon.php:115 addons/mollie.addon.php:66 addons/paypal.addon.php:78 addons/paypalpro.addon.php:84 addons/redsys.addon.php:92 addons/sagepay.addon.php:103
+#: addons/sagepayments.addon.php:87 addons/skrill.addon.php:73 addons/stripe.addon.php:84 addons/targetpay.ideal.addon.php:69
+msgid "Optional: This payment method + Other payment methods  + Pay Later "
+msgstr "Необязательно: этот способ оплаты + Другие способы оплаты + Оплатить позже "
+
+#: addons/authnet.addon.php:120
+msgid "Mode:"
+msgstr "Режим:"
+
+#: addons/authnet.addon.php:122
+msgid "Prodution"
+msgstr "Продукции"
+
+#: addons/authnet.addon.php:123
+msgid "Test"
+msgstr "Тест"
+
+#: addons/authnet.addon.php:128
+msgid "API Username"
+msgstr "Имя пользователя API"
+
+#: addons/authnet.addon.php:132
+msgid "API Key"
+msgstr "Ключ API"
+
+#: addons/authnet.addon.php:137
+msgid "Receipt URL:"
+msgstr "Получить URL-адрес:нции:"
+
+#: addons/authnet.addon.php:143 addons/paypal.addon.php:88 addons/skrill.addon.php:83
+msgid "Cancel URL:"
+msgstr "Отменить URL:"
+
+#: addons/authnet.addon.php:153 addons/paypalpro.addon.php:542 addons/sagepay.addon.php:134
+msgid "First Name"
+msgstr "Имя"
+
+#: addons/authnet.addon.php:157 addons/paypalpro.addon.php:551 addons/sagepay.addon.php:138
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: addons/authnet.addon.php:161
+msgid "Company"
+msgstr "Компания"
+
+#: addons/authnet.addon.php:165 addons/paypalpro.addon.php:622 addons/sagepay.addon.php:142
+msgid "Address"
+msgstr "Адрес"
+
+#: addons/authnet.addon.php:169 addons/paypalpro.addon.php:627 addons/sagepay.addon.php:146
+msgid "City"
+msgstr "Город"
+
+#: addons/authnet.addon.php:173
+msgid "State/Province"
+msgstr "Штат / Провинция"
+
+#: addons/authnet.addon.php:177 addons/paypalpro.addon.php:657 addons/sagepay.addon.php:154
+msgid "Country"
+msgstr "Страна"
+
+#: addons/authnet.addon.php:181 addons/sagepay.addon.php:158
+msgid "Zip/Postal Code"
+msgstr "Почтовый Индекс"
+
+# RevTran=File details
+#: addons/authnet.addon.php:185 cp-admin-int-message-list.inc.php:150 cp-admin-int-schedule.inc.php:80
+msgid "Email"
+msgstr "Email"
+
+#: addons/authnet.addon.php:189
+msgid "Phone"
+msgstr "Телефон"
+
+#: addons/authnet.addon.php:193
+msgid "Fax"
+msgstr "Факс"
+
+#: addons/authnet.addon.php:217
+msgid "The add-on adds support for Authorize.net Server Integration Method payments"
+msgstr "Дополнение добавляет поддержку платежей по методу интеграции с сервером Authorize.net"
+
+#: addons/authnet.addon.php:339
+msgid "Pay with Authorize.net"
+msgstr "Оплатить с помощью Authorize.net"
+
+#: addons/cancellation.addon.php:159
+msgid "The add-on adds support for cancellation links for bookings"
+msgstr "Дополнение добавляет поддержку ссылок для отмены бронирования"
+
+#: addons/cancellation.addon.php:264
+msgid "Cancellation"
+msgstr "Отмена"
+
+#: addons/cancellation.addon.php:266
+msgid "Please enter the following security code to confirm the cancellation:"
+msgstr "Пожалуйста, введите следующий код безопасности, чтобы подтвердить отмену:"
+
+#: addons/cancellation.addon.php:269 cp-public-int.inc.php:29
+msgid "Please enter the security code"
+msgstr "Пожалуйста, введите код безопасности"
+
+#: addons/cancellation.addon.php:271
+msgid "Cancel Booking"
+msgstr "Отменить бронирование"
+
+#: addons/cancellation.addon.php:273
+msgid "Incorrect verification code"
+msgstr "Неправильный проверочный код"
+
+#: addons/clickatell.addon.php:63
+msgid "Clickatell enabled"
+msgstr "Clickatell включен"
+
+#: addons/clickatell.addon.php:67
+msgid "Account API Key"
+msgstr "Ключ API аккаунта"
+
+#: addons/clickatell.addon.php:71
+msgid "Authentication Token"
+msgstr "Токен аутентификации"
+
+#: addons/clickatell.addon.php:75
+msgid "From Phone Number"
+msgstr "С номера телефона"
+
+#: addons/clickatell.addon.php:80
+msgid "To Phone Number"
+msgstr "На номер телефона"
+
+#: addons/clickatell.addon.php:83
+msgid "For sending multiple messages, separate the phone numbers by comma symbols."
+msgstr "Для отправки нескольких сообщений разделите номера телефонов запятой."
+
+#: addons/clickatell.addon.php:87 addons/clickatell.addon.php:103 cp-admin-int-message-list.inc.php:151 cp-admin-int.inc.php:558 cp-admin-int.inc.php:596
+msgid "Message"
+msgstr "Сообщение"
+
+#: addons/clickatell.addon.php:90 addons/clickatell.addon.php:106
+msgid "It is possible to use the same <a href=\"https://form2email.dwbooster.com/faq#q81\" target=\"_blank\">special tags</a> than in notifications emails."
+msgstr "Можно использовать те же <a href=\"https://form2email.dwbooster.com/faq#q81\" target=\"_blank\"> специальные теги </a>, которые используются в электронных письмах с уведомлениями."
+
+#: addons/clickatell.addon.php:94
+msgid "Copy to the users"
+msgstr "Скопируйте для пользователей"
+
+#: addons/clickatell.addon.php:96
+msgid "To Phone fields"
+msgstr "В поля Телефон"
+
+#: addons/clickatell.addon.php:99
+msgid "For sending multiple messages, separate the phone fields by comma symbols."
+msgstr "Для отправки нескольких сообщений разделите поля телефона запятой."
+
+#: addons/clickatell.addon.php:128
+msgid "The add-on allows to send notification messages (SMS) via Clickatell after submitting the form"
+msgstr "Дополнение позволяет отправлять уведомительные сообщения (SMS) через Clickatell после отправки формы"
+
+#: addons/coupons.addon.php:107
+msgid "The add-on adds support for coupons / discounts codes"
+msgstr "Дополнение добавляет поддержку купонов / кодов скидок"
+
+#: addons/coupons.addon.php:184
+msgid "Coupon code"
+msgstr "Код купона"
+
+#: addons/frontend-lists.addon.php:80
+msgid "The add-on allows to displays list (schedule) of bookings grouped by date in the frontend"
+msgstr "Дополнение позволяет отображать список (расписание) бронирований, сгруппированных по дате, во фронтэнде"
+
+#: addons/frontend-lists.addon.php:158 cp-admin-int-schedule.inc.php:76
+msgid "Date"
+msgstr "Date"
+
+#: addons/frontend-lists.addon.php:207
+msgid "No bookings found"
+msgstr "Забронированные номера не найдены"
+
+#: addons/frontend-lists.addon.php:212
+msgid "Are you sure you want to delete this item?"
+msgstr "Вы уверены, что хотите удалить этот пункт?"
+
+#: addons/frontend-lists.addon.php:264 cp-main-class.inc.php:200 cp-main-class.inc.php:292
+msgid "Approved"
+msgstr "Подтверждено"
+
+#: addons/frontend-lists.addon.php:281
+msgid "delete"
+msgstr "удалить"
+
+#: addons/icalexport.addon.php:82
+msgid "iCal timezone difference vs server time"
+msgstr "разница часовых поясов iCal и время на сервере"
+
+#: addons/icalexport.addon.php:93
+msgid "Observe daylight saving time?"
+msgstr "Соблюдать летнее время?"
+
+#: addons/icalexport.addon.php:101
+msgid "Daylight saving time zone"
+msgstr "Летний часовой пояс"
+
+#: addons/icalexport.addon.php:109
+msgid "Attach iCal file to notification emails?"
+msgstr "Прикрепить файл iCal к письму-уведомлению?"
+
+#: addons/icalexport.addon.php:119
+msgid "iCal entry summary"
+msgstr "сводка по записи iCal"
+
+#: addons/icalexport.addon.php:126
+msgid "iCal entry description"
+msgstr "описание записи iCal"
+
+#: addons/icalexport.addon.php:151
+msgid "The add-on adds support for exporting iCal files."
+msgstr "Дополнение добавляет поддержку экспорта файлов iCal."
+
+#: addons/icalimport.addon.php:97
+msgid "The add-on adds support for importing iCal files from external websites/services"
+msgstr "В дополнении добавлена поддержка импорта файлов iCal с внешних веб-сайтов/сервисов"
+
+#: addons/icalimport.addon.php:213 cp-main-class.inc.php:1071
+msgid "Appointments"
+msgstr "Встречи"
+
+#: addons/mailchimp.addon.php:83
+msgid "API KEY"
+msgstr "КЛЮЧ API"
+
+#: addons/mailchimp.addon.php:85
+msgid "Get Lists"
+msgstr "Получить списки"
+
+#: addons/mailchimp.addon.php:88
+msgid "List ID"
+msgstr "ID списка"
+
+#: addons/mailchimp.addon.php:92
+msgid "Get Fields and Groups"
+msgstr "Получить поля и группы"
+
+#: addons/mailchimp.addon.php:99
+msgid "Form Fields"
+msgstr "Поля формы"
+
+#: addons/mailchimp.addon.php:116 addons/mailchimp.addon.php:170
+msgid "There are not fields selected"
+msgstr "Поля не выбраны"
+
+#: addons/mailchimp.addon.php:122
+msgid "Groups"
+msgstr "Группы"
+
+#: addons/mailchimp.addon.php:147 addons/mailchimp.addon.php:171
+msgid "There are not groups selected"
+msgstr "Не выбраны группы"
+
+#: addons/mailchimp.addon.php:154
+msgid "Status If New"
+msgstr "Статус Если новый"
+
+#: addons/mailchimp.addon.php:157
+msgid "Pending"
+msgstr "В ожидании"
+
+#: addons/mailchimp.addon.php:158
+msgid "Subscribed"
+msgstr "Подписался"
+
+#: addons/mailchimp.addon.php:166
+msgid "Invalid API KEY"
+msgstr "Недействительный API KEY"
+
+#: addons/mailchimp.addon.php:167
+msgid "Select a List"
+msgstr "Выберите список"
+
+#: addons/mailchimp.addon.php:168
+msgid "Select a List ID"
+msgstr "Выберите идентификатор списка"
+
+#: addons/mailchimp.addon.php:169
+msgid "Create at least a list in your MailChimp account"
+msgstr "Создайте хотя бы список в своем аккаунте MailChimp"
+
+#: addons/mailchimp.addon.php:190
+msgid "The add-on creates MailChimp List members with the submitted information"
+msgstr "Надстройка создает участников MailChimp List с предоставленной информацией"
+
+#: addons/mailchimp.addon.php:363
+msgid "Please select..."
+msgstr "Пожалуйста выберите..."
+
+#: addons/mollie.addon.php:60
+msgid "Enable iDeal-Mollie? (if enabled PayPal Standard is disabled)"
+msgstr "Включить iDeal-Mollie? (если включен, PayPal Standard отключен)"
+
+#: addons/mollie.addon.php:71
+msgid "Mollie API Key"
+msgstr "Ключ API Mollie"
+
+#: addons/mollie.addon.php:75 addons/targetpay.ideal.addon.php:78
+msgid "If payment fails return to this page"
+msgstr "Если оплата не прошла, вернитесь на эту страницу"
+
+#: addons/mollie.addon.php:99
+msgid "The add-on adds support for iDeal via Mollie payments"
+msgstr "Дополнение добавляет поддержку iDeal через платежи Mollie"
+
+#: addons/mollie.addon.php:195
+msgid "Pay with iDeal/Mollie"
+msgstr "Оплата с помощью iDeal / Mollie"
+
+#: addons/paypal.addon.php:72
+msgid "Enable PayPal Standard Payments?"
+msgstr "Включить стандартные платежи PayPal?"
+
+#: addons/paypal.addon.php:83
+msgid "PayPal Standard Email"
+msgstr "Стандартный адрес электронной почты PayPal"
+
+#: addons/paypal.addon.php:94 addons/skrill.addon.php:89
+msgid "Currency:"
+msgstr "Валюта:"
+
+#: addons/paypal.addon.php:129
+msgid "Paypal language"
+msgstr "Язык Paypal"
+
+#: addons/paypal.addon.php:133 addons/paypalpro.addon.php:117
+msgid "Paypal Mode"
+msgstr "Режим Paypal"
+
+#: addons/paypal.addon.php:161
+msgid "The add-on adds support for PayPal Standard payments"
+msgstr "Надстройка добавляет поддержку платежей PayPal Standard"
+
+#: addons/paypal.addon.php:224
+msgid "Pay with PayPal"
+msgstr "Оплата с PayPal"
+
+#: addons/paypalpro.addon.php:78
+msgid "Enable PayPal Pro? (if enabled PayPal Standard is disabled)"
+msgstr "Включить PayPal Pro? (если включен, PayPal Standard отключен)"
+
+#: addons/paypalpro.addon.php:89
+msgid "PayPal Pro - API UserName"
+msgstr "PayPal Pro - имя пользователя API"
+
+#: addons/paypalpro.addon.php:93
+msgid "PayPal Pro - API Password"
+msgstr "PayPal Pro - пароль API"
+
+#: addons/paypalpro.addon.php:97
+msgid "PayPal Pro - API Signature"
+msgstr "PayPal Pro - подпись API"
+
+#: addons/paypalpro.addon.php:101
+msgid "PayPal Pro - Currency"
+msgstr "PayPal Pro - Валюта"
+
+#: addons/paypalpro.addon.php:105
+msgid "Billing Period"
+msgstr "Расчетный период"
+
+#: addons/paypalpro.addon.php:107
+msgid "One-time payment"
+msgstr "Одноразовый платеж"
+
+#: addons/paypalpro.addon.php:108
+msgid "Daily"
+msgstr "Ежедневно"
+
+#: addons/paypalpro.addon.php:109
+msgid "Weekly"
+msgstr "Еженедельно"
+
+#: addons/paypalpro.addon.php:110
+msgid "SemiMonth"
+msgstr "Полумесячный"
+
+#: addons/paypalpro.addon.php:111
+msgid "Monthly"
+msgstr "Ежемесячный"
+
+#: addons/paypalpro.addon.php:112
+msgid "Yearly"
+msgstr "Ежегодный"
+
+#: addons/paypalpro.addon.php:119 addons/redsys.addon.php:112 addons/sagepay.addon.php:120
+msgid "Production - real payments processed"
+msgstr "Производство - обработаны реальные платежи"
+
+#: addons/paypalpro.addon.php:120
+msgid "SandBox - PayPal testing sandbox area"
+msgstr "SandBox - область песочницы для тестирования PayPal"
+
+#: addons/paypalpro.addon.php:125
+msgid "Default Country"
+msgstr "Страна по умолчанию"
+
+#: addons/paypalpro.addon.php:398
+msgid "The add-on adds support for PayPal Payment Pro payments to accept credit cars directly into the website"
+msgstr "Надстройка добавляет поддержку платежей PayPal Payment Pro для приема кредитных автомобилей прямо на веб-сайт"
+
+#: addons/paypalpro.addon.php:564
+msgid "Credit Card Number"
+msgstr "Номер кредитной карты"
+
+#: addons/paypalpro.addon.php:573
+msgid "CVV Number"
+msgstr "CVV номер"
+
+#: addons/paypalpro.addon.php:586
+msgid "Card Type"
+msgstr "Тип карты"
+
+#: addons/paypalpro.addon.php:595
+msgid "Expiration"
+msgstr "Заканчивается"
+
+#: addons/paypalpro.addon.php:636
+msgid "County"
+msgstr "Страна"
+
+#: addons/paypalpro.addon.php:645
+msgid "Post Code"
+msgstr "Почтовый индекс"
+
+#: addons/paypalpro.addon.php:944 addons/stripe.addon.php:273
+msgid "Pay with Credit Cards"
+msgstr "Оплата кредитной картой"
+
+#: addons/recaptcha.addon.php:31
+msgid "Site Key"
+msgstr "Ключ сайта"
+
+#: addons/recaptcha.addon.php:37 addons/stripe.addon.php:93
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+#: addons/recaptcha.addon.php:65
+msgid "The add-on allows to protect the forms with reCAPTCHA service of Google"
+msgstr "Надстройка позволяет защитить формы с помощью сервиса reCAPTCHA от Google"
+
+#: addons/recaptcha.addon.php:207
+msgid "Captcha verification is missing."
+msgstr "Проверка Captcha отсутствует."
+
+# RevTran=Incorrect CAPTCHA Code. Please try again.
+#: addons/recaptcha.addon.php:223
+msgid "Captcha verification failed. Please try again."
+msgstr "Проверка Captcha не удалась. Пожалуйста, попробуйте еще раз."
+
+#: addons/redsys.addon.php:86
+msgid "Enable TPV?"
+msgstr "Включить TPV?"
+
+#: addons/redsys.addon.php:94
+msgid "Note: If \"Pay Later\" or \"PayPal\" are selected, a radiobutton will appear in the form to select if the payment will be made with RedSys or not."
+msgstr "Примечание. Если выбраны «Оплатить позже» или «PayPal», в форме появится радиокнопка, позволяющая выбрать, будет ли платеж производиться с помощью RedSys или нет."
+
+#: addons/redsys.addon.php:96
+msgid "Label for the \"<strong>Pay with RedSys</strong>\" option"
+msgstr "Ярлык для опции \"<strong> Оплата через RedSys </strong>\""
+
+#: addons/redsys.addon.php:102
+msgid "C&Oacute;DIGO COMERCIO"
+msgstr "C&Oacute;DIGO COMERCIO"
+
+#: addons/redsys.addon.php:106
+msgid "CLAVE SECRETA"
+msgstr "CLAVE SECRETA"
+
+#: addons/redsys.addon.php:110 addons/sagepay.addon.php:118
+msgid "Mode"
+msgstr "Режим"
+
+#: addons/redsys.addon.php:113 addons/sagepay.addon.php:121
+msgid "SandBox - Testing sandbox area"
+msgstr "SandBox - Тестовая область песочницы"
+
+#: addons/redsys.addon.php:141
+msgid "The add-on adds support for RedSys TPV payments"
+msgstr "Дополнение добавляет поддержку платежей RedSys TPV"
+
+#: addons/reminder.addon.php:125
+msgid "The add-on adds support for reminder notifications"
+msgstr "Надстройка добавляет поддержку напоминаний"
+
+#: addons/sagepay.addon.php:97
+msgid "Enable SagePay? (if enabled PayPal Standard is disabled)"
+msgstr "Включить SagePay? (если включен, PayPal Standard отключен)"
+
+#: addons/sagepay.addon.php:108
+msgid "Vendor ID"
+msgstr "ID поставщика"
+
+#: addons/sagepay.addon.php:113
+msgid " SagePay Encrypt Password"
+msgstr " Зашифрованный пароль SagePay"
+
+#: addons/sagepay.addon.php:126
+msgid "SagePay - Currency"
+msgstr "SagePay - Валюта"
+
+#: addons/sagepay.addon.php:150
+msgid "State"
+msgstr "Статус"
+
+#: addons/sagepay.addon.php:181
+msgid "The add-on adds support for SagePay payments"
+msgstr "Дополнение добавляет поддержку платежей SagePay"
+
+#: addons/sagepay.addon.php:283
+msgid "Pay with SagePay"
+msgstr "Платите с помощью SagePay"
+
+#: addons/sagepayments.addon.php:81
+msgid "Enable SagePayments? (if enabled PayPal Standard is disabled)"
+msgstr "Включить шалфейные платежи? (если отключен стандарт PayPal)."
+
+#: addons/sagepayments.addon.php:92
+msgid "Merchant ID (M_id)"
+msgstr "Идентификатор продавца (M_id)"
+
+#: addons/sagepayments.addon.php:102
+msgid "Shipping/Freight:"
+msgstr "Доставка/фрахт:"
+
+#: addons/sagepayments.addon.php:107
+msgid "Tax:"
+msgstr "Налог:"
+
+#: addons/sagepayments.addon.php:111
+msgid "First Name:"
+msgstr "Имя:"
+
+#: addons/sagepayments.addon.php:115
+msgid "Last Name:"
+msgstr "Фамилия:"
+
+#: addons/sagepayments.addon.php:119
+msgid "Address:"
+msgstr "Адрес:"
+
+#: addons/sagepayments.addon.php:123
+msgid "City:"
+msgstr "Город:"
+
+#: addons/sagepayments.addon.php:127
+msgid "State:"
+msgstr "Штат:"
+
+#: addons/sagepayments.addon.php:131
+msgid "ZIP:"
+msgstr "Индекс:"
+
+# RevTran=File details
+#: addons/sagepayments.addon.php:135
+msgid "Email:"
+msgstr "Email:"
+
+#: addons/sagepayments.addon.php:139
+msgid "Telephone:"
+msgstr "Телефон:"
+
+#: addons/sagepayments.addon.php:163
+msgid "The add-on adds support for SagePayments payments"
+msgstr "Дополнение добавляет поддержку платежей SagePayments"
+
+#: addons/sagepayments.addon.php:266
+msgid "Pay with SagePayments"
+msgstr "Платите с помощью SagePayments"
+
+#: addons/salesforce.addon.php:65
+msgid "Organizational ID"
+msgstr "Организационная идентификация"
+
+#: addons/salesforce.addon.php:69
+msgid "Enabling debug"
+msgstr "Включение отладки"
+
+#: addons/salesforce.addon.php:73
+msgid "Debug email"
+msgstr "Отладочная электронная почта"
+
+#: addons/salesforce.addon.php:76
+msgid "Lead Attributes"
+msgstr "Ведущие атрибуты"
+
+#: addons/salesforce.addon.php:184
+msgid "The add-on allows create SalesForce leads with the submitted information"
+msgstr "Надстройка позволяет создавать лиды SalesForce с предоставленной информацией"
+
+#: addons/signature.addon.php:109
+msgid "Signature Settings"
+msgstr "Настройки подписи"
+
+#: addons/signature.addon.php:112
+msgid "Color"
+msgstr "Цвет"
+
+#: addons/signature.addon.php:116
+msgid "Line thickness"
+msgstr "Толщина линии"
+
+#: addons/signature.addon.php:120
+msgid "Show guideline"
+msgstr "Показать руководство"
+
+#: addons/signature.addon.php:124
+msgid "Guideline color"
+msgstr "Основной цвет"
+
+#: addons/signature.addon.php:143 addons/signature.addon.php:222
+msgid "Field name"
+msgstr "Название поля"
+
+#: addons/signature.addon.php:143 addons/signature.addon.php:226
+msgid "Enter the field name to be reaplaced by the signature"
+msgstr "Введите имя поля, которое будет заменено подписью"
+
+#: addons/signature.addon.php:173
+msgid "The add-on allows to replace form fields with \"Signature\" fields"
+msgstr "Дополнение позволяет заменить поля формы на \"Подпись\" поля"
+
+#: addons/skrill.addon.php:67
+msgid "Enable Skrill Payments?"
+msgstr "Включить платежи Skrill?"
+
+#: addons/skrill.addon.php:78
+msgid "Skrill Email"
+msgstr "Skrill Email"
+
+#: addons/skrill.addon.php:113
+msgid "The add-on adds support for Skrill payments"
+msgstr "Дополнение добавляет поддержку платежей Skrill"
+
+#: addons/skrill.addon.php:174
+msgid "Pay with Skrill"
+msgstr "Платите со Skrill"
+
+#: addons/status_update_emails.addon.php:169
+msgid "The add-on allows to define emails to be sent when the booking status is changed from the bookings list"
+msgstr "Надстройка позволяет определить электронные письма, которые будут отправляться при изменении статуса бронирования из списка заказов"
+
+#: addons/stripe.addon.php:78
+msgid "Enable Stripe?"
+msgstr "Включить Stripe?"
+
+#: addons/stripe.addon.php:89
+msgid "click to get the your stripe key"
+msgstr "нажмите, чтобы получить ключ stripe"
+
+#: addons/stripe.addon.php:89
+msgid "Publishable Key"
+msgstr "Публикуемый Ключ"
+
+#: addons/stripe.addon.php:93
+msgid "click to get the your stripe secret key"
+msgstr "нажмите, чтобы получить секретный ключ stripe"
+
+#: addons/stripe.addon.php:97
+msgid "Stripe - Currency"
+msgstr "Stripe - Валюта"
+
+#: addons/stripe.addon.php:101
+msgid "Payment frequency?"
+msgstr "Периодичность платежей?"
+
+#: addons/stripe.addon.php:103
+msgid "One time payment"
+msgstr "Единовременная оплата"
+
+#: addons/stripe.addon.php:104
+msgid "Daily (subcription)"
+msgstr "Ежедневно (подзаголовок)"
+
+#: addons/stripe.addon.php:105
+msgid "Weekly (subscription)"
+msgstr "Еженедельно (подписка)"
+
+#: addons/stripe.addon.php:106
+msgid "Monthly (subscription)"
+msgstr "Ежемесячная (подписка)"
+
+#: addons/stripe.addon.php:107
+msgid "Yearly (subscription)"
+msgstr "Ежегодно (подписка)"
+
+#: addons/stripe.addon.php:112
+msgid "Trial period length in days for subscription payments"
+msgstr "Продолжительность пробного периода в днях для оплаты подписки"
+
+#: addons/stripe.addon.php:116
+msgid "Plan name for subscription payments"
+msgstr "Название плана для оплаты подписки"
+
+#: addons/stripe.addon.php:142
+msgid "The add-on adds support for Stripe payments"
+msgstr "Дополнение добавляет поддержку платежей Stripe"
+
+#: addons/targetpay.ideal.addon.php:63
+msgid "Enable iDeal-TargetPay?"
+msgstr "Включить iDeal-TargetPay?"
+
+#: addons/targetpay.ideal.addon.php:74
+msgid "RTLO Subaccount ID"
+msgstr "Идентификатор субсчета RTLO"
+
+#: addons/targetpay.ideal.addon.php:82
+msgid "Payments Mode"
+msgstr "Платежный режим"
+
+#: addons/targetpay.ideal.addon.php:84
+msgid "Test Mode"
+msgstr "Тестовый режим"
+
+#: addons/targetpay.ideal.addon.php:85
+msgid "Production - Real Payments"
+msgstr "Производство - Реальные платежи"
+
+#: addons/targetpay.ideal.addon.php:109
+msgid "The add-on adds support for iDeal via TargetPay payments"
+msgstr "Надстройка добавляет поддержку iDeal через платежи TargetPay"
+
+#: addons/targetpay.ideal.addon.php:220
+msgid "Pay with iDeal/TargetPay"
+msgstr "Оплата с помощью iDeal / TargetPay"
+
+#: addons/timezoneconversion.addon.php:106
+msgid "The add-on applies the timezone conversion to display the time-slots in the customer timezone"
+msgstr "Надстройка применяет преобразование часового пояса для отображения временных интервалов в часовом поясе клиента"
+
+#: addons/twiliosms.addon.php:124
+msgid "The add-on adds support for Twilio SMS notifications"
+msgstr "Дополнение добавляет поддержку SMS-уведомлений Twilio"
+
+#: addons/uploads.addon.php:32
+msgid "Add the uploaded files to the media library"
+msgstr "Добавьте загруженные файлы в медиатеку"
+
+#: addons/uploads.addon.php:36
+msgid "Add Custom Media Types"
+msgstr "Добавить пользовательские типы мультимедиа"
+
+#: addons/uploads.addon.php:43
+msgid "Adds the files extensions separated by comma: <strong>svg,xml,zip</strong>"
+msgstr "Добавляет расширения файлов через запятую: <strong> svg, xml, zip </strong>"
+
+#: addons/uploads.addon.php:757
+msgid "The add-on allows to add the uploaded files to the Media Library, and the support for new mime types"
+msgstr "Надстройка позволяет добавлять загруженные файлы в медиа-библиотеку, а также поддерживает новые типы mime"
+
+#: addons/webhook.addon.php:67
+msgid "WebHook URL"
+msgstr "URL-адрес веб-перехватчика"
+
+#: addons/webhook.addon.php:119
+msgid "The add-on allows put the submitted information to a webhook URL, and integrate the forms with the Zapier service"
+msgstr "Надстройка позволяет помещать отправленную информацию в URL-адрес веб-перехватчика и интегрировать формы с сервисом Zapier"
+
+#: addons/woocommerce.addon.php:26
+msgid "The add-on allows integrate the forms with WooCommerce products"
+msgstr "Надстройка позволяет интегрировать формы с продуктами WooCommerce"
+
+#: addons/woocommerce.addon.php:235 cp-admin-int-schedule.inc.php:81
+msgid "Data"
+msgstr "Данные"
+
+#: addons/woocommerce.addon.php:370
+msgid "Contact Form to Email"
+msgstr "Контактная форма для электронной почты"
+
+#: addons/woocommerce.addon.php:388
+msgid "Enter the ID of the form"
+msgstr "Введите ID формы"
+
+#: addons/woocommerce.addon.php:396
+msgid "Calculate the product price through the form"
+msgstr "Рассчитайте цену товара через форму"
+
+#: addons/woocommerce.addon.php:404
+msgid "Minimum price allowed (numbers only)"
+msgstr "Минимальная допустимая цена (только цифры)"
+
+#: addons/woocommerce.addon.php:412
+msgid "The summary section is optional. It is possible to use the special tags supported by the notification emails."
+msgstr "Сводный раздел не является обязательным. Можно использовать специальные теги, поддерживаемые электронными уведомлениями."
+
+#: addons/woocommerce.addon.php:417
+msgid "Activate the summary"
+msgstr "Активировать сводку"
+
+#: addons/woocommerce.addon.php:425
+msgid "Summary title"
+msgstr "Резюме заголовок"
+
+#: addons/woocommerce.addon.php:433
+msgid "Summary"
+msgstr "Резюме"
+
+#: controllers/elementor/cp-elementor-widget.inc.php:54
+msgid "CodePeople"
+msgstr "CodePeople"
+
+#: controllers/elementor/elementorwidget_class.inc.php:82 cp-main-class.inc.php:623 cp-main-class.inc.php:625
+msgid "Insert Appointment Hour Booking"
+msgstr "Вставить Appointment Hour Booking"
+
+#: controllers/elementor/elementorwidget_class.inc.php:96
+msgid "Select Form"
+msgstr "Выбрать форму"
+
+#: cp-addons.inc.php:129
+msgid "Appointment Hour Booking - Add Ons"
+msgstr "Appointment Hour Booking - дополнения"
+
+#: cp-addons.inc.php:135 cp-admin-int-add-booking.inc.php:36 cp-admin-int-message-list.inc.php:93 cp-admin-int-message-list.inc.php:201 cp-admin-int-report.inc.php:114
+#: cp-admin-int-report.inc.php:233 cp-admin-int-schedule.inc.php:35 cp-admin-int-schedule.inc.php:103 cp-admin-int.inc.php:69 cp-admin-int.inc.php:774 cp-publish-wizzard.inc.php:35
+msgid "Return to the calendars list"
+msgstr "Вернуться к списку календарей"
+
+#: cp-addons.inc.php:144
+msgid "Active Add Ons"
+msgstr "Активные дополнения"
+
+#: cp-addons.inc.php:161
+msgid "Top"
+msgstr "Верхний"
+
+#: cp-admin-int-add-booking.inc.php:33 cp-admin-int-list.inc.php:221
+msgid "Add Booking"
+msgstr "Добавить бронирование"
+
+#: cp-admin-int-add-booking.inc.php:40
+msgid "This page is for adding bookings from the administration area. The captcha and payment process are disabled in order to allow the website manager easily adding bookings."
+msgstr "Эта страница предназначена для добавления бронирований из области администрирования. Капча и процесс оплаты отключены, чтобы менеджер сайта мог легко добавлять бронирования."
+
+#: cp-admin-int-list.inc.php:92
+msgid "Access verification error. Cannot update settings."
+msgstr "Ошибка проверки доступа. Не удается обновить настройки."
+
+#: cp-admin-int-list.inc.php:96
+msgid "License ID updated"
+msgstr "Идентификатор лицензии обновлен"
+
+#: cp-admin-int-list.inc.php:185
+msgid "New Calendar"
+msgstr "Новый календарь"
+
+#: cp-admin-int-list.inc.php:186
+msgid "Calendar Name"
+msgstr "Название календаря"
+
+#: cp-admin-int-list.inc.php:187
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: cp-admin-int-list.inc.php:192
+msgid "Calendars List"
+msgstr "Список календарей"
+
+#: cp-admin-int-list.inc.php:199 cp-admin-int-message-list.inc.php:148
+msgid "ID"
+msgstr "ID"
+
+#: cp-admin-int-list.inc.php:199
+msgid "Form Name"
+msgstr "Имя формы"
+
+#: cp-admin-int-list.inc.php:199 cp-admin-int-message-list.inc.php:153
+msgid "Options"
+msgstr "Параметры"
+
+#: cp-admin-int-list.inc.php:199
+msgid "Shortcode for Pages and Posts"
+msgstr "Шорткод для страниц и сообщений"
+
+#: cp-admin-int-list.inc.php:215
+msgid "Rename"
+msgstr "Переименовать"
+
+#: cp-admin-int-list.inc.php:216 cp-admin-int.inc.php:58
+msgid "Edit"
+msgstr "Редактировать"
+
+#: cp-admin-int-list.inc.php:217
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: cp-admin-int-list.inc.php:219 cp-admin-int-message-list.inc.php:90
+msgid "Booking Orders"
+msgstr "Заказы на бронирование"
+
+#: cp-admin-int-list.inc.php:220 cp-admin-int-schedule.inc.php:26
+msgid "Schedule"
+msgstr "График"
+
+#: cp-admin-int-list.inc.php:222 cp-admin-int-report.inc.php:111
+msgid "Stats"
+msgstr "Статистика"
+
+#: cp-admin-int-list.inc.php:224
+msgid "Clone"
+msgstr "Клонировать"
+
+#: cp-admin-int-list.inc.php:225
+msgid "Delete"
+msgstr "Удалить"
+
+#: cp-admin-int-list.inc.php:311
+msgid "Plugin License"
+msgstr "Лицензия на плагин"
+
+#: cp-admin-int-list.inc.php:316
+msgid "License ID"
+msgstr "ID лицензии"
+
+#: cp-admin-int-list.inc.php:318
+msgid "Website ID"
+msgstr "ID веб-сайта"
+
+#: cp-admin-int-list.inc.php:321
+msgid "License Status"
+msgstr "Статус лицензии"
+
+#: cp-admin-int-list.inc.php:324
+msgid "Click to display the License Status."
+msgstr "Щелкните, чтобы отобразить состояние лицензии."
+
+#: cp-admin-int-list.inc.php:327
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: cp-admin-int-list.inc.php:333 cp-admin-int.inc.php:781
+msgid "Request Custom Modifications"
+msgstr "Запросить пользовательские изменения"
+
+#: cp-admin-int-list.inc.php:333 cp-admin-int.inc.php:781 cp-main-class.inc.php:568
+msgid "Help"
+msgstr "Помощь"
+
+#: cp-admin-int-message-list.inc.php:25
+msgid "Manually updated"
+msgstr "Обновляется вручную"
+
+#: cp-admin-int-message-list.inc.php:103 cp-admin-int-report.inc.php:126
+msgid "Search for"
+msgstr "Поиск"
+
+#: cp-admin-int-message-list.inc.php:104 cp-admin-int-report.inc.php:127 cp-admin-int-schedule.inc.php:47
+msgid "From"
+msgstr "Из"
+
+#: cp-admin-int-message-list.inc.php:105 cp-admin-int-report.inc.php:128 cp-admin-int-schedule.inc.php:48
+msgid "To"
+msgstr "К"
+
+#: cp-admin-int-message-list.inc.php:106 cp-admin-int-report.inc.php:129 cp-admin-int-schedule.inc.php:54
+msgid "Item"
+msgstr "Элемент"
+
+#: cp-admin-int-message-list.inc.php:107 cp-admin-int-report.inc.php:130 cp-admin-int-schedule.inc.php:55
+msgid "All Items"
+msgstr "Все элементы"
+
+#: cp-admin-int-message-list.inc.php:115 cp-admin-int-report.inc.php:138 cp-admin-int-schedule.inc.php:63
+msgid "Export to CSV"
+msgstr "Экспорт в CSV"
+
+#: cp-admin-int-message-list.inc.php:116 cp-admin-int-report.inc.php:139 cp-admin-int-schedule.inc.php:64
+msgid "Filter"
+msgstr "Фильтр"
+
+#: cp-admin-int-message-list.inc.php:135
+msgid "&laquo; Previous"
+msgstr "&laquo; Предыдущий"
+
+#: cp-admin-int-message-list.inc.php:136
+msgid "Next &raquo;"
+msgstr "Следующий &raquo;"
+
+#: cp-admin-int-message-list.inc.php:149
+msgid "Submission Date"
+msgstr "Дата подачи"
+
+#: cp-admin-int-message-list.inc.php:152 cp-admin-int-schedule.inc.php:49
+msgid "Paid Status"
+msgstr "Платный статус"
+
+#: cp-admin-int-message-list.inc.php:182 cp-admin-int-schedule.inc.php:79
+msgid "Paid"
+msgstr "Оплаченный"
+
+#: cp-admin-int-report.inc.php:148
+msgid "Submissions per day"
+msgstr "Публикаций в день"
+
+#: cp-admin-int-report.inc.php:154
+msgid "Submissions per day in the selected date range."
+msgstr "Отправок в день в выбранном диапазоне дат."
+
+#: cp-admin-int-report.inc.php:154
+msgid "Days from"
+msgstr "Дней от"
+
+#: cp-admin-int-report.inc.php:161
+msgid "Submissions per hour"
+msgstr "Отправок в час"
+
+#: cp-admin-int-report.inc.php:167
+msgid "Total submissions per hour in the selected date range."
+msgstr "Общее количество представлений в час за выбранный диапазон дат."
+
+#: cp-admin-int-report.inc.php:167
+msgid "Hours from 0 to 23"
+msgstr "Часы с 0 до 23"
+
+#: cp-admin-int-report.inc.php:184
+msgid "Select field for the report"
+msgstr "Выберите поле для отчета"
+
+#: cp-admin-int-report.inc.php:197
+msgid "Report of values for"
+msgstr "Отчет о ценностях для"
+
+#: cp-admin-int-report.inc.php:221
+msgid "Number of times that appears each value. Percent in relation to the total of submissions."
+msgstr "Сколько раз встречается каждое значение. Процент по отношению к общему количеству представленных материалов."
+
+#: cp-admin-int-report.inc.php:221
+msgid "Date range from"
+msgstr "Диапазон дат от"
+
+#: cp-admin-int-report.inc.php:221
+msgid "to"
+msgstr "в"
+
+#: cp-admin-int-report.inc.php:232
+msgid "Print Stats"
+msgstr "Статистика печати"
+
+#: cp-admin-int-schedule.inc.php:31
+msgid "Change to Schedule Calendar View"
+msgstr "Перейти к просмотру календаря по расписанию"
+
+#: cp-admin-int-schedule.inc.php:33
+msgid "Change to Schedule List View"
+msgstr "Перейти к просмотру списка расписания"
+
+#: cp-admin-int-schedule.inc.php:50
+msgid "All"
+msgstr "Все"
+
+#: cp-admin-int-schedule.inc.php:51
+msgid "Paid only"
+msgstr "Только платный"
+
+#: cp-admin-int-schedule.inc.php:53 cp-admin-int.inc.php:314
+msgid "Booking Status"
+msgstr "Статус бронирования"
+
+#: cp-admin-int-schedule.inc.php:77
+msgid "Slot"
+msgstr "Слот"
+
+#: cp-admin-int-schedule.inc.php:78
+msgid "Service"
+msgstr "Сервис"
+
+#: cp-admin-int-schedule.inc.php:82
+msgid "Status"
+msgstr "Статус"
+
+#: cp-admin-int-schedule.inc.php:102
+msgid "Print"
+msgstr "Печать"
+
+#: cp-admin-int-schedule.inc.php:112
+msgid "The purpose of this page is to <strong>display the bookings/schedule in a calendar view</strong>. You can add bookings from the public booking form or"
+msgstr "Цель этой страницы- < strong>отобразить заказы/расписание в виде календаря< / strong>. Вы можете добавить заказы из публичной формы бронирования или"
+
+#: cp-admin-int-schedule.inc.php:112
+msgid "add bookings from the dashboard"
+msgstr "добавление заказов из панели"
+
+#: cp-admin-int-schedule.inc.php:112
+msgid "and the bookings will appear in this calendar.<br />For CSV export, print and filter options switch to the \"<strong>List View</strong>\" with the button above this text."
+msgstr "и заказы появятся в этом календаре.<br/>для экспорта CSV параметры печати и фильтрации переключаются в режим \"<strong>List View< / strong>\" с помощью кнопки над этим текстом."
+
+#: cp-admin-int.inc.php:68
+msgid "Save Changes and Return"
+msgstr "Сохраните изменения и вернитесь"
+
+#: cp-admin-int.inc.php:77
+msgid "Editor"
+msgstr "Редактор"
+
+#: cp-admin-int.inc.php:81
+msgid "General Settings"
+msgstr "Общие параметры"
+
+#: cp-admin-int.inc.php:85
+msgid "Notification Emails"
+msgstr "Уведомления по Электронной Почте"
+
+#: cp-admin-int.inc.php:89
+msgid "Antispam"
+msgstr "АнтиСПАМ"
+
+#: cp-admin-int.inc.php:93
+msgid "Reports"
+msgstr "Отчеты"
+
+#: cp-admin-int.inc.php:97
+msgid "Add Ons"
+msgstr "Дополнения"
+
+#: cp-admin-int.inc.php:179
+msgid "Add a Field"
+msgstr "Добавить поле"
+
+#: cp-admin-int.inc.php:180
+msgid "Field Settings"
+msgstr "Параметры поля"
+
+#: cp-admin-int.inc.php:181
+msgid "Form Settings"
+msgstr "Настройки формы"
+
+#: cp-admin-int.inc.php:205
+msgid "Labels and Texts"
+msgstr "Метки и тексты"
+
+#: cp-admin-int.inc.php:208
+msgid "Button Labels"
+msgstr "Ярлыки кнопок"
+
+#: cp-admin-int.inc.php:213
+msgid "Submit button label (text)"
+msgstr "Метка кнопки \"Отправить\" (текст)"
+
+#: cp-admin-int.inc.php:217
+msgid "Page {0} of {0} (text"
+msgstr "Страница {0} из {0} (текст"
+
+#: cp-admin-int.inc.php:223
+msgid "Previous page button label (text)"
+msgstr "Метка кнопки предыдущей страницы (текст)"
+
+#: cp-admin-int.inc.php:226
+msgid "Next page button label (text)"
+msgstr "Метка кнопки следующей страницы (текст)"
+
+#: cp-admin-int.inc.php:237
+msgid "Error messages for validation rules"
+msgstr "Сообщения об ошибках для правил проверки"
+
+#: cp-admin-int.inc.php:242
+msgid "\"is required\" text"
+msgstr "\"обязательный\" текст"
+
+#: cp-admin-int.inc.php:246
+msgid "\"is email\" text"
+msgstr "текст \"это электронная почта\""
+
+#: cp-admin-int.inc.php:252
+msgid "\"is valid captcha\" text"
+msgstr "текст \"допустимая капча\""
+
+#: cp-admin-int.inc.php:255
+msgid "\"is valid date (mm/dd/yyyy)\" text"
+msgstr "текст \"допустимая дата (мм / дд / гггг)\""
+
+#: cp-admin-int.inc.php:259
+msgid "\"is valid date (dd/mm/yyyy)\" text"
+msgstr "текст \"допустимая дата (дд / мм / гггг)\""
+
+#: cp-admin-int.inc.php:263
+msgid "\"is number\" text"
+msgstr "текст \"это номер\""
+
+#: cp-admin-int.inc.php:269
+msgid "\"only digits\" text"
+msgstr "текст \"только цифры\""
+
+#: cp-admin-int.inc.php:273
+msgid "\"under maximum\" text"
+msgstr "текст \"ниже максимума\""
+
+#: cp-admin-int.inc.php:279
+msgid "\"over minimum\" text"
+msgstr "текст \"сверх минимума\""
+
+#: cp-admin-int.inc.php:283
+msgid "\"Max appointments allowed messsage\" text"
+msgstr "Текст «Максимальное количество разрешенных встреч»"
+
+#: cp-admin-int.inc.php:292
+msgid "Next Step - General Settings >"
+msgstr "Следующий шаг - Общие настройки>"
+
+#: cp-admin-int.inc.php:293 cp-admin-int.inc.php:468 cp-admin-int.inc.php:604 cp-admin-int.inc.php:676 cp-admin-int.inc.php:739 cp-admin-int.inc.php:765
+msgid "Save and Publish"
+msgstr "Сохранить и опубликовать"
+
+#: cp-admin-int.inc.php:294 cp-admin-int.inc.php:469 cp-admin-int.inc.php:605 cp-admin-int.inc.php:677 cp-admin-int.inc.php:740 cp-admin-int.inc.php:766
+msgid "Save and Return"
+msgstr "Сохранить и вернуть"
+
+#: cp-admin-int.inc.php:304 cp-admin-int.inc.php:307
+msgid "Confirmation / Thank you page"
+msgstr "Страница подтверждения / благодарности"
+
+#: cp-admin-int.inc.php:309
+msgid "Address / URL of the page where the user will be redirected after submiting the booking form"
+msgstr "Адрес / URL страницы, на которую пользователь будет перенаправлен после отправки формы бронирования"
+
+#: cp-admin-int.inc.php:317
+msgid "Default status of new bookings"
+msgstr "Статус новых бронирований по умолчанию"
+
+#: cp-admin-int.inc.php:319
+msgid "Only \"Approved\" items are taken in account for the availability verification."
+msgstr "Только «Утвержденные» позиции учитываются при проверке доступности."
+
+#: cp-admin-int.inc.php:322
+msgid "Default status of paid bookings"
+msgstr "Статус оплаченных бронирований по умолчанию"
+
+#: cp-admin-int.inc.php:324
+msgid "If a payment add-on is enabled the booking will be changed to this status after the payment."
+msgstr "Если надстройка для оплаты включена, бронирование будет изменено на этот статус после оплаты."
+
+#: cp-admin-int.inc.php:330
+msgid "Global Calendar Settings"
+msgstr "Глобальные настройки календаря"
+
+#: cp-admin-int.inc.php:333
+msgid "Date Format"
+msgstr "Формат даты"
+
+#: cp-admin-int.inc.php:348
+msgid "Calendar Language"
+msgstr "Язык календаря"
+
+#: cp-admin-int.inc.php:431
+msgid "Payment Integration Settings"
+msgstr "Настройки интеграции платежей"
+
+#: cp-admin-int.inc.php:435
+msgid "Product name at payment page"
+msgstr "Название продукта на странице оплаты"
+
+#: cp-admin-int.inc.php:439
+msgid "Label of \"Pay Later\" option (if enabled)"
+msgstr "Ярлык опции «Оплатить позже» (если включен)"
+
+#: cp-admin-int.inc.php:443
+msgid "Note: To enable a payment method enable first the related addon."
+msgstr "Примечание. Чтобы включить способ оплаты, сначала включите соответствующий надстройку."
+
+#: cp-admin-int.inc.php:446
+msgid "Users with access to the messages list"
+msgstr "Пользователи с доступом к списку сообщений"
+
+#: cp-admin-int.inc.php:450
+msgid "Select users with access (CTRL+click for multiple selection)"
+msgstr "Выберите пользователей с доступом (CTRL + щелчок для множественного выбора)"
+
+#: cp-admin-int.inc.php:467
+msgid "Next Step - Notification Emails >"
+msgstr "Следующий шаг - электронные письма с уведомлениями>"
+
+#: cp-admin-int.inc.php:475
+msgid "From / To Email Addresses"
+msgstr "От / до адресов электронной почты"
+
+#: cp-admin-int.inc.php:480
+msgid "Send email \"From\""
+msgstr "Отправить письмо \"От\""
+
+#: cp-admin-int.inc.php:484
+msgid "From fixed email address indicated below - Recommended option"
+msgstr "С фиксированного адреса электронной почты, указанного ниже - Рекомендуемый вариант"
+
+#: cp-admin-int.inc.php:485
+msgid "From the email address indicated by the custome"
+msgstr "С адреса электронной почты, указанного клиентом"
+
+#: cp-admin-int.inc.php:488
+msgid "If you select \"from fixed...\" the customer email address will appear in the \"to\" address when you hit \"reply\", this is the recommended setting to avoid mail server restrictions."
+msgstr ""
+"Если вы выберете «из фиксированного ...», адрес электронной почты клиента появится в поле «Кому», когда вы нажмете «ответить», это рекомендуемая настройка, чтобы избежать ограничений "
+"почтового сервера."
+
+#: cp-admin-int.inc.php:490
+msgid ""
+"If you select \"from customer email\" then the customer email will appear also visually when you receive the email, but this isn't supported by all hosting services, so this\n"
+"                option isn't recommended in most cases."
+msgstr ""
+"Если вы выберете «из электронной почты клиента», электронная почта клиента будет отображаться также визуально, когда вы получите электронное письмо, но это поддерживается не всеми службами "
+"хостинга, поэтому этот\n"
+"                вариант не рекомендуется в большинстве случаев."
+
+#: cp-admin-int.inc.php:496
+msgid "\"From\" email (for fixed \"from\" addresses)"
+msgstr "Электронная почта \"От\" (для фиксированных адресов \"от\")"
+
+#: cp-admin-int.inc.php:500
+msgid "Send email \"To\""
+msgstr "Отправить письмо \"Кому\""
+
+#: cp-admin-int.inc.php:504
+msgid "To the fixed email(s) address(es) indicated below - Recommended option"
+msgstr "На фиксированный адрес (а) электронной почты, указанный ниже - Рекомендуемый вариант"
+
+#: cp-admin-int.inc.php:505
+msgid "To the email address selected in a form field (ex: captcha image enabled is recommended in this case)"
+msgstr "На адрес электронной почты, выбранный в поле формы (например, в этом случае рекомендуется включить изображение капчи)"
+
+#: cp-admin-int.inc.php:508
+msgid "If you select \"To fixed...\" enter the destination emails in the next field. "
+msgstr "Если вы выберете «Исправлено ...», введите адрес электронной почты в следующее поле "
+
+#: cp-admin-int.inc.php:510
+msgid ""
+"If you select \"To email ...in form field\" then add a field like a drop-down, radio-button or checkbox that contains the email address in the field value (not needed in the field text but in "
+"the internal value)."
+msgstr ""
+"Если вы выберете «Отправить по электронной почте ... в поле формы», добавьте поле, например раскрывающееся меню, переключатель или флажок, которое содержит адрес электронной почты в значении "
+"поля (не требуется в тексте поля, но во внутреннем значении)."
+
+#: cp-admin-int.inc.php:515
+msgid "Destination emails (comma separated)"
+msgstr "Адрес электронной почты (через запятую)"
+
+#: cp-admin-int.inc.php:519
+msgid "Field that cotains the destination email(s)"
+msgstr "Поле, которое содержит адрес электронной почты назначения"
+
+#: cp-admin-int.inc.php:528
+msgid "Email Notification to Website Administrator"
+msgstr "Уведомление по электронной почте администратору веб-сайта"
+
+#: cp-admin-int.inc.php:533 cp-admin-int.inc.php:582 cp-admin-int.inc.php:717 cp-settings.inc.php:160
+msgid "Email subject"
+msgstr "Тема письма"
+
+#: cp-admin-int.inc.php:537
+msgid "Include additional information?"
+msgstr "Включить дополнительную информацию?"
+
+#: cp-admin-int.inc.php:548 cp-admin-int.inc.php:586 cp-admin-int.inc.php:721 cp-settings.inc.php:164
+msgid "Email format?"
+msgstr "Формат электронной почты?"
+
+#: cp-admin-int.inc.php:552 cp-admin-int.inc.php:590 cp-admin-int.inc.php:725 cp-settings.inc.php:168
+msgid "Plain Text (default)"
+msgstr "Обычный текст (по умолчанию)"
+
+#: cp-admin-int.inc.php:553 cp-admin-int.inc.php:591 cp-admin-int.inc.php:726 cp-settings.inc.php:169
+msgid "HTML (use html in the textarea below)"
+msgstr "HTML (используйте html в текстовом поле ниже)"
+
+#: cp-admin-int.inc.php:564
+msgid "Email Copy to the User / Customer"
+msgstr "Электронная копия для пользователя / клиента"
+
+#: cp-admin-int.inc.php:568
+msgid "Send confirmation/thank you message to user?"
+msgstr "Отправить сообщение с подтверждение пользователю?"
+
+#: cp-admin-int.inc.php:578
+msgid "Email field on the form"
+msgstr "Поле электронной почты на форме"
+
+#: cp-admin-int.inc.php:603
+msgid "Next Step - Antispam >"
+msgstr "Следующий шаг - Антиспам>"
+
+#: cp-admin-int.inc.php:612
+msgid "Captcha Verification"
+msgstr "Проверка Captcha"
+
+#: cp-admin-int.inc.php:616
+msgid "Use Captcha Verification?"
+msgstr "Использовать проверку Captcha?"
+
+#: cp-admin-int.inc.php:627
+msgid "Width"
+msgstr "Ширина"
+
+#: cp-admin-int.inc.php:629
+msgid "Height"
+msgstr "Высота"
+
+#: cp-admin-int.inc.php:631
+msgid "Chars"
+msgstr "Символов"
+
+#: cp-admin-int.inc.php:636
+msgid "Min font size"
+msgstr "Мин. размер шрифта"
+
+#: cp-admin-int.inc.php:638
+msgid "Max font size"
+msgstr "Макс. размер шрифта"
+
+#: cp-admin-int.inc.php:641
+msgid "Preview"
+msgstr "Просмотр"
+
+#: cp-admin-int.inc.php:649
+msgid "Noise"
+msgstr "Шум"
+
+#: cp-admin-int.inc.php:651
+msgid "Noise Length"
+msgstr "Продолжительность Шума"
+
+#: cp-admin-int.inc.php:657
+msgid "Background"
+msgstr "Фон"
+
+#: cp-admin-int.inc.php:659
+msgid "Border"
+msgstr "Граница"
+
+#: cp-admin-int.inc.php:661
+msgid "Font"
+msgstr "Шрифт"
+
+#: cp-admin-int.inc.php:675
+msgid "Next Step - Reports >"
+msgstr "Следующий шаг - Отчеты>"
+
+#: cp-admin-int.inc.php:683
+msgid "Automatic Reports: Send submissions in CSV format via email"
+msgstr "Автоматические отчеты: отправляйте материалы в формате CSV по электронной почте"
+
+#: cp-admin-int.inc.php:687 cp-settings.inc.php:133
+msgid "Enable Reports?"
+msgstr "Включить отчеты?"
+
+#: cp-admin-int.inc.php:697 cp-settings.inc.php:140
+msgid "Send report every"
+msgstr "Отправлять отчет каждые"
+
+#: cp-admin-int.inc.php:698
+msgid "days (Put a 0 to send the report immediately after each submission)"
+msgstr "дней (поставьте 0, чтобы отчет отправлялся сразу после каждого представления)"
+
+#: cp-admin-int.inc.php:701
+msgid "Send report after this hour (server time)"
+msgstr "Отправить отчет после этого часа (время сервера)"
+
+#: cp-admin-int.inc.php:713
+msgid "Send the report to the following email addresses (comma separated)"
+msgstr "Отправьте отчет на следующие адреса электронной почты (через запятую)"
+
+#: cp-admin-int.inc.php:731
+msgid "Email Text (CSV file will be attached with the submissions)"
+msgstr "Текст электронной почты (файл CSV будет прикреплен к отправленным материалам)"
+
+#: cp-admin-int.inc.php:738
+msgid "Next Step - Add Ons >"
+msgstr "Следующий шаг - Дополнения >"
+
+#: cp-admin-int.inc.php:751
+msgid "<h2>Add-Ons Settings:</h2><hr />"
+msgstr "<h2> Настройки Дополнений: </h2> <hr />"
+
+#: cp-admin-int.inc.php:757
+msgid "You can optionally"
+msgstr "Вы можете по желанию"
+
+#: cp-admin-int.inc.php:757
+msgid "activate add ons in the add ons section"
+msgstr "активировать дополнения в разделе дополнений"
+
+#: cp-admin-int.inc.php:758
+msgid "The add ons can be enabled to add new features."
+msgstr "Надстройки могут быть включены для добавления новых функций."
+
+#: cp-admin-int.inc.php:759
+msgid "If you don't want to enable add ons now then <strong>continue saving these settings and publishing the booking form</strong>."
+msgstr "Если вы не хотите включать надстройки сейчас, <strong> продолжайте сохранять эти настройки и публиковать форму бронирования </strong>."
+
+#: cp-admin-int.inc.php:781
+msgid "Free Support"
+msgstr "Бесплатная поддержка"
+
+#: cp-main-class.inc.php:199
+msgid "[All]"
+msgstr "[Все]"
+
+#: cp-main-class.inc.php:409
+msgid "Cancel"
+msgstr "отмена"
+
+#: cp-main-class.inc.php:410
+msgid "Cost"
+msgstr "Стоимость"
+
+#: cp-main-class.inc.php:564
+msgid "Request custom changes"
+msgstr "Запросить индивидуальные изменения"
+
+#: cp-main-class.inc.php:566
+msgid "Settings"
+msgstr "Настройки"
+
+#: cp-main-class.inc.php:623 cp-main-class.inc.php:625
+msgid "Insert  Appointment Hour Booking"
+msgstr "Вставить запись на прием"
+
+# RevTran=Security Code*:
+#: cp-public-int.inc.php:27
+msgid "Security Code"
+msgstr "Код безопасности"
+
+#: cp-publish-wizzard.inc.php:3
+msgid "Publish Appointment Hour Booking Form"
+msgstr "Опубликовать форму записи на прием"
+
+#: cp-publish-wizzard.inc.php:48
+msgid "Great! Form successfully published"
+msgstr "Отлично! Форма успешно опубликована"
+
+#: cp-publish-wizzard.inc.php:49
+msgid "The booking form was placed into the page"
+msgstr "Форма бронирования размещена на странице"
+
+#: cp-publish-wizzard.inc.php:50
+msgid "Now you can:"
+msgstr "Теперь вы можете:"
+
+#: cp-publish-wizzard.inc.php:52
+msgid "View the Published Booking Form"
+msgstr "Посмотреть опубликованную форму бронирования"
+
+#: cp-publish-wizzard.inc.php:54
+msgid "Note: If the calendar was published in a new page or post it will be a 'draft', you have to publish the page/post in the future if needed."
+msgstr "Примечание. Если календарь был опубликован на новой странице или в публикации, это будет «черновик», при необходимости вы должны опубликовать страницу / публикацию в будущем."
+
+#: cp-publish-wizzard.inc.php:56
+msgid "Edit the booking form settings and calendar availability"
+msgstr "Изменить настройки формы бронирования и доступность календаря"
+
+#: cp-publish-wizzard.inc.php:70
+msgid "Select calendar"
+msgstr "Выберите календарь"
+
+#: cp-publish-wizzard.inc.php:82
+msgid "Where to publish it?"
+msgstr "Где это опубликовать?"
+
+#: cp-publish-wizzard.inc.php:85
+msgid "Into a new page"
+msgstr "На новую страницу"
+
+#: cp-publish-wizzard.inc.php:86
+msgid "Into a new post"
+msgstr "В новый пост"
+
+#: cp-publish-wizzard.inc.php:87
+msgid "Into an existent page"
+msgstr "На существующую страницу"
+
+#: cp-publish-wizzard.inc.php:88
+msgid "Into an existent post"
+msgstr "В существующий пост"
+
+#: cp-publish-wizzard.inc.php:89
+msgid "Widget in a sidebar, header or footer"
+msgstr "Виджет на боковой панели, в верхнем или нижнем колонтитуле"
+
+#: cp-publish-wizzard.inc.php:94
+msgid "Page/Post Title"
+msgstr "Заголовок страницы / сообщения"
+
+#: cp-publish-wizzard.inc.php:103
+msgid "Classic way? Just copy and paste the following shortcode into the page/post:"
+msgstr "Классический способ? Просто скопируйте и вставьте следующий шорткод на страницу / сообщение:"
+
+#: cp-publish-wizzard.inc.php:111
+msgid "Using Elementor?"
+msgstr "Используете Elementor?"
+
+#: cp-publish-wizzard.inc.php:117
+msgid "Using New WordPress Editor (Gutemberg)?"
+msgstr "Используете новый редактор WordPress (Гутемберг)?"
+
+#: cp-publish-wizzard.inc.php:122
+msgid "Using classic WordPress editor or other editors?"
+msgstr "Используете классический редактор WordPress или другие редакторы?"
+
+#: cp-publish-wizzard.inc.php:124 cp-publish-wizzard.inc.php:207
+msgid "You can also publish the form in a post/page, use the dedicated icon"
+msgstr "Вы также можете опубликовать форму в сообщении / на странице, используя специальный значок"
+
+#: cp-publish-wizzard.inc.php:124 cp-publish-wizzard.inc.php:207
+msgid "Insert "
+msgstr "Вставить "
+
+#: cp-publish-wizzard.inc.php:125
+msgid "which has been added to your Upload/Insert Menu, just below the title of your Post/Page"
+msgstr "который был добавлен в ваше меню загрузки / вставки, чуть ниже заголовка вашего сообщения / страницы"
+
+#: cp-publish-wizzard.inc.php:142
+msgid "Select post"
+msgstr "Выберите сообщение"
+
+#: cp-publish-wizzard.inc.php:161
+msgid "Publish Calendar"
+msgstr "Опубликовать календарь"
+
+#: cp-publish-wizzard.inc.php:205
+msgid "Note"
+msgstr "Заметка"
+
+#: cp-publish-wizzard.inc.php:208
+msgid "which has been added to your Upload/Insert Menu, just below the title of your Post/Page or under the \"+\" icon if using the Gutemberg editor."
+msgstr "который был добавлен в ваше меню загрузки / вставки, сразу под заголовком вашего сообщения / страницы или под значком «+», если вы используете редактор Gutemberg."
+
+#: cp-settings.inc.php:112
+msgid "Appointment Hour Booking - General Settings"
+msgstr "Запись на прием - Общие настройки"
+
+#: cp-settings.inc.php:118
+msgid "Email Report Settings"
+msgstr "Настройки отчета по электронной почте"
+
+#: cp-settings.inc.php:119 cp-settings.inc.php:187
+msgid "Troubleshoot Area"
+msgstr "Область устранения неполадок"
+
+#: cp-settings.inc.php:120 cp-settings.inc.php:227
+msgid "Edit Styles"
+msgstr "Редактировать стили"
+
+#: cp-settings.inc.php:121 cp-settings.inc.php:317
+msgid "Edit Scripts"
+msgstr "Редактировать скрипты"
+
+#: cp-settings.inc.php:126
+msgid "Automatic Email Reports"
+msgstr "Автоматические отчеты по электронной почте"
+
+#: cp-settings.inc.php:127
+msgid "Automatic email reports for <b>ALL forms</b>: Send submissions in CSV format via email."
+msgstr "Автоматические отчеты по электронной почте для <b> ВСЕХ форм </b>: отправляйте материалы в формате CSV по электронной почте."
+
+#: cp-settings.inc.php:140
+msgid "days"
+msgstr "дней"
+
+#: cp-settings.inc.php:142
+msgid "Send after this hour (server time)"
+msgstr "Отправить после этого часа (время сервера)"
+
+#: cp-settings.inc.php:152
+msgid "Send email from"
+msgstr "Отправить письмо от"
+
+#: cp-settings.inc.php:156
+msgid "Send to email(s)"
+msgstr "Отправить на электронную почту"
+
+#: cp-settings.inc.php:174
+msgid "Email Text (CSV file will be attached"
+msgstr "Текст сообщения электронной почты (будет прикреплен файл CSV"
+
+#: cp-settings.inc.php:181
+msgid "Note: For setting up a report only for a specific form use the setting area available for that when editing each form settings"
+msgstr "Примечание. Для настройки отчета только для определенной формы используйте область настроек, доступную для этого при редактировании настроек каждой формы"
+
+#: cp-settings.inc.php:188
+msgid "Important!"
+msgstr "Важно!"
+
+#: cp-settings.inc.php:188
+msgid "Use this area only if you are experiencing conflicts with third party plugins, with the theme scripts or with the character encoding."
+msgstr "Используйте эту область, только если у вас возникли конфликты со сторонними плагинами, скриптами темы или кодировкой символов."
+
+#: cp-settings.inc.php:196
+msgid "Script load method"
+msgstr "Метод загрузки скрипта"
+
+#: cp-settings.inc.php:200
+msgid "Classic (Recommended)"
+msgstr "Классический (рекомендуется)"
+
+#: cp-settings.inc.php:201
+msgid "Direct"
+msgstr "Прямой"
+
+#: cp-settings.inc.php:203
+msgid "Change the script load method if the form doesn't appear in the public website."
+msgstr "Измените метод загрузки скрипта, если форма не отображается на общедоступном веб-сайте."
+
+#: cp-settings.inc.php:208
+msgid "Character encoding"
+msgstr "Кодировка символов"
+
+#: cp-settings.inc.php:212
+msgid "Keep current charset (Recommended)"
+msgstr "Сохранить текущую кодировку (рекомендуется"
+
+#: cp-settings.inc.php:213
+msgid "try this first"
+msgstr "попробуй сначала"
+
+#: cp-settings.inc.php:216
+msgid "Update the charset if you are getting problems displaying special/non-latin characters. After updated you need to edit the special characters again."
+msgstr "Обновите кодировку, если у вас возникают проблемы с отображением специальных / нелатинских символов. После обновления вам нужно снова отредактировать специальные символы."
+
+#: cp-settings.inc.php:228
+msgid "Use this area to add custom CSS styles. These styles will be keep safe even after updating the plugin."
+msgstr "Используйте эту область для добавления пользовательских стилей CSS. Эти стили будут сохранены даже после обновления плагина."
+
+#: cp-settings.inc.php:229
+msgid "For commonly used CSS styles please check the following FAQ section:"
+msgstr "Чтобы узнать о наиболее часто используемых стилях CSS, посетите следующий раздел часто задаваемых вопросов:"
+
+#: cp-settings.inc.php:245
+msgid "Sample Styles:"
+msgstr "Образцы стилей:"
+
+#: cp-settings.inc.php:251
+msgid "Make the calendar 100% width / responsive:"
+msgstr "Сделайте календарь на 100% шириной / адаптивным:"
+
+#: cp-settings.inc.php:260
+msgid "Make the send button in a hover format:"
+msgstr "Сделайте кнопку отправки в формате наведения:"
+
+#: cp-settings.inc.php:272
+msgid "Change the color of all form field labels:"
+msgstr "Измените цвет всех меток полей формы:"
+
+#: cp-settings.inc.php:281
+msgid "Change color of fonts into all fields:"
+msgstr "Измените цвет шрифтов во всех полях:"
+
+#: cp-settings.inc.php:294
+msgid "Change the calendar header color:"
+msgstr "Измените цвет заголовка календаря:"
+
+#: cp-settings.inc.php:303
+msgid "Other styles:"
+msgstr "Другие стили:"
+
+#: cp-settings.inc.php:306
+msgid "For other styles check the design section in the FAQ:"
+msgstr "Для других стилей проверьте раздел дизайна в FAQ:"
+
+#: cp-settings.inc.php:318
+msgid "Use this area to add custom custom scripts. These scripts will be keep safe even after updating the plugin."
+msgstr "Используйте эту область для добавления пользовательских сценариев. Эти скрипты будут в безопасности даже после обновления плагина."
+
+#: cp_admin_int_edition.inc.php:24
+msgid "Customization"
+msgstr "Настройка"
+
+#: cp_admin_int_edition.inc.php:24
+msgid "Edit Page"
+msgstr "Отредактировать страницу"
+
+# RevTran=This field is required
+msgid "This field is required."
+msgstr "Это поле является обязательным."
+
+msgid "Please enter a valid email address."
+msgstr "Введите действительный адрес электронной почты."
+
+# RevTran=Please enter the captcha.
+msgid "Please enter a valid captcha code."
+msgstr "Пожалуйста, введите капчу."
+
+# RevTran=Please enter the date in this format (mm \\/dd \\/yyyy)
+msgid "Please enter a valid date with this format(mm/dd/yyyy)"
+msgstr "Пожалуйста, введите даты в этом формате (мм/дд/гггг)"
+
+# RevTran=Please enter the date in this format (dd \\/mm \\/yyyy)
+msgid "Please enter a valid date with this format(dd/mm/yyyy)"
+msgstr "Пожалуйста, введите даты в этом формате (дд/мм/гггг)"
+
+# RevTran=Please enter a valid account number.
+msgid "Please enter a valid number."
+msgstr "Пожалуйста, введите действительный номер счета."
+
+# RevTran=Please enter only numbers.
+msgid "Please enter only digits."
+msgstr "Пожалуйста, введите только цифры."
+
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Пожалуйста, введите значение меньше или равное {0}."
+
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Пожалуйста, введите значение, большее или равное {0}."
+
+msgid "Quantity"
+msgstr "Количество"
+
+msgid "Please enter no more than {0} characters."
+msgstr "Пожалуйста, введите не более {0} символов."
+
+msgid "Please enter at least {0} characters."
+msgstr "Введите не менее {0} символов."
+
+msgid "No more slots available."
+msgstr "Слотов больше нет."
+
+msgid "Selected time is no longer available. Please select a different time."
+msgstr "Выбранное время больше не доступно. Пожалуйста, выберите другое время."
+
+msgid "Cancelled"
+msgstr "Отменен"
+
+msgid "Cancelled by customer"
+msgstr "Отменено клиентом"
+
+msgid "Rejected"
+msgstr "Отклоненный"
+
+msgid "Attended"
+msgstr "Посещенный"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Administrator options"
+msgstr "Опции администратора"
+
+msgid "Send notification emails for this booking"
+msgstr "Отправить уведомления по электронной почте для этого бронирования"
+
+msgid "No appointments found with the selected filters"
+msgstr "Встреч с выбранными фильтрами не найдено"
+
+msgid "Discount code"
+msgstr "Код скидки"
+
+msgid "Please upload a valid file type"
+msgstr "Пожалуйста, загрузите действительный тип файла"
+
+msgid "Every"
+msgstr "Каждый"
+
+msgid "Weekly on weekdays"
+msgstr "Еженедельно по будням"
+
+msgid "Weekly on Monday, Wednesday, Friday"
+msgstr "Еженедельно в понедельник, среду, пятницу"
+
+msgid "Weekly on Tuesday, Thursday"
+msgstr "Еженедельно во вторник, четверг"
+
+msgid "weeks"
+msgstr "недель"
+
+msgid "on day"
+msgstr "в день"
+
+msgid "on the"
+msgstr "на"
+
+msgid "months"
+msgstr "месяцы"
+
+msgid "on"
+msgstr "на"
+
+msgid "Annually"
+msgstr "Ежегодно"
+
+msgid "years"
+msgstr "лет"
+
+msgid "Once"
+msgstr "Один раз"
+
+msgid "until"
+msgstr "до того как"
+
+msgid "and repeated on"
+msgstr "и повторяется на"
+
+msgid "Starts on"
+msgstr "Начинается"
+
+msgid "Ends after a number of occurrences"
+msgstr "Заканчивается после нескольких повторов"
+
+msgid "day of the week"
+msgstr "день недели"
+
+msgid "day of the month"
+msgstr "день месяца"
+
+msgid "Repeat by"
+msgstr "Повторить по"
+
+msgid "Repeat on"
+msgstr "Повторить на"
+
+msgid "Repeat every"
+msgstr "Повторить каждый"
+
+msgid "Repeats"
+msgstr "Повторов"
+
+msgid "Every weekday (Monday to Friday)"
+msgstr "Каждый будний день (с понедельника по пятницу)"
+
+msgid "Every Monday, Wednesday, and Friday"
+msgstr "Каждый понедельник, среду и пятницу"
+
+msgid "Every Tuesday, and Thursday"
+msgstr "Каждый вторник и четверг"
+
+msgid "Add available slots"
+msgstr "Добавить доступные слоты"
+
+msgid "Jan"
+msgstr "Янв"
+
+msgid "Feb"
+msgstr "Фев"
+
+msgid "Mar"
+msgstr "Мар"
+
+msgid "Apr"
+msgstr "Апр"
+
+msgid "May"
+msgstr "Май"
+
+msgid "Jun"
+msgstr "Июн"
+
+msgid "Jul"
+msgstr "Июл"
+
+msgid "Aug"
+msgstr "Авг"
+
+msgid "Sep"
+msgstr "Сен"
+
+msgid "Oct"
+msgstr "Окт"
+
+msgid "Nov"
+msgstr "Ноя"
+
+msgid "Dec"
+msgstr "Дек"
+
+msgid "first"
+msgstr "первый"
+
+msgid "second"
+msgstr "вротой"
+
+msgid "third"
+msgstr "третий"
+
+msgid "fourth"
+msgstr "четвертый"
+
+msgid "last"
+msgstr "последний"
+
+msgid "Repeat"
+msgstr "Повторить"
+
+msgid "times"
+msgstr "раз"
+
+msgid "after"
+msgstr "после"
+
+msgid "Ends"
+msgstr "Концы"
+
+msgid "occurrences"
+msgstr "случаи"
+
+msgid "or"
+msgstr "или"
+
+msgid "SU"
+msgstr "ВС"
+
+msgid "MO"
+msgstr "ПН"
+
+msgid "TU"
+msgstr "ВТ"
+
+msgid "WE"
+msgstr "СР"
+
+msgid "TH"
+msgstr "ЧТ"
+
+msgid "FR"
+msgstr "ПТ"
+
+msgid "SA"
+msgstr "СБ"
+
+msgid "Online Demo"
+msgstr "Онлайн демо"
+
+msgid "I Need Help"
+msgstr "Мне нужна помощь"
+
+msgid "Upgrade Plugin"
+msgstr "Улучшить плагин"
+
+msgid "Block Times"
+msgstr ""
+
+msgid "This page is for <strong>blocking some of the available times</strong>. For services with multiple capacity be sure to select the \"quantity\" to be blocked."
+msgstr ""
+
+msgid "If you want to block complete dates please use instead the <a href=\"https://apphourbooking.dwbooster.com/customdownloads/invalid-dates.png\" target=\"_blank\">invalid dates feature</a>."
+msgstr ""
+
+msgid "Block selected dates"
+msgstr ""
+
+msgid "CSV Settings"
+msgstr ""
+
+msgid "CSV Settings Area"
+msgstr ""
+
+msgid "Exclude fields from \"Booking Orders\" CSV export"
+msgstr ""
+
+msgid "Exclude fields from \"Schedule List View\" CSV export"
+msgstr ""
+
+msgid "Update Changes"
+msgstr ""
+
+msgid "Enter field names comma separated, example: <b>final_price,referrer,fieldname1,fieldname2<b>"
+msgstr ""
+
+msgid "Enter field names comma separated, example: <b>paid,cancelled<b>"
+msgstr ""
+
+msgid "Update Report Settings"
+msgstr ""
+
+msgid "BLOCKED BY ADMIN"
+msgstr ""

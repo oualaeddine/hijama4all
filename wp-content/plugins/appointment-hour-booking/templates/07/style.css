@@ -1,0 +1,28 @@
+.ahb_m #fbuilder .ui-datepicker table, .ahb_m #fbuilder .ui-datepicker thead, .ahb_m #fbuilder .ui-datepicker tr, .ahb_m #fbuilder .ui-datepicker th, .ahb_m #fbuilder .ui-datepicker td {border: 0px;}
+.ahb_m #fbuilder .ui-datepicker{box-shadow:none;font:inherit}
+.ahb_m #fbuilder .ui-datepicker-header{background:none;padding:0px}
+.ahb_m #fbuilder .ui-datepicker-header{text-shadow:none;color:inherit}
+.ahb_m #fbuilder .ui-datepicker-calendar .ui-state-default{background:none;box-shadow: none;}
+.ahb_m #fbuilder .ui-datepicker-calendar .ui-state-active{box-shadow:none;text-shadow:none;color:#2271b3;border:0px solid}
+.ahb_m #fbuilder .ui-datepicker thead{background:none}
+
+.ahb_m #fbuilder .dfield.fapp{display: flex;flex-wrap: wrap;}
+.ahb_m #fbuilder .fieldCalendarService,.ahb_m #fbuilder .usedSlots ,.ahb_m #fbuilder .usedSlots,.ahb_m #fbuilder .totalCost{width: 100%;}  
+.ahb_m #fbuilder .fieldCalendar,#fbuilder .slotsCalendar{
+    width: auto;
+    display: inline-flex;
+    flex: 1;
+    
+}
+@media (max-width: 767px) {
+ .ahb_m #fbuilder .dfield.fapp{display: block}
+ .ahb_m #fbuilder .slots{margin:0px;padding:0px}
+
+.ahb_m #fbuilder .ui-datepicker-header{padding:0px 3%}
+}
+.ahb_m #fbuilder .ui-datepicker-inline{max-width:calc(97%);}   
+.ahb_m #fbuilder .slots{border:0px;box-shadow:none;}	
+
+.ahb_m #fbuilder .ui-datepicker-next,.ahb_m #fbuilder .ui-datepicker-prev {display: inline-block;width: 10px;height: 10px;border-top: 2px solid #000;border-right: 2px solid #000;background:none;margin:10px;}
+.ahb_m #fbuilder .ui-datepicker-next {transform: rotate(45deg);}
+.ahb_m #fbuilder .ui-datepicker-prev {transform: rotate(-135deg);}
